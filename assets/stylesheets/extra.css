@@ -1,0 +1,19 @@
+.md-sidebar--primary,
+.md-sidebar--secondary {
+  display: none;
+}
+
+.md-main__inner {
+  grid-template-columns: 0 1fr;
+}
+
+[data-md-color-scheme="default"] .bd-logo--dark,
+[data-md-color-scheme="slate"] .bd-logo--light {
+  display: none;
+}
+
+.bd-logo {
+  height: 2rem;
+  width: auto;
+  display: block;
+}
