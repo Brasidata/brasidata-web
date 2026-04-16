@@ -43,7 +43,6 @@ plugins:
   - search
   - macros
   - i18n:
-      default_language: en
       docs_structure: folder
       fallback_to_default: true
       languages:
