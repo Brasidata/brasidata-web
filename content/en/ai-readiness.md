@@ -2,7 +2,7 @@
 
 AI only works when the underlying data is reliable, well-defined, and governed. Brasidata helps construction teams build the foundation to deploy AI with confidence.
 
-## AI Readiness Checklist
+## AI readiness checklist
 
 - Critical domains are identified (projects, costs, schedule, resources, procurement, assets)
 - Data owners and accountability are defined
@@ -11,7 +11,7 @@ AI only works when the underlying data is reliable, well-defined, and governed. 
 - Access, security, and compliance rules are explicit
 - AI use cases are prioritized by business value and feasibility
 
-## What Brasidata Delivers
+## What Brasidata delivers
 
 - Practical gap analysis and prioritized actions
 - Governance guardrails for AI pilots

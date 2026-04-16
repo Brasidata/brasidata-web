@@ -11,6 +11,7 @@ If you want to improve data trust, reduce rework, and prepare your organization 
 ## Next step
 
 Send a short message with:
+
 - Your company type (contractor, developer, engineering, etc.)
 - Your main pain point (quality, reporting, integration, AI)
 - The tools involved (ERP, BIM, scheduling, spreadsheets, etc.)

@@ -1,0 +1,29 @@
+{% set light_favicon = "assets/images/logo-light.png" %}
+{% set dark_favicon = "assets/images/favicon-dark.png" %}
+
+<link rel="icon" href="{{ light_favicon | url }}" id="bd-favicon" />
+<script>
+  (function () {
+    var lightHref = "{{ light_favicon | url }}";
+    var darkHref = "{{ dark_favicon | url }}";
+
+    function applyFavicon() {
+      var scheme = document.body.getAttribute("data-md-color-scheme");
+      var href = scheme === "slate" ? darkHref : lightHref;
+      var link = document.getElementById("bd-favicon");
+      if (!link) return;
+      if (link.getAttribute("href") !== href) link.setAttribute("href", href);
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", applyFavicon);
+    } else {
+      applyFavicon();
+    }
+
+    new MutationObserver(applyFavicon).observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ["data-md-color-scheme"],
+    });
+  })();
+</script>

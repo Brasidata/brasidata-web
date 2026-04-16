@@ -2,7 +2,7 @@
 
 Choose targeted support or a phased program. Brasidata focuses on practical governance that improves day-to-day decisions and enables AI safely.
 
-## Data Governance Assessment
+## Data governance assessment
 
 - Current-state maturity scoring
 - Data quality and process review
@@ -10,7 +10,7 @@ Choose targeted support or a phased program. Brasidata focuses on practical gove
 
 **Deliverable:** assessment report with prioritized recommendations.
 
-## Strategy & Roadmap
+## Strategy & roadmap
 
 - Governance operating model (roles, councils, workflows)
 - Policy and standard definition
@@ -18,7 +18,7 @@ Choose targeted support or a phased program. Brasidata focuses on practical gove
 
 **Deliverable:** executable roadmap with milestones and owners.
 
-## Data & Metadata Modeling
+## Data & metadata modeling
 
 - Canonical domains and entities for construction data
 - Business glossary and metric definitions
@@ -26,7 +26,7 @@ Choose targeted support or a phased program. Brasidata focuses on practical gove
 
 **Deliverable:** reference data model + governance artifacts.
 
-## Data Quality Framework
+## Data quality framework
 
 - Quality rules and controls by domain
 - Monitoring metrics and alerts
@@ -34,7 +34,7 @@ Choose targeted support or a phased program. Brasidata focuses on practical gove
 
 **Deliverable:** quality rule catalog + operational dashboard approach.
 
-## AI Readiness Program
+## AI readiness program
 
 - Use-case identification and prioritization
 - Data requirements and guardrails
