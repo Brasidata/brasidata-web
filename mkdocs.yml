@@ -67,9 +67,9 @@ extra:
 
 nav:
   - Home: README.md
-  - Solutions: README.md#solutions
-  - Services: README.md#services
-  - AI Readiness: README.md#ai-readiness
-  - FAQ: README.md#faq
-  - About: README.md#about
-  - Contact: README.md#contact
+  - Solutions: solutions.md
+  - Services: services.md
+  - AI Readiness: ai-readiness.md
+  - FAQ: faq.md
+  - About: about.md
+  - Contact: contact.md
