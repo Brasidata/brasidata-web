@@ -8,7 +8,9 @@
     var darkHref = "{{ dark_favicon | url }}";
 
     function applyFavicon() {
-      var scheme = document.body.getAttribute("data-md-color-scheme");
+      var scheme =
+        document.documentElement.getAttribute("data-md-color-scheme") ||
+        document.body.getAttribute("data-md-color-scheme");
       var href = scheme === "slate" ? darkHref : lightHref;
       var link = document.getElementById("bd-favicon");
       if (!link) return;
@@ -21,7 +23,12 @@
       applyFavicon();
     }
 
-    new MutationObserver(applyFavicon).observe(document.documentElement, {
+    var observer = new MutationObserver(applyFavicon);
+    observer.observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ["data-md-color-scheme"],
+    });
+    observer.observe(document.body, {
       attributes: true,
       attributeFilter: ["data-md-color-scheme"],
     });
