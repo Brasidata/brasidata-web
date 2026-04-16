@@ -1,0 +1,75 @@
+site_name: Brasidata
+site_description: Data governance for construction companies and AI-ready operations
+site_author: Elias M. P. Junior
+site_url: https://brasidata.com/
+
+docs_dir: .
+site_dir: ../site
+
+theme:
+  name: material
+  language: en
+  font:
+    text: Poppins
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      primary: green
+      accent: lime
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: green
+      accent: lime
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+  - macros
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          name: English
+          default: true
+        - locale: pt
+          name: Português
+        - locale: es
+          name: Español
+
+markdown_extensions:
+  - tables
+
+extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Português
+      link: /pt/
+      lang: pt
+    - name: Español
+      link: /es/
+      lang: es
+
+nav:
+  - Home: README.md
+  - Solutions: solutions.md
+  - Services: services.md
+  - AI Readiness: ai-readiness.md
+  - FAQ: faq.md
+  - About: about.md
+  - Contact: contact.md
