@@ -44,6 +44,25 @@ body[data-md-color-scheme="slate"] .bd-logo--light {
     radial-gradient(900px 320px at 80% 30%, rgba(197, 255, 57, 0.16), transparent 55%),
     linear-gradient(180deg, rgba(255, 255, 255, 0.70), rgba(255, 255, 255, 0.00));
   border: 1px solid rgba(0, 0, 0, 0.06);
+  position: relative;
+  overflow: hidden;
+}
+
+.md-typeset .bd-hero > * {
+  position: relative;
+  z-index: 1;
+}
+
+.md-typeset .bd-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("../images/hero.png");
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: contain;
+  opacity: 0.22;
+  pointer-events: none;
 }
 
 html[data-md-color-scheme="slate"] .md-typeset .bd-hero {
@@ -52,6 +71,32 @@ html[data-md-color-scheme="slate"] .md-typeset .bd-hero {
     radial-gradient(900px 320px at 80% 30%, rgba(197, 255, 57, 0.12), transparent 55%),
     linear-gradient(180deg, rgba(18, 18, 18, 0.75), rgba(18, 18, 18, 0.00));
   border-color: rgba(255, 255, 255, 0.10);
+}
+
+html[data-md-color-scheme="slate"] .md-typeset .bd-hero::after,
+body[data-md-color-scheme="slate"] .md-typeset .bd-hero::after {
+  opacity: 0.16;
+}
+
+@media (min-width: 60em) {
+  .md-typeset .bd-hero {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 2rem;
+    align-items: center;
+  }
+
+  .md-typeset .bd-hero::after {
+    opacity: 1;
+    background-size: 50% auto;
+    background-position: right 1rem center;
+  }
+
+  .md-typeset .bd-hero > * {
+    grid-column: 1;
+    max-width: none;
+    width: 100%;
+  }
 }
 
 .md-typeset .bd-hero h1 {
