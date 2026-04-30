@@ -57,6 +57,7 @@ Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenh
 <div class="grid cards bd-cards-3" markdown>
 
 -   ### Construtoras e Incorporadoras
+    <img src="../assets/images/icon-real-state.png" alt="Ícone de incorporação" class="bd-icon" />
     Para empresas que precisam de números reais para não perder dinheiro. Se você está cansado de orçamentos que não batem com a realidade e quer ter o controle total dos custos e materiais da sua obra em tempo real, este serviço é para você.
 
 -   ### Escritórios de Projetos e Coordenação
@@ -148,7 +149,7 @@ Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenh
 
   <li>
     <h3 class="bd-accent">Plano RX</h3>
-    <p>Voltado para projetos de alta complexidade, pesquisa aplicada e implementação de ecossistemas OpenBIM, sendo destinado a empresas que precisam de uma integração de larga escala ou de uma arquitetura de dados personalizada. <b>Não é uma extensão do Plano R5</b> e seus itens podem ser contratados separadamente.</p>
+    <p>Voltado para projetos de alta complexidade, pesquisa aplicada e implementação de ecossistemas OpenBIM, sendo destinado a empresas que precisam de uma integração de larga escala ou de uma arquitetura de dados personalizada. <b style="color: #00c853; display: inline-block;">Não é uma extensão do Plano R5</b> e seus itens podem ser contratados separadamente.</p>
 
     <ul>
       <li><b>Desenvolvimento de Ontologias Próprias:</b> Modelagem de grafos de conhecimento e de ontologias específicas voltadas para o domínio do cliente, baseando-se nas diretrizes da ISO 21597 e na Web Semântica.</li>
