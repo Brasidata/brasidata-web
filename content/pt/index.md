@@ -10,13 +10,13 @@ hide:
 <p class="bd-lead">A Brasidata atua para tirar a engenharia da "escuridão". Implementamos a infraestrutura necessária para que sua empresa deixe de confiar cegamente em softwares ou processos manuais. Garantimos que toda informação que entra ou sai seja auditada, validada e útil.</p>
 
 [Fale conosco](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
-[Ver serviços](#servicos){ .md-button }
+[Pricing](#pricing){ .md-button }
 
 </div>
 
-<div class="bd-section" markdown>
+<div class="bd-section" markdown id="data-engineering">
 
-<p class="bd-eyebrow">ENGENHARIA DE DADOS</p>
+<p class="bd-eyebrow bd-accent">ENGENHARIA DE DADOS</p>
 
 ## Por que adotar a engenharia de dados?
 
@@ -24,63 +24,56 @@ hide:
 
 <div class="bd-section" markdown>
 
-Lideramos a implementação do BIM no Brasil, auxiliando empresas privadas e órgãos públicos a modernizarem seus processos, adotarem práticas inovadoras e aumentarem a eficiência na construção civil.
+Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenha acesso vitalício aos seus projetos e a liberdade de trocar de ferramenta sempre que quiser, sem nunca perder o patrimônio digital da sua obra.
 
 <div class="grid cards bd-cards-4" markdown>
 
--   ### Menos Erros e Retrabalho
-    Modelagem digital detalhada para evitar falhas e retrabalho no canteiro de obras.
+-   ### Conectividade Total de Dados
+    <img src="../assets/images/icon-connection.png" alt="Ícone de conexão" class="bd-icon" />
+    Integramos seus projetos, planilhas e sistemas de gestão em um fluxo único e automático. Do Revit ao canteiro, os dados conversam entre si sem erros de conversão, eliminando o trabalho manual de redigitar informações e garantindo que o escritório e a obra falem a mesma língua.
 
--   ### Economia de Tempo e Recursos
-    Planejamento inteligente que reduz desperdício de materiais e custos inesperados.
+-   ### Auditoria e Qualidade de Entrega
+    <img src="../assets/images/icon-audit.png" alt="Ícone de auditoria" class="bd-icon" />
+    Garanta que todos os projetistas e fornecedores entreguem exatamente o que foi contratado. Nossa auditoria automática valida cada arquivo recebido, identificando erros e inconsistências no dado antes que eles cheguem à obra. Você recebe apenas informações limpas, federadas e prontas para o uso, eliminando o retrabalho de conferência manual.
 
--   ### Colaboração entre Equipes
-    Integração em tempo real entre arquitetos, engenheiros e construtoras para um fluxo de trabalho mais ágil e produtivo.
+-   ### Conformidade e Normas Técnicas
+    Projetos 100% alinhados à ISO 19650 (já obrigatória no Brasil) e às exigências contratuais. Nossa infraestrutura valida automaticamente se cada entrega respeita os requisitos do cliente e as normas brasileiras obrigatórias. Você elimina riscos jurídicos e técnicos, assegurando que a documentação da sua obra esteja sempre organizada e em conformidade com o padrão nacional.
 
--   ### Cumprimento de Prazos e Orçamentos
-    Com modelagem BIM, você evita atrasos e gastos não planejados, garantindo previsibilidade na execução da obra.
+-   ### Inteligência de Dados e Consulta Ágil
+    <img src="../assets/images/icon-data-intelligence.png" alt="Ícone de IA" class="bd-icon" />
+    Use o poder da Inteligência Artificial para conversar com os dados do seu projeto. Em vez de navegar em softwares complexos, você obtém respostas imediatas sobre quantitativos, materiais e prazos em linguagem natural. Transformamos o seu banco de dados em um assistente inteligente que facilita a tomada de decisão para quem está no campo ou no escritório.
 
 </div>
 
 [Quero saber mais!](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>
+</div>
 
-<div class="bd-section" markdown id="servicos">
+<div class="bd-section" markdown id="target-audience">
 
-## Nossos Serviços
+<div class="bd-divider-wrap">
+<img src="../assets/images/divisor.png" class="bd-divider" alt="">
+
+## Engenharia de Dados é para quem?
 
 <div class="grid cards bd-cards-3" markdown>
 
--   ### Desenvolvimento de software
-    Desenvolvimento de apps e sistemas sob medida para suprir as demandas particulares dos clientes, empregando diversas tecnologias.
+-   ### Construtoras e Incorporadoras
+    Para empresas que precisam de números reais para não perder dinheiro. Se você está cansado de orçamentos que não batem com a realidade e quer ter o controle total dos custos e materiais da sua obra em tempo real, este serviço é para você.
 
--   ### Aplicativos Móveis
-    Criação de aplicativos para dispositivos móveis, como smartphones e tablets, em plataformas como Android e iOS.
+-   ### Escritórios de Projetos e Coordenação
+    Para coordenadores que perdem horas conferindo arquivos de terceiros. Automatize a verificação de prazos e normas técnicas, garantindo que sua equipe foque no que realmente importa: projetar com qualidade e entregar modelos sem erros de informação.
 
--   ### Sistemas de Gestão Empresarial (ERP)
-    Criação de sistemas que ajudam empresas a gerenciar recursos, processos e informações em todas as áreas operacionais, totalmente integrado aos sistemas atuais.
+-   ### Gestores de Ativos e Operação
+    Para quem administra o edifício depois de pronto. Facilitamos a manutenção e a gestão do imóvel entregando um banco de dados organizado, onde você encontra qualquer manual, garantia ou medida em segundos, sem precisar revirar pilhas de papel.
 
--   ### Manutenção e suporte
-    Fornecimento de serviços de manutenção contínua, correções de bugs, atualizações e suporte técnico aos clientes.
-
--   ### Gerenciamento de Relacionamento com o Cliente (CRM)
-    Criação de soluções para ajudar empresas a gerenciar interações com clientes e melhorar o relacionamento com eles, totalmente integrado aos sistemas atuais.
-
--   ### Integração de sistemas
-    Integração de diferentes sistemas e aplicativos para garantir a sincronização de dados e operações.
-
--   ### Consultoria BIM
-    Soluções sob medida, capacitação especializada, assistência na adoção do BIM e modelagem precisa.
-
--   ### Consultoria em TI
-    Prestação de serviços de consultoria para ajudar empresas a identificar necessidades de software, elaborar estratégias e planejar projetos.
+-   ### Órgãos Públicos e Grandes Contratantes
+    Para quem precisa garantir a transparência e a conformidade com leis, regulações e normas (e.g. ISO 19650). Tenha a segurança jurídica de que todos os dados do projeto estão auditados, versionados e protegidos em uma infraestrutura que pertence à sua instituição, e não ao fornecedor.
 
 </div>
 
 </div>
-
-![](https://p16-cc-image-search-sign-sg.ibyteimg.com/tos-alisg-i-h9hire4aei-sg/image/85a1c6d4b4147ae0b433e1df3d15ea1b~tplv-h9hire4aei-image.jpeg?rk3s=add9cc80&x-expires=1782684640&x-signature=rVmz4EeCHqwzK4mGqiEzffg03aY%3D){ .bd-wide-img }
 
 <div class="bd-section" markdown>
 
@@ -89,43 +82,48 @@ Lideramos a implementação do BIM no Brasil, auxiliando empresas privadas e ór
 <div class="bd-faq">
 
 <details>
-<summary>Como a Implementação BIM pode melhorar meu projeto?</summary>
-<p>A implementação BIM envolve assessoria e suporte especializados para integrar a metodologia BIM em projetos e fluxos de trabalho. Nossa equipe garante uma transição bem-sucedida, otimizando processos e melhorando a eficiência da sua obra ou empreendimento.</p>
+<summary>O que é Engenharia de Dados na construção civil?</summary>
+<p>É o serviço que organiza, limpa e conecta todas as informações da sua obra (projetos, planilhas e sistemas) para que você tenha números confiáveis e automação real, sem depender de conferência manual.</p>
 </details>
 
 <details>
-<summary>Como funciona o Planejamento e Estratégia BIM?</summary>
-<p>Desenvolvemos uma estratégia BIM personalizada de acordo com as necessidades e objetivos da sua empresa. Isso inclui a definição de padrões, diretrizes e metas para garantir a máxima eficiência e padronização dos processos.</p>
+<summary>Eu já uso BIM e Revit. Por que preciso da Brasidata?</summary>
+<p>O BIM modela, mas a Brasidata garante que o dado dentro desse modelo esteja correto, auditado e integrado aos seus outros sistemas (como o financeiro e o ERP), evitando que o seu BIM seja apenas uma maquete 3D bonita.</p>
 </details>
 
 <details>
-<summary>O que é Modelagem BIM e como ela ajuda no projeto?</summary>
-<p>Criamos modelos 3D paramétricos que representam todos os elementos do seu projeto, como arquitetura, estrutura e sistemas MEP (Mecânica, Elétrica e Hidráulica). Isso proporciona uma visão holística e colaborativa, reduzindo erros e melhorando a tomada de decisões.</p>
+<summary>Como vocês garantem que os projetistas entreguem o que eu contratei?</summary>
+<p>Por meio do nosso serviço de auditoria, validamos automaticamente cada arquivo recebido contra as normas técnicas e as exigências do seu contrato. Se houver erro, o sistema aponta na hora o problema e o responsável.</p>
 </details>
 
 <details>
-<summary>Quais os benefícios da Implementação BIM?</summary>
-<p>Coordenamos modelos BIM de várias disciplinas para evitar conflitos e colisões no projeto. Isso facilita a comunicação entre equipes e garante um fluxo de trabalho mais ágil e integrado, prevenindo problemas antes da execução.</p>
+<summary>O que muda com a ISO 19650 na minha empresa?</summary>
+<p>A ISO 19650 agora é o padrão nacional obrigatório. Nós adequamos toda a sua estrutura de dados para que você esteja em conformidade com ela, garantindo segurança jurídica e organização profissional da informação.</p>
 </details>
 
 <details>
-<summary>Quais tipos de Análises e Simulações podem ser feitas com BIM?</summary>
-<p>Utilizamos modelos BIM para realizar diversas análises, incluindo: análise de interferências, análise estrutural, simulação energética e fluxo de pessoas.</p>
+<summary>Vou ficar "preso" a algum software específico?</summary>
+<p>Não. Um dos nossos pilares é a <b>Soberania Digital</b>. Usamos padrões abertos (OpenBIM) para que os dados pertençam à sua empresa, permitindo que você acesse suas informações para sempre, independente de qual software usar no futuro.</p>
 </details>
 
 <details>
-<summary>O que é Gestão de Dados BIM e por que ela é importante?</summary>
-<p>Implementamos processos de gestão de informações BIM ao longo do ciclo de vida do projeto. Isso garante que todas as disciplinas compartilhem dados confiáveis, otimizando a tomada de decisões e melhorando a rastreabilidade das informações.</p>
+<summary>Como a Inteligência Artificial ajuda na minha obra?</summary>
+<p>No nosso plano avançado, você pode "conversar" com os dados do seu projeto. Em vez de procurar em modelos complexos, você pergunta por chat o volume de um material ou o status de uma etapa e obtém a resposta imediata.</p>
 </details>
 
 <details>
-<summary>Como o BIM melhora o planejamento e orçamento da obra?</summary>
-<p>Usamos modelos BIM para criar orçamentos mais precisos e detalhados, reduzindo custos, melhorando o planejamento e aumentando a previsibilidade.</p>
+<summary>Vocês fazem a emissão de pranchas e documentos?</summary>
+<p>Sim. No plano avançado, automatizamos a geração de folhas e tabelas diretamente dos modelos validados, o que elimina erros de digitação e garante que a prancha no canteiro reflita exatamente o que foi projetado.</p>
 </details>
 
 <details>
-<summary>Como a Auditoria BIM melhora projetos existentes?</summary>
-<p>A Auditoria BIM é um serviço de revisão e análise da implementação BIM em projetos já em andamento. Identificamos erros, oportunidades de melhoria e pontos de otimização, alinhando o projeto às melhores práticas do mercado.</p>
+<summary>Dá para integrar as informações do WhatsApp e planilhas ao projeto?</summary>
+<p>Sim. Nosso sistema é capaz de organizar dados vindos de fontes informais, vinculando conversas, documentos e tabelas ao contexto técnico da obra para que nada se perca.</p>
+</details>
+
+<details>
+<summary>Preciso contratar uma equipe de TI para usar a Brasidata?</summary>
+<p>Não. Nós funcionamos como o seu departamento de engenharia de dados. Entregamos a infraestrutura pronta e os relatórios mastigados para que sua equipe técnica foque apenas na execução e gestão da obra.</p>
 </details>
 
 </div>

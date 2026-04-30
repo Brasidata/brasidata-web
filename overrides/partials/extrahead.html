@@ -47,109 +47,64 @@
       return lang.startsWith("pt") ? "pt" : lang.startsWith("es") ? "es" : "en";
     }
 
-    function getCtaConfig(lang) {
-      if (lang === "pt") {
-        return {
-          talkText: "Fale conosco",
-          servicesText: "Ver serviços",
-          servicesHref: "#servicos",
-          waHref:
-            "https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21&type=phone_number&app_absent=0",
-        };
-      }
-      if (lang === "es") {
-        return {
-          talkText: "Hable con nosotros",
-          servicesText: "Ver servicios",
-          servicesHref: "#servicios",
-          waHref:
-            "https://api.whatsapp.com/send/?phone=5524981796934&text=Hola%2C+vengo+del+sitio+y+quiero+saber+m%C3%A1s%21&type=phone_number&app_absent=0",
-        };
-      }
-      return {
-        talkText: "Talk to us",
-        servicesText: "View services",
-        servicesHref: "#services",
-        waHref:
-          "https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21&type=phone_number&app_absent=0",
-      };
+    function ensureGlobeIcon() {
+      var btn = document.querySelector('button[aria-label="Select language"]');
+      if (btn) btn.innerHTML = globeSvg;
     }
 
-    function ensureHeaderLayout() {
-      var headerInner = document.querySelector(".md-header__inner");
-      if (!headerInner) return;
-      if (headerInner.querySelector(".bd-header-right")) return;
-
-      var palette = headerInner.querySelector('form[data-md-component="palette"]');
-      var langOption = headerInner.querySelector(".md-header__option .md-select");
-      var langWrapper = langOption ? langOption.closest(".md-header__option") : null;
-
-      var right = document.createElement("div");
-      right.className = "bd-header-right";
-
-      var lang = getLanguage();
-      var cfg = getCtaConfig(lang);
-
-      var ctas = document.createElement("div");
-      ctas.className = "bd-header-ctas";
-
-      var talk = document.createElement("a");
-      talk.className = "bd-header-cta bd-header-cta--primary";
-      talk.href = cfg.waHref;
-      talk.target = "_blank";
-      talk.rel = "noopener";
-      talk.textContent = cfg.talkText;
-
-      var services = document.createElement("a");
-      services.className = "bd-header-cta";
-      services.href = cfg.servicesHref;
-      services.textContent = cfg.servicesText;
-
-      ctas.appendChild(talk);
-      ctas.appendChild(services);
-
-      right.appendChild(ctas);
-      if (palette) right.appendChild(palette);
-      if (langWrapper) right.appendChild(langWrapper);
-      headerInner.appendChild(right);
-
-      if (langWrapper) {
-        var langBtn = langWrapper.querySelector('button[aria-label="Select language"]');
-        if (langBtn) langBtn.innerHTML = globeSvg;
-      }
-
-      var waFloat = document.querySelector(".bd-wa-float");
-      if (waFloat) waFloat.setAttribute("href", cfg.waHref);
+    function getDataEngineeringHref(lang) {
+      if (lang !== "pt") return null;
+      var homePrefix = "/pt/";
+      var isHome = window.location.pathname === homePrefix || window.location.pathname === homePrefix + "index.html";
+      return isHome ? "#data-engineering" : homePrefix + "#data-engineering";
     }
 
-    function onRouteChange() {
+    function ensureDataEngineeringMenuLink() {
       var lang = getLanguage();
-      var cfg = getCtaConfig(lang);
-      var talk = document.querySelector(".bd-header-cta--primary");
-      var services = document.querySelector(".bd-header-ctas .bd-header-cta:not(.bd-header-cta--primary)");
-      if (talk) {
-        talk.textContent = cfg.talkText;
-        talk.setAttribute("href", cfg.waHref);
+      var href = getDataEngineeringHref(lang);
+      if (!href) return;
+
+      var list =
+        document.querySelector('.md-sidebar--primary .md-nav--primary .md-nav__list') ||
+        document.querySelector('.md-sidebar--primary .md-nav__list') ||
+        document.querySelector('.md-nav--primary .md-nav__list');
+      if (!list) return;
+
+      var existing = list.querySelector('#bd-nav-data-engineering');
+      if (!existing) {
+        var li = document.createElement("li");
+        li.className = "md-nav__item";
+        li.id = "bd-nav-data-engineering";
+
+        var a = document.createElement("a");
+        a.className = "md-nav__link";
+        a.textContent = "Engenharia de Dados";
+
+        li.appendChild(a);
+        list.appendChild(li);
+        existing = li;
       }
-      if (services) {
-        services.textContent = cfg.servicesText;
-        services.setAttribute("href", cfg.servicesHref);
-      }
-      var waFloat = document.querySelector(".bd-wa-float");
-      if (waFloat) waFloat.setAttribute("href", cfg.waHref);
+
+      var link = existing.querySelector("a");
+      if (link) link.setAttribute("href", href);
+    }
+
+    function syncUi() {
+      ensureGlobeIcon();
+      ensureDataEngineeringMenuLink();
     }
 
     if (document.readyState === "loading") {
-      document.addEventListener("DOMContentLoaded", ensureHeaderLayout);
+      document.addEventListener("DOMContentLoaded", syncUi);
     } else {
-      ensureHeaderLayout();
+      syncUi();
     }
 
-    window.addEventListener("popstate", onRouteChange);
-    window.addEventListener("hashchange", onRouteChange);
+    window.addEventListener("popstate", syncUi);
+    window.addEventListener("hashchange", syncUi);
 
     var observer = new MutationObserver(function () {
-      ensureHeaderLayout();
+      syncUi();
     });
     observer.observe(document.documentElement, { childList: true, subtree: true });
   })();
