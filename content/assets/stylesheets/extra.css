@@ -65,16 +65,20 @@ body[data-md-color-scheme="slate"] .bd-logo--light {
   pointer-events: none;
 }
 
-html[data-md-color-scheme="slate"] .md-typeset .bd-hero {
+html[data-md-color-scheme="slate"] .md-typeset .bd-hero,
+body[data-md-color-scheme="slate"] .md-typeset .bd-hero {
   background:
-    radial-gradient(1200px 380px at 20% 0%, rgba(0, 200, 83, 0.18), transparent 60%),
-    radial-gradient(900px 320px at 80% 30%, rgba(197, 255, 57, 0.12), transparent 55%),
-    linear-gradient(180deg, rgba(18, 18, 18, 0.75), rgba(18, 18, 18, 0.00));
+    radial-gradient(1200px 380px at 20% 0%, rgba(0, 200, 83, 0.10), transparent 62%),
+    radial-gradient(900px 320px at 80% 30%, rgba(197, 255, 57, 0.06), transparent 58%),
+    linear-gradient(180deg, rgba(0, 0, 0, 0.92), rgba(0, 0, 0, 0.38));
   border-color: rgba(255, 255, 255, 0.10);
 }
 
 html[data-md-color-scheme="slate"] .md-typeset .bd-hero::after,
 body[data-md-color-scheme="slate"] .md-typeset .bd-hero::after {
+  background-image:
+    linear-gradient(180deg, rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.20)),
+    url("../images/hero.png");
   opacity: 0.16;
 }
 
@@ -88,7 +92,7 @@ body[data-md-color-scheme="slate"] .md-typeset .bd-hero::after {
 
   .md-typeset .bd-hero::after {
     opacity: 1;
-    background-size: 60% auto;
+    background-size: 55% auto;
     background-position: right 1rem right;
   }
 
