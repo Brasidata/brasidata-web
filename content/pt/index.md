@@ -5,9 +5,9 @@ hide:
 
 <div class="bd-hero" markdown>
 
-# Você ainda entrega ou recebe projeto às cegas?
+<h1 id="voce-ainda-entrega-ou-recebe-projeto-as-cegas">Você ainda entrega ou recebe <span class="bd-accent">projeto às cegas</span>?</h1>
 
-<p class="bd-lead">Ajudamos empresas e profissionais a aumentarem a lucratividade de seus projetos com a tecnologia BIM. Nós oferecemos consultoria estratégica, treinamentos especializados e modelagem digital para otimizar processos, reduzir erros e elevar a qualidade dos projetos na construção civil.</p>
+<p class="bd-lead">A Brasidata atua para tirar a engenharia da "escuridão", implementando a infraestrutura necessária para que as empresas deixem de confiar cegamente no software ou em processos manuais, garantindo que toda informação que entra ou sai da empresa seja auditada, validada e útil</p>
 
 [Fale conosco](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 [Ver serviços](#servicos){ .md-button }

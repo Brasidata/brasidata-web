@@ -88,8 +88,8 @@ body[data-md-color-scheme="slate"] .md-typeset .bd-hero::after {
 
   .md-typeset .bd-hero::after {
     opacity: 1;
-    background-size: 50% auto;
-    background-position: right 1rem center;
+    background-size: 60% auto;
+    background-position: right 1rem right;
   }
 
   .md-typeset .bd-hero > * {
@@ -101,7 +101,13 @@ body[data-md-color-scheme="slate"] .md-typeset .bd-hero::after {
 
 .md-typeset .bd-hero h1 {
   margin: 0;
+  font-weight: 800;
   letter-spacing: -0.02em;
+}
+
+.md-typeset .bd-accent {
+  color: #00c853;
+  font-weight: 800;
 }
 
 .md-typeset .bd-lead {
