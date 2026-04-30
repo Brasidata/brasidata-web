@@ -36,6 +36,14 @@ body[data-md-color-scheme="slate"] .bd-logo--light {
   padding-bottom: 0;
 }
 
+.md-main {
+  padding-bottom: 0 !important;
+}
+
+.md-content {
+  padding-bottom: 0 !important;
+}
+
 .md-typeset .md-button {
   border-radius: 999px;
 }
@@ -423,10 +431,19 @@ html[data-md-color-scheme="slate"] .md-typeset .bd-faq details[open] {
   padding: 1.25rem 0 1.75rem;
   padding-left: 0;
   padding-right: 0;
-  padding-bottom: 0;
   border-radius: 0;
   width: 100vw;
-  margin: 2.25rem calc(50% - 50vw) 0 0;
+  margin: 2.25rem calc(50% - 50vw) 0;
+}
+
+.md-footer {
+  display: none;
+}
+
+.bd-wa-float-wrap {
+  margin: 0;
+  padding: 0;
+  height: 0;
 }
 
 .md-typeset .bd-footer__inner {

@@ -33,14 +33,15 @@ Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenh
     Integramos seus projetos, planilhas e sistemas de gestão em um fluxo único e automático. Do Revit ao canteiro, os dados conversam entre si sem erros de conversão, eliminando o trabalho manual de redigitar informações e garantindo que o escritório e a obra falem a mesma língua.
 
 -   ### Auditoria e Qualidade de Entrega
-    <img src="../assets/images/icon-audit.png" alt="Ícone de auditoria" class="bd-icon" />
+    <img src="../assets/images/icon-standard.png" alt="Ícone de auditoria" class="bd-icon" />
     Garanta que todos os projetistas e fornecedores entreguem exatamente o que foi contratado. Nossa auditoria automática valida cada arquivo recebido, identificando erros e inconsistências no dado antes que eles cheguem à obra. Você recebe apenas informações limpas, federadas e prontas para o uso, eliminando o retrabalho de conferência manual.
 
 -   ### Conformidade e Normas Técnicas
+    <img src="../assets/images/icon-audit.png" alt="Ícone de auditoria" class="bd-icon" />
     Projetos 100% alinhados à ISO 19650 (já obrigatória no Brasil) e às exigências contratuais. Nossa infraestrutura valida automaticamente se cada entrega respeita os requisitos do cliente e as normas brasileiras obrigatórias. Você elimina riscos jurídicos e técnicos, assegurando que a documentação da sua obra esteja sempre organizada e em conformidade com o padrão nacional.
 
 -   ### Inteligência de Dados e Consulta Ágil
-    <img src="../assets/images/icon-data-intelligence.png" alt="Ícone de inteligência de dados" class="bd-icon" />
+    <img src="../assets/images/icon-think.png" alt="Ícone de inteligência de dados" class="bd-icon" />
     Use o poder da Inteligência Artificial para conversar com os dados do seu projeto. Em vez de navegar em softwares complexos, você obtém respostas imediatas sobre quantitativos, materiais e prazos em linguagem natural. Transformamos o seu banco de dados em um assistente inteligente que facilita a tomada de decisão para quem está no campo ou no escritório.
 
 </div>
@@ -283,6 +284,8 @@ Liberte sua empresa da "armadilha da ferramenta" e da dependência de fornecedor
 
 </div>
 
+<div class="bd-wa-float-wrap">
 <a class="bd-wa-float" href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21&type=phone_number&app_absent=0" aria-label="WhatsApp" target="_blank" rel="noopener">
 <svg viewBox="0 0 32 32" aria-hidden="true"><path fill="currentColor" d="M19.11 17.46c-.27-.14-1.6-.79-1.85-.88-.25-.09-.43-.14-.61.14-.18.27-.7.88-.86 1.06-.16.18-.32.2-.59.07-.27-.14-1.15-.42-2.18-1.35-.81-.72-1.35-1.61-1.51-1.88-.16-.27-.02-.41.12-.55.12-.12.27-.32.41-.48.14-.16.18-.27.27-.45.09-.18.05-.34-.02-.48-.07-.14-.61-1.47-.84-2.02-.22-.52-.44-.45-.61-.46l-.52-.01c-.18 0-.48.07-.73.34-.25.27-.95.93-.95 2.27 0 1.34.98 2.64 1.12 2.82.14.18 1.93 2.95 4.68 4.13.66.28 1.17.45 1.57.58.66.21 1.26.18 1.74.11.53-.08 1.6-.65 1.83-1.27.23-.61.23-1.14.16-1.27-.07-.13-.25-.2-.52-.34zM16 3C8.83 3 3 8.67 3 15.66c0 2.23.6 4.41 1.74 6.32L3 29l7.2-1.88c1.84 1 3.92 1.53 6.03 1.54h.01c7.17 0 13-5.67 13-12.66C29.24 8.67 23.17 3 16 3zm0 23.44h-.01c-1.9-.01-3.76-.52-5.38-1.49l-.39-.23-4.27 1.12 1.14-4.05-.25-.4a10.26 10.26 0 0 1-1.6-5.55C5.24 9.91 10.1 5.6 16 5.6c5.9 0 10.76 4.31 10.76 10.06 0 5.75-4.86 10.06-10.76 10.06z"/></svg>
 </a>
+</div>
