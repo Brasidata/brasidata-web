@@ -30,6 +30,11 @@ img.bd-logo {
   display: block;
 }
 
+html[data-md-color-scheme="slate"] img[src*="logo-text-dark.png"],
+body[data-md-color-scheme="slate"] img[src*="logo-text-dark.png"] {
+  filter: invert(1) brightness(0.85);
+}
+
 .md-header__title {
   display: none;
 }
@@ -94,10 +99,8 @@ body[data-md-color-scheme="slate"] .md-typeset .bd-hero {
 
 html[data-md-color-scheme="slate"] .md-typeset .bd-hero::after,
 body[data-md-color-scheme="slate"] .md-typeset .bd-hero::after {
-  background-image:
-    linear-gradient(180deg, rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.20)),
-    url("../images/hero.png");
-  opacity: 0.16;
+  background-image: url("../images/hero.png");
+  opacity: 0.5;
 }
 
 @media (min-width: 60em) {
@@ -122,9 +125,15 @@ body[data-md-color-scheme="slate"] .md-typeset .bd-hero::after {
 }
 
 .md-typeset .bd-hero h1 {
-  margin: 0;
+  font-size: 2.2rem;
   font-weight: 800;
+  line-height: 1.15;
+  margin-bottom: 1.5rem;
   letter-spacing: -0.02em;
+}
+
+.md-typeset .bd-hero .md-button {
+  margin-right: 1rem;
 }
 
 .md-typeset .bd-accent {
@@ -247,14 +256,14 @@ body[data-md-color-scheme="slate"] .md-typeset #pricing .bd-pricing > ul > li.bd
   width: 2.4rem;
   height: 1.3rem;
   border-radius: 999px;
-  background: rgba(0, 0, 0, 0.10);
+  background: #00c853;
   box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.12);
   transition: background 180ms ease, box-shadow 180ms ease;
 }
 
 html[data-md-color-scheme="slate"] .md-typeset #pricing .bd-price-toggle__switch,
 body[data-md-color-scheme="slate"] .md-typeset #pricing .bd-price-toggle__switch {
-  background: rgba(255, 255, 255, 0.10);
+  background: #00c853;
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.14);
 }
 
