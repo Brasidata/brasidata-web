@@ -9,7 +9,7 @@ hide:
 
 <p class="bd-lead">Brasidata works to bring engineering out of the "darkness". We implement the necessary infrastructure so your company stops relying blindly on software or manual processes. We ensure that all information entering or leaving is audited, validated, and useful.</p>
 
-[Contact us](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[Contact us](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BHero%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 [Plans](#pricing){ .md-button }
 
 </div>
@@ -46,7 +46,7 @@ We structure your data in open standards (OpenBIM), ensuring you have lifetime a
 
 </div>
 
-[I want to know more!](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[I want to know more!](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BEng%20Dados%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>
 
@@ -74,7 +74,7 @@ We structure your data in open standards (OpenBIM), ensuring you have lifetime a
 
 </div>
 
-[It's for me!](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[It's for me!](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BPublico%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>
 
@@ -113,7 +113,7 @@ We structure your data in open standards (OpenBIM), ensuring you have lifetime a
     </ul>
 
     <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+Plan+R1&type=phone_number&app_absent=0" class="md-button md-button--primary">I want this plan</a>
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+Plan+R1%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">I want this plan</a>
     </div>
   </li>
 
@@ -145,7 +145,7 @@ We structure your data in open standards (OpenBIM), ensuring you have lifetime a
     </ul>
 
     <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+Plan+R5&type=phone_number&app_absent=0" class="md-button md-button--primary">I want this plan</a>
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+Plan+R5%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">I want this plan</a>
     </div>
   </li>
 
@@ -162,7 +162,7 @@ We structure your data in open standards (OpenBIM), ensuring you have lifetime a
     </ul>
 
     <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+Plan+RX&type=phone_number&app_absent=0" class="md-button md-button--primary">I want this plan</a>
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+Plan+RX%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">I want this plan</a>
     </div>
   </li>
 </ul>
@@ -231,6 +231,6 @@ We structure your data in open standards (OpenBIM), ensuring you have lifetime a
 
 Free your company from the "tool trap" and dependency on single closed software vendors.
 
-[Learn more](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[Learn more](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BCTA%20Final%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>
