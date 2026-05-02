@@ -499,6 +499,7 @@ html[data-md-color-scheme="slate"] .md-typeset .bd-faq details[open] {
   width: auto;
   display: block;
   max-width: 100%;
+  filter: invert(1) brightness(0.85);
 }
 
 .bd-footer__social {
