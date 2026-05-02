@@ -5,7 +5,7 @@ hide:
 
 <div class="bd-hero" markdown>
 
-<h1 id="voce-ainda-entrega-ou-recebe-projeto-as-cegas">¿Aún entregas o recibes proyectos a ciegas?</h1>
+<h1 id="voce-ainda-entrega-ou-recebe-projeto-as-cegas">¿Aún entregas o recibes <span class="bd-accent">proyectos a ciegas</span>?</h1>
 
 <p class="bd-lead">Brasidata trabaja para sacar a la ingeniería de la "oscuridad". Implementamos la infraestructura necesaria para que tu empresa deje de confiar ciegamente en software o procesos manuales. Garantizamos que toda la información que entra o sale sea auditada, validada y útil.</p>
 

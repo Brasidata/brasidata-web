@@ -5,7 +5,7 @@ hide:
 
 <div class="bd-hero" markdown>
 
-<h1 id="voce-ainda-entrega-ou-recebe-projeto-as-cegas">Do you still deliver or receive projects blindly?</h1>
+<h1 id="voce-ainda-entrega-ou-recebe-projeto-as-cegas">Do you still deliver or receive projects <span class="bd-accent">blindly</span>?</h1>
 
 <p class="bd-lead">Brasidata works to bring engineering out of the "darkness". We implement the necessary infrastructure so your company stops relying blindly on software or manual processes. We ensure that all information entering or leaving is audited, validated, and useful.</p>
 
