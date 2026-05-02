@@ -38,7 +38,7 @@ Estructuramos tus datos en estándares abiertos (OpenBIM), garantizando que teng
 
 -   ### Cumplimiento y Normas Técnicas
     <img src="../assets/images/icon-audit.png" alt="Ícono de auditoría" class="bd-icon" />
-    Proyectos 100% alineados a la ISO 19650 (ya obligatoria en Brasil) y a las exigencias contractuales. Nuestra infraestructura valida automáticamente si cada entrega respeta los requisitos del cliente y las normas brasileñas obligatorias. Eliminas riesgos legales y técnicos, asegurando que la documentación de tu obra esté siempre organizada y en conformidad con el estándar nacional.
+    Proyectos 100% alineados a la ISO 19650 (obligatoria en diversos países) y a las exigencias contractuales. Nuestra infraestructura valida automáticamente si cada entrega respeta los requisitos del cliente y las normativas aplicables. Eliminas riesgos legales y técnicos, asegurando que la documentación de tu obra esté siempre organizada y en conformidad con los estándares internacionales.
 
 -   ### Inteligencia de Datos y Consulta Ágil
     <img src="../assets/images/icon-think.png" alt="Ícono de inteligencia de datos" class="bd-icon" />
@@ -94,7 +94,7 @@ Estructuramos tus datos en estándares abiertos (OpenBIM), garantizando que teng
       <input class="bd-price-toggle__input" type="checkbox" id="pricing-r1-currency-es" aria-label="Alternar moneda entre EUR y USD">
       <div class="bd-pricing__amount" aria-live="polite">
         <span class="bd-price bd-price--eur">199.99 €</span>
-        <span class="bd-price bd-price--usd">$ 219,99</span>
+        <span class="bd-price bd-price--usd">$ 219.99</span>
         <span class="bd-price__period">/mes</span>
       </div>
       <label class="bd-price-toggle" for="pricing-r1-currency-es">
@@ -125,7 +125,7 @@ Estructuramos tus datos en estándares abiertos (OpenBIM), garantizando que teng
       <input class="bd-price-toggle__input" type="checkbox" id="pricing-r5-currency-es" aria-label="Alternar moneda entre BRL y EUR">
       <div class="bd-pricing__amount" aria-live="polite">
         <span class="bd-price bd-price--eur">899.99 €</span>
-        <span class="bd-price bd-price--usd">$ 979,99</span>
+        <span class="bd-price bd-price--usd">$ 979.99</span>
         <span class="bd-price__period">/mes</span>
       </div>
       <label class="bd-price-toggle" for="pricing-r5-currency-es">
@@ -193,7 +193,7 @@ Estructuramos tus datos en estándares abiertos (OpenBIM), garantizando que teng
 
 <details>
 <summary>¿Qué cambia con la ISO 19650 en mi empresa?</summary>
-<p>La ISO 19650 ahora es el estándar nacional obligatorio en Brasil. Adecuamos toda tu estructura de datos para que estés en conformidad con ella, garantizando seguridad jurídica y organización profesional de la información.</p>
+<p>La ISO 19650 es el estándar internacional obligatorio en diversos países. Adecuamos toda tu estructura de datos para que estés en conformidad con ella, garantizando seguridad jurídica y organización profesional de la información a nivel global.</p>
 </details>
 
 <details>

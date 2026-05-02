@@ -38,7 +38,7 @@ We structure your data in open standards (OpenBIM), ensuring you have lifetime a
 
 -   ### Compliance and Technical Standards
     <img src="../assets/images/icon-audit.png" alt="Audit icon" class="bd-icon" />
-    Projects 100% aligned with ISO 19650 (already mandatory in Brazil) and contractual requirements. Our infrastructure automatically validates if each delivery respects the client's requirements and mandatory Brazilian standards. You eliminate legal and technical risks, ensuring your construction documentation is always organized and compliant with national standards.
+    Projects 100% aligned with ISO 19650 (mandatory in several countries) and contractual requirements. Our infrastructure automatically validates if each delivery respects the client's requirements and applicable regulations. You eliminate legal and technical risks, ensuring your construction documentation is always organized and compliant with international standards.
 
 -   ### Data Intelligence and Agile Querying
     <img src="../assets/images/icon-think.png" alt="Data intelligence icon" class="bd-icon" />
@@ -93,7 +93,7 @@ We structure your data in open standards (OpenBIM), ensuring you have lifetime a
     <div class="bd-pricing__price">
       <input class="bd-price-toggle__input" type="checkbox" id="pricing-r1-currency-en" aria-label="Toggle currency between BRL and EUR">
       <div class="bd-pricing__amount" aria-live="polite">
-        <span class="bd-price bd-price--usd">$ 219,99</span>
+        <span class="bd-price bd-price--usd">$ 219.99</span>
         <span class="bd-price bd-price--eur">199.99 €</span>
         <span class="bd-price__period">/mo</span>
       </div>
@@ -124,7 +124,7 @@ We structure your data in open standards (OpenBIM), ensuring you have lifetime a
     <div class="bd-pricing__price">
       <input class="bd-price-toggle__input" type="checkbox" id="pricing-r5-currency-en" aria-label="Toggle currency between BRL and EUR">
       <div class="bd-pricing__amount" aria-live="polite">
-        <span class="bd-price bd-price--usd">$ 979,99</span>
+        <span class="bd-price bd-price--usd">$ 979.99</span>
         <span class="bd-price bd-price--eur">899.99 €</span>
         <span class="bd-price__period">/mo</span>
       </div>
@@ -193,7 +193,7 @@ We structure your data in open standards (OpenBIM), ensuring you have lifetime a
 
 <details>
 <summary>What changes with ISO 19650 in my company?</summary>
-<p>ISO 19650 is now the mandatory national standard. We adapt your entire data structure so you comply with it, ensuring legal certainty and professional information organization.</p>
+<p>ISO 19650 is the mandatory international standard in several countries. We adapt your entire data structure so you comply with it, ensuring legal certainty and professional information organization on a global scale.</p>
 </details>
 
 <details>
