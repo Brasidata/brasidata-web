@@ -214,15 +214,15 @@ body[data-md-color-scheme="slate"] .md-typeset #pricing .bd-pricing > ul > li.bd
   opacity: 0.65;
 }
 
-.md-typeset #pricing .bd-price--eur {
+.md-typeset #pricing .bd-pricing__amount .bd-price:nth-child(2) {
   display: none;
 }
 
-.md-typeset #pricing .bd-price-toggle__input:checked ~ .bd-pricing__amount .bd-price--brl {
+.md-typeset #pricing .bd-price-toggle__input:checked ~ .bd-pricing__amount .bd-price:nth-child(1) {
   display: none;
 }
 
-.md-typeset #pricing .bd-price-toggle__input:checked ~ .bd-pricing__amount .bd-price--eur {
+.md-typeset #pricing .bd-price-toggle__input:checked ~ .bd-pricing__amount .bd-price:nth-child(2) {
   display: inline;
 }
 
