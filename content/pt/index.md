@@ -9,7 +9,7 @@ hide:
 
 <p class="bd-lead">A Brasidata atua para tirar a engenharia da "escuridão". Implementamos a infraestrutura necessária para que sua empresa deixe de confiar cegamente em softwares ou processos manuais. Garantimos que toda informação que entra ou sai seja auditada, validada e útil.</p>
 
-[Fale conosco](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[Fale conosco](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21%20-%20%5BHero%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 [Planos](#pricing){ .md-button }
 
 </div>
@@ -46,7 +46,7 @@ Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenh
 
 </div>
 
-[Quero saber mais!](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[Quero saber mais!](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21%20-%20%5BEng%20Dados%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>
 
@@ -74,7 +74,7 @@ Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenh
 
 </div>
 
-[É para mim!](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[É para mim!](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21%20-%20%5BPublico%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>
 
@@ -113,7 +113,7 @@ Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenh
     </ul>
 
     <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+o+Plano+R1&type=phone_number&app_absent=0" class="md-button md-button--primary">Quero este plano</a>
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+o+Plano+R1%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">Quero este plano</a>
     </div>
   </li>
 
@@ -145,7 +145,7 @@ Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenh
     </ul>
 
     <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+o+Plano+R5&type=phone_number&app_absent=0" class="md-button md-button--primary">Quero este plano</a>
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+o+Plano+R5%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">Quero este plano</a>
     </div>
   </li>
 
@@ -162,7 +162,7 @@ Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenh
     </ul>
 
     <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+o+Plano+RX&type=phone_number&app_absent=0" class="md-button md-button--primary">Quero este plano</a>
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+o+Plano+RX%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">Quero este plano</a>
     </div>
   </li>
 </ul>
@@ -231,7 +231,7 @@ Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenh
 
 Liberte sua empresa da "armadilha da ferramenta" e da dependência de fornecedores únicos de softwares fechados.
 
-[Saber mais](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[Saber mais](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21%20-%20%5BCTA%20Final%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>
 
