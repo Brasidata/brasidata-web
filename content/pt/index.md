@@ -57,17 +57,19 @@ Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenh
 <div class="grid cards bd-cards-3" markdown>
 
 -   ### Construtoras e Incorporadoras
-    <img src="../assets/images/icon-real-state.png" alt="Ícone de incorporação" class="bd-icon" />
+    <img src="../assets/images/icon-architect.webp" alt="Ícone de construtora" class="bd-icon" />
     Para empresas que precisam de números reais para não perder dinheiro. Se você está cansado de orçamentos que não batem com a realidade e quer ter o controle total dos custos e materiais da sua obra em tempo real, este serviço é para você.
 
 -   ### Escritórios de Projetos e Coordenação
+    <img src="../assets/images/icon-plan.png" alt="Ícone de escritório" class="bd-icon" />
     Para coordenadores que perdem horas conferindo arquivos de terceiros. Automatize a verificação de prazos e normas técnicas, garantindo que sua equipe foque no que realmente importa: projetar com qualidade e entregar modelos sem erros de informação.
 
--   ### Gestores de Ativos e Operação
+-   ### Gestores de Ativos, Operação e Manutenção
     <img src="../assets/images/icon-operation.png" alt="Ícone de operação" class="bd-icon" />
     Para quem administra o edifício depois de pronto. Facilitamos a manutenção e a gestão do imóvel entregando um banco de dados organizado, onde você encontra qualquer manual, garantia ou medida em segundos, sem precisar revirar pilhas de papel.
 
 -   ### Órgãos Públicos e Grandes Contratantes
+    <img src="../assets/images/icon-goverment.png" alt="Ícone de governo" class="bd-icon" />
     Para quem precisa garantir a transparência e a conformidade com leis, regulações e normas (e.g. ISO 19650). Tenha a segurança jurídica de que todos os dados do projeto estão auditados, versionados e protegidos em uma infraestrutura que pertence à sua instituição, e não ao fornecedor.
 
 </div>
@@ -149,9 +151,10 @@ Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenh
 
   <li>
     <h3 class="bd-accent">Plano RX</h3>
-    <p>Voltado para projetos de alta complexidade, pesquisa aplicada e implementação de ecossistemas OpenBIM, sendo destinado a empresas que precisam de uma integração de larga escala ou de uma arquitetura de dados personalizada. <b style="color: #00c853; display: inline-block;">Não é uma extensão do Plano R5</b> e seus itens podem ser contratados separadamente.</p>
+    <p>Voltado para projetos de alta complexidade, pesquisa aplicada e implementação de ecossistemas OpenBIM, sendo destinado a empresas que precisam de uma integração de larga escala ou de uma arquitetura de dados personalizada.</p>
 
     <ul>
+      <li><b style="color: #00c853; display: inline-block;">Não é uma extensão do Plano R5:</b> Seus itens podem ser personalizados e contratados separadamente.</li>
       <li><b>Desenvolvimento de Ontologias Próprias:</b> Modelagem de grafos de conhecimento e de ontologias específicas voltadas para o domínio do cliente, baseando-se nas diretrizes da ISO 21597 e na Web Semântica.</li>
       <li><b>Implementação de CDE (Common Data Environment) Customizado:</b> Criação de uma arquitetura para ambientes de dados em nuvem garantindo alta conformidade e segurança, seguindo padrões similares aos exigidos em infraestruturas críticas</li>
       <li><b>Treinamento:</b> Capacitação das equipes internas do cliente para que consigam operar dentro dos padrões do OpenBIM e manter fluxos de trabalho determinísticos.</li>

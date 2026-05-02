@@ -17,16 +17,16 @@
   margin-bottom: 0 !important;
 }
 
-html[data-md-color-scheme="default"] .bd-logo--dark,
-html[data-md-color-scheme="slate"] .bd-logo--light,
-body[data-md-color-scheme="default"] .bd-logo--dark,
-body[data-md-color-scheme="slate"] .bd-logo--light {
-  display: none;
+html[data-md-color-scheme="default"] img.bd-logo--dark,
+html[data-md-color-scheme="slate"] img.bd-logo--light,
+body[data-md-color-scheme="default"] img.bd-logo--dark,
+body[data-md-color-scheme="slate"] img.bd-logo--light {
+  display: none !important;
 }
 
-.bd-logo {
-  height: 2.25rem;
-  width: auto;
+img.bd-logo {
+  height: 2.25rem !important;
+  width: auto !important;
   display: block;
 }
 
@@ -138,6 +138,8 @@ body[data-md-color-scheme="slate"] .md-typeset .bd-hero::after {
   display: block;
   margin: 0.35rem auto 0.6rem;
   object-fit: contain;
+  /* Filter exactly matched to #00c853 */
+  filter: brightness(0) saturate(100%) invert(53%) sepia(58%) saturate(1636%) hue-rotate(107deg) brightness(97%) contrast(105%);
 }
 
 .md-typeset .bd-lead {
