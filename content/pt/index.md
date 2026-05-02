@@ -5,40 +5,44 @@ hide:
 
 <div class="bd-hero" markdown>
 
-# Você ainda entrega ou recebe projeto às cegas?
+<h1 id="voce-ainda-entrega-ou-recebe-projeto-as-cegas">Você ainda entrega ou recebe <span class="bd-accent">projeto às cegas</span>?</h1>
 
-<p class="bd-lead">Ajudamos empresas e profissionais a aumentarem a lucratividade de seus projetos com a tecnologia BIM. Nós oferecemos consultoria estratégica, treinamentos especializados e modelagem digital para otimizar processos, reduzir erros e elevar a qualidade dos projetos na construção civil.</p>
+<p class="bd-lead">A Brasidata atua para tirar a engenharia da "escuridão". Implementamos a infraestrutura necessária para que sua empresa deixe de confiar cegamente em softwares ou processos manuais. Garantimos que toda informação que entra ou sai seja auditada, validada e útil.</p>
 
 [Fale conosco](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
-[Ver serviços](#servicos){ .md-button }
+[Planos](#pricing){ .md-button }
+
+</div>
+
+<div class="bd-section" markdown id="data-engineering">
+
+<p class="bd-eyebrow bd-accent">ENGENHARIA DE DADOS</p>
+
+## Por que adotar a engenharia de dados?
 
 </div>
 
 <div class="bd-section" markdown>
 
-<p class="bd-eyebrow">CONSULTORIA BIM</p>
-
-## Por que adotar a consultoria BIM?
-
-</div>
-
-<div class="bd-section" markdown>
-
-Lideramos a implementação do BIM no Brasil, auxiliando empresas privadas e órgãos públicos a modernizarem seus processos, adotarem práticas inovadoras e aumentarem a eficiência na construção civil.
+Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenha acesso vitalício aos seus projetos e a liberdade de trocar de ferramenta sempre que quiser, sem nunca perder o patrimônio digital da sua obra.
 
 <div class="grid cards bd-cards-4" markdown>
 
--   ### Menos Erros e Retrabalho
-    Modelagem digital detalhada para evitar falhas e retrabalho no canteiro de obras.
+-   ### Conectividade Total de Dados
+    <img src="../assets/images/icon-connection.png" alt="Ícone de conexão" class="bd-icon" />
+    Integramos seus projetos, planilhas e sistemas de gestão em um fluxo único e automático. Do Revit ao canteiro, os dados conversam entre si sem erros de conversão, eliminando o trabalho manual de redigitar informações e garantindo que o escritório e a obra falem a mesma língua.
 
--   ### Economia de Tempo e Recursos
-    Planejamento inteligente que reduz desperdício de materiais e custos inesperados.
+-   ### Auditoria e Qualidade de Entrega
+    <img src="../assets/images/icon-standard.png" alt="Ícone de auditoria" class="bd-icon" />
+    Garanta que todos os projetistas e fornecedores entreguem exatamente o que foi contratado. Nossa auditoria automática valida cada arquivo recebido, identificando erros e inconsistências no dado antes que eles cheguem à obra. Você recebe apenas informações limpas, federadas e prontas para o uso, eliminando o retrabalho de conferência manual.
 
--   ### Colaboração entre Equipes
-    Integração em tempo real entre arquitetos, engenheiros e construtoras para um fluxo de trabalho mais ágil e produtivo.
+-   ### Conformidade e Normas Técnicas
+    <img src="../assets/images/icon-audit.png" alt="Ícone de auditoria" class="bd-icon" />
+    Projetos 100% alinhados à ISO 19650 (já obrigatória no Brasil) e às exigências contratuais. Nossa infraestrutura valida automaticamente se cada entrega respeita os requisitos do cliente e as normas brasileiras obrigatórias. Você elimina riscos jurídicos e técnicos, assegurando que a documentação da sua obra esteja sempre organizada e em conformidade com o padrão nacional.
 
--   ### Cumprimento de Prazos e Orçamentos
-    Com modelagem BIM, você evita atrasos e gastos não planejados, garantindo previsibilidade na execução da obra.
+-   ### Inteligência de Dados e Consulta Ágil
+    <img src="../assets/images/icon-think.png" alt="Ícone de inteligência de dados" class="bd-icon" />
+    Use o poder da Inteligência Artificial para conversar com os dados do seu projeto. Em vez de navegar em softwares complexos, você obtém respostas imediatas sobre quantitativos, materiais e prazos em linguagem natural. Transformamos o seu banco de dados em um assistente inteligente que facilita a tomada de decisão para quem está no campo ou no escritório.
 
 </div>
 
@@ -46,41 +50,125 @@ Lideramos a implementação do BIM no Brasil, auxiliando empresas privadas e ór
 
 </div>
 
-<div class="bd-section" markdown id="servicos">
+<div class="bd-section" markdown id="target-audience">
 
-## Nossos Serviços
+## Engenharia de Dados é para quem?
 
 <div class="grid cards bd-cards-3" markdown>
 
--   ### Desenvolvimento de software
-    Desenvolvimento de apps e sistemas sob medida para suprir as demandas particulares dos clientes, empregando diversas tecnologias.
+-   ### Construtoras e Incorporadoras
+    <img src="../assets/images/icon-architect.webp" alt="Ícone de construtora" class="bd-icon" />
+    Para empresas que precisam de números reais para não perder dinheiro. Se você está cansado de orçamentos que não batem com a realidade e quer ter o controle total dos custos e materiais da sua obra em tempo real, este serviço é para você.
 
--   ### Aplicativos Móveis
-    Criação de aplicativos para dispositivos móveis, como smartphones e tablets, em plataformas como Android e iOS.
+-   ### Escritórios de Projetos e Coordenação
+    <img src="../assets/images/icon-plan.png" alt="Ícone de escritório" class="bd-icon" />
+    Para coordenadores que perdem horas conferindo arquivos de terceiros. Automatize a verificação de prazos e normas técnicas, garantindo que sua equipe foque no que realmente importa: projetar com qualidade e entregar modelos sem erros de informação.
 
--   ### Sistemas de Gestão Empresarial (ERP)
-    Criação de sistemas que ajudam empresas a gerenciar recursos, processos e informações em todas as áreas operacionais, totalmente integrado aos sistemas atuais.
+-   ### Gestores de Ativos, Operação e Manutenção
+    <img src="../assets/images/icon-operation.png" alt="Ícone de operação" class="bd-icon" />
+    Para quem administra o edifício depois de pronto. Facilitamos a manutenção e a gestão do imóvel entregando um banco de dados organizado, onde você encontra qualquer manual, garantia ou medida em segundos, sem precisar revirar pilhas de papel.
 
--   ### Manutenção e suporte
-    Fornecimento de serviços de manutenção contínua, correções de bugs, atualizações e suporte técnico aos clientes.
-
--   ### Gerenciamento de Relacionamento com o Cliente (CRM)
-    Criação de soluções para ajudar empresas a gerenciar interações com clientes e melhorar o relacionamento com eles, totalmente integrado aos sistemas atuais.
-
--   ### Integração de sistemas
-    Integração de diferentes sistemas e aplicativos para garantir a sincronização de dados e operações.
-
--   ### Consultoria BIM
-    Soluções sob medida, capacitação especializada, assistência na adoção do BIM e modelagem precisa.
-
--   ### Consultoria em TI
-    Prestação de serviços de consultoria para ajudar empresas a identificar necessidades de software, elaborar estratégias e planejar projetos.
+-   ### Órgãos Públicos e Grandes Contratantes
+    <img src="../assets/images/icon-goverment.png" alt="Ícone de governo" class="bd-icon" />
+    Para quem precisa garantir a transparência e a conformidade com leis, regulações e normas (e.g. ISO 19650). Tenha a segurança jurídica de que todos os dados do projeto estão auditados, versionados e protegidos em uma infraestrutura que pertence à sua instituição, e não ao fornecedor.
 
 </div>
 
+[É para mim!](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+
 </div>
 
-![](https://p16-cc-image-search-sign-sg.ibyteimg.com/tos-alisg-i-h9hire4aei-sg/image/85a1c6d4b4147ae0b433e1df3d15ea1b~tplv-h9hire4aei-image.jpeg?rk3s=add9cc80&x-expires=1782684640&x-signature=rVmz4EeCHqwzK4mGqiEzffg03aY%3D){ .bd-wide-img }
+<div class="bd-section" id="pricing">
+
+<p class="bd-eyebrow bd-accent">PLANOS</p>
+
+<h2>Escolha o plano ideal</h2>
+
+<div class="grid cards bd-cards-3 bd-pricing">
+<ul>
+  <li>
+    <h3 class="bd-accent">Plano R1</h3>
+    <p>Este plano é focado em auditoria, saneamento e conformidade de ativos digitais, funcionando como um filtro de qualidade para dados recebidos de terceiros.</p>
+
+    <div class="bd-pricing__price">
+      <input class="bd-price-toggle__input" type="checkbox" id="pricing-r1-currency" aria-label="Alternar moeda entre BRL e EUR">
+      <div class="bd-pricing__amount" aria-live="polite">
+        <span class="bd-price bd-price--brl">R$ 1324,99</span>
+        <span class="bd-price bd-price--eur">199.99 €</span>
+        <span class="bd-price__period">/mês</span>
+      </div>
+      <label class="bd-price-toggle" for="pricing-r1-currency">
+        <span class="bd-price-toggle__label">R$</span>
+        <span class="bd-price-toggle__switch" aria-hidden="true"></span>
+        <span class="bd-price-toggle__label">€</span>
+      </label>
+    </div>
+
+    <ul>
+      <li><b>Recebimento e Auditoria Automatizada:</b> Canal online para upload de arquivos IFC, com auditorias automáticas baseadas em IDS para checar a conformidade com o plano de execução (BEP)</li>
+      <li><b>Relatórios de Inconformidade:</b> Emissão de relatórios técnicos de fácil leitura apontando falhas na informação, permitindo que o modelo seja devolvido para correção</li>
+      <li><b>Merge e Consolidação de Modelos:</b> Após a validação, os modelos parciais são unidos (federados) em um único arquivo limpo e estruturado</li>
+      <li><b>Normalização de Dados Periféricos:</b> Processamento e organização de informações não estruturadas vindas de PDFs, Excel ou WhatsApp, conectando-as ao contexto técnico do projeto</li>
+      <li><b>Extração MVD (Model View Definition):</b> Preparação de recortes de dados específicos e validados para entregas finais ou orçamentos</li>
+    </ul>
+
+    <div class="bd-pricing__cta">
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+o+Plano+R1&type=phone_number&app_absent=0" class="md-button md-button--primary">Quero este plano</a>
+    </div>
+  </li>
+
+  <li class="bd-pricing__card--featured">
+    <h3 class="bd-accent">Plano R5</h3>
+    <p>Focado em produtividade e inteligência de negócios, este plano atua como o departamento de engenharia de dados do cliente.</p>
+
+    <div class="bd-pricing__price">
+      <input class="bd-price-toggle__input" type="checkbox" id="pricing-r5-currency" aria-label="Alternar moeda entre BRL e EUR">
+      <div class="bd-pricing__amount" aria-live="polite">
+        <span class="bd-price bd-price--brl">R$ 5.627,99</span>
+        <span class="bd-price bd-price--eur">899.99 €</span>
+        <span class="bd-price__period">/mês</span>
+      </div>
+      <label class="bd-price-toggle" for="pricing-r5-currency">
+        <span class="bd-price-toggle__label">R$</span>
+        <span class="bd-price-toggle__switch" aria-hidden="true"></span>
+        <span class="bd-price-toggle__label">€</span>
+      </label>
+    </div>
+
+    <ul>
+      <li><b>Toda a Infraestrutura do Plano R5:</b> Toda a Infraestrutura do Plano R1: Contempla todas as funcionalidades de auditoria, limpeza e merge do plano básico</li>
+      <li><b>Integração Nativa Revit:</b> Integração e manipulação direta com os arquivos proprietários (.rvt) em sua origem</li>
+      <li><b>Automação de Documentação (Emissão de Pranchas):</b> Criação de scripts para gerar automaticamente vistas, folhas e tabelas, mantendo os arquivos em PDF e DWG sempre atualizados com o modelo 3D</li>
+      <li><b>Camada de IA Generativa (LLM):</b> Uma interface de linguagem natural para "conversar" com os dados do projeto, permitindo extrair rapidamente quantitativos ou cruzar textos de memoriais descritivos com os modelos</li>
+      <li><b>Dashboards de Quantitativos Real-Time:</b> Telas dinâmicas que exibem volumes, custos e áreas baseados nos modelos validados, trocando as estimativas por fatos</li>
+      <li><b>Versionamento e Auditoria Histórica (Data Warehouse):</b> Um banco de dados que guarda o histórico do projeto, permitindo rastrear exatamente o que foi alterado entre cada revisão e os impactos de custo dessas mudanças</li>
+    </ul>
+
+    <div class="bd-pricing__cta">
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+o+Plano+R5&type=phone_number&app_absent=0" class="md-button md-button--primary">Quero este plano</a>
+    </div>
+  </li>
+
+  <li>
+    <h3 class="bd-accent">Plano RX</h3>
+    <p>Voltado para projetos de alta complexidade, pesquisa aplicada e implementação de ecossistemas OpenBIM, sendo destinado a empresas que precisam de uma integração de larga escala ou de uma arquitetura de dados personalizada.</p>
+
+    <ul>
+      <li><b style="color: #00c853; display: inline-block;">Não é uma extensão do Plano R5:</b> Seus itens podem ser personalizados e contratados separadamente.</li>
+      <li><b>Desenvolvimento de Ontologias Próprias:</b> Modelagem de grafos de conhecimento e de ontologias específicas voltadas para o domínio do cliente, baseando-se nas diretrizes da ISO 21597 e na Web Semântica.</li>
+      <li><b>Implementação de CDE (Common Data Environment) Customizado:</b> Criação de uma arquitetura para ambientes de dados em nuvem garantindo alta conformidade e segurança, seguindo padrões similares aos exigidos em infraestruturas críticas</li>
+      <li><b>Treinamento:</b> Capacitação das equipes internas do cliente para que consigam operar dentro dos padrões do OpenBIM e manter fluxos de trabalho determinísticos.</li>
+      <li><b>Pesquisa e Desenvolvimento (P&D):</b> Aplicação de padrões emergentes na indústria (como o IFC5) e de automações de engenharia específicas para resolver problemas complexos ligados à gestão de ativos e interoperabilidade de dados.</li>
+    </ul>
+
+    <div class="bd-pricing__cta">
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+o+Plano+RX&type=phone_number&app_absent=0" class="md-button md-button--primary">Quero este plano</a>
+    </div>
+  </li>
+</ul>
+</div>
+
+</div>
 
 <div class="bd-section" markdown>
 
@@ -89,96 +177,62 @@ Lideramos a implementação do BIM no Brasil, auxiliando empresas privadas e ór
 <div class="bd-faq">
 
 <details>
-<summary>Como a Implementação BIM pode melhorar meu projeto?</summary>
-<p>A implementação BIM envolve assessoria e suporte especializados para integrar a metodologia BIM em projetos e fluxos de trabalho. Nossa equipe garante uma transição bem-sucedida, otimizando processos e melhorando a eficiência da sua obra ou empreendimento.</p>
+<summary>O que é Engenharia de Dados na construção civil?</summary>
+<p>É o serviço que organiza, limpa e conecta todas as informações da sua obra (projetos, planilhas e sistemas) para que você tenha números confiáveis e automação real, sem depender de conferência manual.</p>
 </details>
 
 <details>
-<summary>Como funciona o Planejamento e Estratégia BIM?</summary>
-<p>Desenvolvemos uma estratégia BIM personalizada de acordo com as necessidades e objetivos da sua empresa. Isso inclui a definição de padrões, diretrizes e metas para garantir a máxima eficiência e padronização dos processos.</p>
+<summary>Eu já uso BIM e Revit. Por que preciso da Brasidata?</summary>
+<p>O BIM modela, mas a Brasidata garante que o dado dentro desse modelo esteja correto, auditado e integrado aos seus outros sistemas (como o financeiro e o ERP), evitando que o seu BIM seja apenas uma maquete 3D bonita.</p>
 </details>
 
 <details>
-<summary>O que é Modelagem BIM e como ela ajuda no projeto?</summary>
-<p>Criamos modelos 3D paramétricos que representam todos os elementos do seu projeto, como arquitetura, estrutura e sistemas MEP (Mecânica, Elétrica e Hidráulica). Isso proporciona uma visão holística e colaborativa, reduzindo erros e melhorando a tomada de decisões.</p>
+<summary>Como vocês garantem que os projetistas entreguem o que eu contratei?</summary>
+<p>Por meio do nosso serviço de auditoria, validamos automaticamente cada arquivo recebido contra as normas técnicas e as exigências do seu contrato. Se houver erro, o sistema aponta na hora o problema e o responsável.</p>
 </details>
 
 <details>
-<summary>Quais os benefícios da Implementação BIM?</summary>
-<p>Coordenamos modelos BIM de várias disciplinas para evitar conflitos e colisões no projeto. Isso facilita a comunicação entre equipes e garante um fluxo de trabalho mais ágil e integrado, prevenindo problemas antes da execução.</p>
+<summary>O que muda com a ISO 19650 na minha empresa?</summary>
+<p>A ISO 19650 agora é o padrão nacional obrigatório. Nós adequamos toda a sua estrutura de dados para que você esteja em conformidade com ela, garantindo segurança jurídica e organização profissional da informação.</p>
 </details>
 
 <details>
-<summary>Quais tipos de Análises e Simulações podem ser feitas com BIM?</summary>
-<p>Utilizamos modelos BIM para realizar diversas análises, incluindo: análise de interferências, análise estrutural, simulação energética e fluxo de pessoas.</p>
+<summary>Vou ficar "preso" a algum software específico?</summary>
+<p>Não. Um dos nossos pilares é a <b>Soberania Digital</b>. Usamos padrões abertos (OpenBIM) para que os dados pertençam à sua empresa, permitindo que você acesse suas informações para sempre, independente de qual software usar no futuro.</p>
 </details>
 
 <details>
-<summary>O que é Gestão de Dados BIM e por que ela é importante?</summary>
-<p>Implementamos processos de gestão de informações BIM ao longo do ciclo de vida do projeto. Isso garante que todas as disciplinas compartilhem dados confiáveis, otimizando a tomada de decisões e melhorando a rastreabilidade das informações.</p>
+<summary>Como a Inteligência Artificial ajuda na minha obra?</summary>
+<p>No nosso plano avançado, você pode "conversar" com os dados do seu projeto. Em vez de procurar em modelos complexos, você pergunta por chat o volume de um material ou o status de uma etapa e obtém a resposta imediata.</p>
 </details>
 
 <details>
-<summary>Como o BIM melhora o planejamento e orçamento da obra?</summary>
-<p>Usamos modelos BIM para criar orçamentos mais precisos e detalhados, reduzindo custos, melhorando o planejamento e aumentando a previsibilidade.</p>
+<summary>Vocês fazem a emissão de pranchas e documentos?</summary>
+<p>Sim. No plano avançado, automatizamos a geração de folhas e tabelas diretamente dos modelos validados, o que elimina erros de digitação e garante que a prancha no canteiro reflita exatamente o que foi projetado.</p>
 </details>
 
 <details>
-<summary>Como a Auditoria BIM melhora projetos existentes?</summary>
-<p>A Auditoria BIM é um serviço de revisão e análise da implementação BIM em projetos já em andamento. Identificamos erros, oportunidades de melhoria e pontos de otimização, alinhando o projeto às melhores práticas do mercado.</p>
+<summary>Dá para integrar as informações do WhatsApp e planilhas ao projeto?</summary>
+<p>Sim. Nosso sistema é capaz de organizar dados vindos de fontes informais, vinculando conversas, documentos e tabelas ao contexto técnico da obra para que nada se perca.</p>
+</details>
+
+<details>
+<summary>Preciso contratar uma equipe de TI para usar a Brasidata?</summary>
+<p>Não. Nós funcionamos como o seu departamento de engenharia de dados. Entregamos a infraestrutura pronta e os relatórios mastigados para que sua equipe técnica foque apenas na execução e gestão da obra.</p>
 </details>
 
 </div>
 
 </div>
-
-<div class="bd-section" markdown>
-
-## Somos a Brasidata!
-
-### Sua Parceira em Soluções de Software e Consultoria BIM
-
-<div class="grid cards bd-cards-3" markdown>
-
--   ### Missão
-    Capacitar empresas e profissionais para a transformação digital na construção civil, oferecendo treinamento, consultoria e modelagem BIM, para elevar a eficiência e a qualidade dos projetos.
-
--   ### Visão
-    Ser referência em ensino e consultoria BIM no Brasil, promovendo a adoção da metodologia BIM em empresas privadas e no setor público, impulsionando a inovação e a produtividade na construção civil.
-
--   ### Valores
-    Valorizamos a capacitação como base para a transformação digital na construção civil, unindo inovação e excelência técnica para otimizar processos. Defendemos a sustentabilidade, reduzindo desperdícios por meio da digitalização, e mantemos um forte compromisso com o setor público, promovendo transparência e eficiência em obras governamentais.
-
-</div>
-
-[Entre em Contato](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
-
-</div>
-
-![](https://p16-cc-image-search-sign-sg.ibyteimg.com/tos-alisg-i-h9hire4aei-sg/image/b728cdeb7d74cf8c99b64a3f12fe85df~tplv-h9hire4aei-image.jpeg?rk3s=add9cc80&x-expires=1782684640&x-signature=yP%2FEn416pulosOPNFC6nZXUVs%2Bk%3D){ .bd-wide-img }
 
 <div class="bd-section bd-cta" markdown>
 
-## Dúvidas sobre BIM? Estamos aqui para ajudar!
+## Seus dados no lugar certo!
 
-A implementação do BIM pode transformar seus projetos, reduzindo custos, otimizando processos e aumentando a eficiência. Nossa equipe está pronta para esclarecer suas dúvidas e oferecer a melhor solução para sua empresa.
+Liberte sua empresa da "armadilha da ferramenta" e da dependência de fornecedores únicos de softwares fechados.
 
-[Entre em Contato](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
-
-</div>
-
-<div class="bd-section bd-footer" markdown>
-
-## Empresa
-
-**Telefone:** +55 (24) 98136-0027  
-**Endereço:** Rua Senador Dantas, 117, Centro, Rio de Janeiro, RJ - CEP 20031-911  
-**Email:** contato@brasidata.com.br
+[Saber mais](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>
 
-<a class="bd-wa-float" href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21&type=phone_number&app_absent=0" aria-label="WhatsApp" target="_blank" rel="noopener">
-<svg viewBox="0 0 32 32" aria-hidden="true"><path fill="currentColor" d="M19.11 17.46c-.27-.14-1.6-.79-1.85-.88-.25-.09-.43-.14-.61.14-.18.27-.7.88-.86 1.06-.16.18-.32.2-.59.07-.27-.14-1.15-.42-2.18-1.35-.81-.72-1.35-1.61-1.51-1.88-.16-.27-.02-.41.12-.55.12-.12.27-.32.41-.48.14-.16.18-.27.27-.45.09-.18.05-.34-.02-.48-.07-.14-.61-1.47-.84-2.02-.22-.52-.44-.45-.61-.46l-.52-.01c-.18 0-.48.07-.73.34-.25.27-.95.93-.95 2.27 0 1.34.98 2.64 1.12 2.82.14.18 1.93 2.95 4.68 4.13.66.28 1.17.45 1.57.58.66.21 1.26.18 1.74.11.53-.08 1.6-.65 1.83-1.27.23-.61.23-1.14.16-1.27-.07-.13-.25-.2-.52-.34zM16 3C8.83 3 3 8.67 3 15.66c0 2.23.6 4.41 1.74 6.32L3 29l7.2-1.88c1.84 1 3.92 1.53 6.03 1.54h.01c7.17 0 13-5.67 13-12.66C29.24 8.67 23.17 3 16 3zm0 23.44h-.01c-1.9-.01-3.76-.52-5.38-1.49l-.39-.23-4.27 1.12 1.14-4.05-.25-.4a10.26 10.26 0 0 1-1.6-5.55C5.24 9.91 10.1 5.6 16 5.6c5.9 0 10.76 4.31 10.76 10.06 0 5.75-4.86 10.06-10.76 10.06z"/></svg>
-</a>
 
-</div>

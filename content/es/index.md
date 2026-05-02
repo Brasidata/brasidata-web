@@ -14,9 +14,9 @@ hide:
 
 </div>
 
-<div class="bd-section" markdown>
+<div class="bd-section" markdown id="data-engineering">
 
-<p class="bd-eyebrow">CONSULTORÍA BIM</p>
+<p class="bd-eyebrow bd-accent">CONSULTORÍA BIM</p>
 
 ## ¿Por qué adoptar consultoría BIM?
 
