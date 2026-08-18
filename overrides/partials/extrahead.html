@@ -56,7 +56,7 @@
       if (lang !== "pt") return null;
       var homePrefix = "/pt/";
       var isHome = window.location.pathname === homePrefix || window.location.pathname === homePrefix + "index.html";
-      return isHome ? "#data-engineering" : homePrefix + "#data-engineering";
+      return isHome ? "#how-it-works" : homePrefix + "#how-it-works";
     }
 
     function ensureDataEngineeringMenuLink() {
@@ -78,7 +78,7 @@
 
         var a = document.createElement("a");
         a.className = "md-nav__link";
-        a.textContent = "Engenharia de Dados";
+        a.textContent = "Engenharia de Informação";
 
         li.appendChild(a);
         list.appendChild(li);

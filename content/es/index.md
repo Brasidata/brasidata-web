@@ -5,168 +5,137 @@ hide:
 
 <div class="bd-hero" markdown>
 
-<h1 id="voce-ainda-entrega-ou-recebe-projeto-as-cegas">¿Aún entregas o recibes <span class="bd-accent">proyectos a ciegas</span>?</h1>
+<h1 id="tus-datos-de-proyecto-ya-existen-solo-no-se-hablan-entre-si">Tus datos de proyecto ya existen. Solo no <span class="bd-accent">se hablan entre sí</span>.</h1>
 
-<p class="bd-lead">Brasidata trabaja para sacar a la ingeniería de la "oscuridad". Implementamos la infraestructura necesaria para que tu empresa deje de confiar ciegamente en software o procesos manuales. Garantizamos que toda la información que entra o sale sea auditada, validada y útil.</p>
+<p class="bd-lead">Brasidata conecta IFC, documentos, fotos, hojas de cálculo, pedidos y facturas, y registros de ejecución en una base única y consultable — y coloca una capa de IA encima, para que preguntes en lenguaje natural lo que necesitas saber sobre la obra. Detrás está InfoBIM, nuestro motor de código abierto. Recibes la base consultable, un dosier navegable en HTML y un informe de brechas, en días, no semanas.</p>
 
 [Hable con nosotros](https://api.whatsapp.com/send/?phone=5524981796934&text=Hola%2C+vengo+del+sitio+y+quiero+saber+m%C3%A1s%21%20-%20%5BHero%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
-[Planes](#pricing){ .md-button }
+[Cómo funciona](#how-it-works){ .md-button }
 
 </div>
 
-<div class="bd-section" markdown id="data-engineering">
+<div class="bd-section" markdown id="how-it-works">
 
-<p class="bd-eyebrow bd-accent">INGENIERÍA DE DATOS</p>
+<p class="bd-eyebrow bd-accent">INGENIERÍA DE INFORMACIÓN</p>
 
-## ¿Por qué adoptar la ingeniería de datos?
+## Qué hacemos
 
-</div>
-
-<div class="bd-section" markdown>
-
-Estructuramos tus datos en estándares abiertos (OpenBIM), garantizando que tengas acceso de por vida a tus proyectos y la libertad de cambiar de herramienta cuando quieras, sin perder nunca el patrimonio digital de tu obra.
+La información de tu obra ya está toda ahí — repartida entre modelos, contratos, hojas de cálculo, fotos de campo y conversaciones. El trabajo es conectar esas fuentes entre sí y convertir eso en algo que responde preguntas.
 
 <div class="grid cards bd-cards-4" markdown>
 
--   ### Conectividad Total de Datos
+-   ### Conexión transversal de fuentes
     <img src="../assets/images/icon-connection.png" alt="Ícono de conexión" class="bd-icon" />
-    Integramos tus proyectos, hojas de cálculo y sistemas de gestión en un flujo único y automático. Desde Revit hasta la obra, los datos se comunican sin errores de conversión, eliminando el trabajo manual de volver a digitar información y garantizando que la oficina y la obra hablen el mismo idioma.
+    IFC, documentos contractuales, fotos de campo, hojas de cálculo, pedidos y facturas, y registros de ejecución, enlazados entre sí en una base única. El elemento del modelo pasa a saber qué factura lo compró y qué foto registró su ejecución.
 
--   ### Auditoría y Calidad de Entrega
-    <img src="../assets/images/icon-standard.png" alt="Ícono de auditoría" class="bd-icon" />
-    Asegura que todos los proyectistas y proveedores entreguen exactamente lo contratado. Nuestra auditoría automática valida cada archivo recibido, identificando errores e inconsistencias en los datos antes de que lleguen a la obra. Recibes solo información limpia, federada y lista para usar, eliminando el retrabajo de revisión manual.
+-   ### Consulta en lenguaje natural
+    <img src="../assets/images/icon-think.png" alt="Ícono de inteligencia" class="bd-icon" />
+    Una capa de IA sobre la base conectada. Preguntas cantidades, materiales, plazos, el estado de un sistema o el historial de una decisión, y recibes la respuesta directo — sin abrir software pesado ni escarbar en carpetas de red.
 
--   ### Cumplimiento y Normas Técnicas
-    <img src="../assets/images/icon-audit.png" alt="Ícono de auditoría" class="bd-icon" />
-    Proyectos 100% alineados a la ISO 19650 (obligatoria en diversos países) y a las exigencias contractuales. Nuestra infraestructura valida automáticamente si cada entrega respeta los requisitos del cliente y las normativas aplicables. Eliminas riesgos legales y técnicos, asegurando que la documentación de tu obra esté siempre organizada y en conformidad con los estándares internacionales.
+-   ### Trazabilidad hasta la fuente
+    <img src="../assets/images/icon-standard.png" alt="Ícono de estándar" class="bd-icon" />
+    Cada respuesta apunta de vuelta al archivo, la página o la foto que la originó. No tienes que confiar en el resumen: puedes verificar de dónde vino cada dato.
 
--   ### Inteligencia de Datos y Consulta Ágil
-    <img src="../assets/images/icon-think.png" alt="Ícono de inteligencia de datos" class="bd-icon" />
-    Usa el poder de la Inteligencia Artificial para conversar con los datos de tu proyecto. En lugar de navegar por software complejo, obtienes respuestas inmediatas sobre cantidades, materiales y plazos en lenguaje natural. Transformamos tu base de datos en un asistente inteligente que facilita la toma de decisiones para quienes están en campo o en la oficina.
+-   ### Motor de código abierto, sin lock-in
+    <img src="../assets/images/icon-goverment.png" alt="Ícono de cumplimiento" class="bd-icon" />
+    InfoBIM es open-source. Puedes auditar cómo se conectó la información y llevar tus datos adonde quieras — es prueba de competencia técnica, no una dependencia de proveedor.
 
 </div>
 
-[¡Quiero saber más!](https://api.whatsapp.com/send/?phone=5524981796934&text=Hola%2C+vengo+del+sitio+y+quiero+saber+m%C3%A1s%21%20-%20%5BEng%20Dados%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+Trabajamos con alcance cerrado, definido caso a caso, y entrega en días. No es una suscripción de autoservicio: hablamos antes para entender el escenario.
+
+[Hable con nosotros sobre su proyecto](https://api.whatsapp.com/send/?phone=5524981796934&text=Hola%2C+vengo+del+sitio+y+quiero+saber+m%C3%A1s%21%20-%20%5BComoFunciona%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+
+</div>
+
+<div class="bd-section" markdown id="triggers">
+
+<p class="bd-eyebrow bd-accent">CUÁNDO LLAMAR A BRASIDATA</p>
+
+## Cuándo este trabajo marca la diferencia
+
+No es un servicio de rutina. Se activa cuando la información de un activo, sistema o etapa necesita reunirse y volverse consultable en poco tiempo.
+
+<div class="grid cards bd-cards-3" markdown>
+
+-   ### Handover, as-built y comisionamiento
+    <img src="../assets/images/icon-standard.png" alt="Ícono de estándar" class="bd-icon" />
+    Cuando la entrega no cierra porque nada amarra lo proyectado, lo ejecutado y lo documentado.
+
+-   ### Medición, auditoría técnica y fiscalización
+    <img src="../assets/images/icon-audit.png" alt="Ícono de auditoría" class="bd-icon" />
+    Cuando hay que reconstruir el historial de una medición desde las fuentes, y no solo desde una hoja de cálculo consolidada.
+
+-   ### Investigación de causa raíz
+    <img src="../assets/images/icon-plan.png" alt="Ícono de planificación" class="bd-icon" />
+    Cuando aparece una no conformidad crítica y hay que cruzar proyecto, ejecución y decisiones para entender el origen.
+
+-   ### Reanudación de obra o cambio de equipo
+    <img src="../assets/images/icon-operation.png" alt="Ícono de operación" class="bd-icon" />
+    Cuando un nuevo equipo asume un proyecto y necesita recuperar el contexto técnico antes de seguir.
+
+-   ### Sustento técnico de un reclamo contractual
+    <img src="../assets/images/icon-data-intelligence.png" alt="Ícono de inteligencia de datos" class="bd-icon" />
+    Cuando un reclamo o una revisión de contrato necesita sustentarse con dato de ingeniería trazable hasta su fuente.
+
+</div>
+
+[Reconozco este escenario — hable con nosotros](https://api.whatsapp.com/send/?phone=5524981796934&text=Hola%2C+vengo+del+sitio+y+quiero+saber+m%C3%A1s%21%20-%20%5BGatillos%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>
 
 <div class="bd-section" markdown id="target-audience">
 
-## ¿Para quién es la Ingeniería de Datos?
+## Para quién trabajamos
+
+Operamos donde el volumen de información es grande y disperso lo suficiente para que nadie pueda responder rápido a una pregunta técnica — no es el perfil de pequeñas constructoras residenciales.
 
 <div class="grid cards bd-cards-3" markdown>
 
--   ### Constructoras y Promotoras
-    <img src="../assets/images/icon-architect.webp" alt="Ícono de constructora" class="bd-icon" />
-    Para empresas que necesitan números reales para no perder dinero. Si estás cansado de presupuestos que no coinciden con la realidad y quieres tener el control total de los costos y materiales de tu obra en tiempo real, este servicio es para ti.
-
--   ### Oficinas de Proyectos y Coordinación
-    <img src="../assets/images/icon-plan.png" alt="Ícono de oficina" class="bd-icon" />
-    Para coordinadores que pierden horas revisando archivos de terceros. Automatiza la verificación de plazos y normas técnicas, garantizando que tu equipo se enfoque en lo que realmente importa: proyectar con calidad y entregar modelos sin errores de información.
-
--   ### Gestores de Activos, Operación y Mantenimiento
+-   ### EPC industrial, petróleo & gas y data centers
     <img src="../assets/images/icon-operation.png" alt="Ícono de operación" class="bd-icon" />
-    Para quienes administran el edificio una vez terminado. Facilitamos el mantenimiento y la gestión del inmueble entregando una base de datos organizada, donde encuentras cualquier manual, garantía o medida en segundos, sin tener que revolver montones de papel.
+    Proyectos de alta complejidad, muchos contratistas y alto costo de retrabajo, donde una información perdida sale cara.
 
--   ### Organismos Públicos y Grandes Contratistas
+-   ### Infraestructura, concesiones y obras públicas complejas
     <img src="../assets/images/icon-goverment.png" alt="Ícono de gobierno" class="bd-icon" />
-    Para quienes necesitan garantizar la transparencia y el cumplimiento de leyes, regulaciones y normas (ej. ISO 19650). Ten la seguridad jurídica de que todos los datos del proyecto están auditados, versionados y protegidos en una infraestructura que pertenece a tu institución, y no al proveedor.
+    Contratos largos, fiscalización recurrente y exigencia de documentación organizada y recuperable.
+
+-   ### Peritaje, comisionamiento/handover y gerenciadoras
+    <img src="../assets/images/icon-audit.png" alt="Ícono de auditoría" class="bd-icon" />
+    También son canales socios: operamos detrás de la marca de quienes ya prestan este servicio al cliente final.
+
+-   ### Propietarios y operadores de activos industriales críticos
+    <img src="../assets/images/icon-real-state.png" alt="Ícono de activo" class="bd-icon" />
+    Quien responde por la operación y el mantenimiento tras la entrega, y necesita encontrar cualquier manual, medida o registro en segundos.
 
 </div>
 
-[¡Es para mí!](https://api.whatsapp.com/send/?phone=5524981796934&text=Hola%2C+vengo+del+sitio+y+quiero+saber+m%C3%A1s%21%20-%20%5BPublico%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[Mi caso encaja — hable con nosotros](https://api.whatsapp.com/send/?phone=5524981796934&text=Hola%2C+vengo+del+sitio+y+quiero+saber+m%C3%A1s%21%20-%20%5BSegmentos%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>
 
-<div class="bd-section" id="pricing">
+<div class="bd-section" markdown id="offers">
 
-<p class="bd-eyebrow bd-accent">PLANES</p>
+<p class="bd-eyebrow bd-accent">OFERTAS RECURRENTES</p>
 
-<h2>Elige el plan ideal</h2>
+## Después del trabajo puntual, mantenemos la base viva
 
-<div class="grid cards bd-cards-3 bd-pricing">
-<ul>
-  <li>
-    <h3 class="bd-accent">Plan R1</h3>
-    <p>Este plan se enfoca en auditoría, saneamiento y cumplimiento de activos digitales, funcionando como un filtro de calidad para datos recibidos de terceros.</p>
+Ofertas complementarias — para quienes ya contrataron un trabajo puntual o ya tienen relación con Brasidata. No son nuestro producto principal.
 
-    <div class="bd-pricing__price">
-      <input class="bd-price-toggle__input" type="checkbox" id="pricing-r1-currency-es" aria-label="Alternar moneda entre EUR y USD">
-      <div class="bd-pricing__amount" aria-live="polite">
-        <span class="bd-price bd-price--eur">199.99 €</span>
-        <span class="bd-price bd-price--usd">$ 219.99</span>
-        <span class="bd-price__period">/mes</span>
-      </div>
-      <label class="bd-price-toggle" for="pricing-r1-currency-es">
-        <span class="bd-price-toggle__label">€</span>
-        <span class="bd-price-toggle__switch" aria-hidden="true"></span>
-        <span class="bd-price-toggle__label">$</span>
-      </label>
-    </div>
+<div class="grid cards bd-cards-3" markdown>
 
-    <ul>
-      <li><b>Recepción y Auditoría Automatizada:</b> Canal online para la carga de archivos IFC, con auditorías automáticas basadas en IDS para verificar el cumplimiento del plan de ejecución (BEP)</li>
-      <li><b>Informes de Inconformidad:</b> Emisión de informes técnicos de fácil lectura señalando fallas en la información, permitiendo que el modelo sea devuelto para su corrección</li>
-      <li><b>Fusión y Consolidación de Modelos:</b> Tras la validación, los modelos parciales se unen (federan) en un único archivo limpio y estructurado</li>
-      <li><b>Normalización de Datos Periféricos:</b> Procesamiento y organización de información no estructurada proveniente de PDFs, Excel o WhatsApp, conectándola al contexto técnico del proyecto</li>
-      <li><b>Extracción MVD (Model View Definition):</b> Preparación de recortes de datos específicos y validados para entregas finales o presupuestos</li>
-    </ul>
+-   ### Alianza White-Label
+    Operamos InfoBIM tras bambalinas y entregamos las bases consultables y los dosieres con la marca de tu firma de peritaje, consultoría de comisionamiento o gerenciadora. Tú mantienes la responsabilidad técnica y el informe pericial; Brasidata es tu proveedor de apoyo al análisis. Suscripción mensual + tarifa por proyecto.
 
-    <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hola%2C+quiero+el+Plan+R1%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">Quiero este plan</a>
-    </div>
-  </li>
+-   ### Mantenimiento Continuo
+    Para quienes ya contrataron un trabajo puntual: mantenemos la base conectada y actualizada durante la obra o la operación, en lugar de dejarla envejecer. Suscripción mensual.
 
-  <li class="bd-pricing__card--featured">
-    <h3 class="bd-accent">Plan R5</h3>
-    <p>Enfocado en productividad e inteligencia de negocios, este plan actúa como el departamento de ingeniería de datos del cliente.</p>
+-   ### InfoBIM Watch
+    Monitoreo pasivo y de bajo costo, para quienes ya tuvieron contacto con Brasidata. No se vende mediante prospección en frío.
 
-    <div class="bd-pricing__price">
-      <input class="bd-price-toggle__input" type="checkbox" id="pricing-r5-currency-es" aria-label="Alternar moneda entre BRL y EUR">
-      <div class="bd-pricing__amount" aria-live="polite">
-        <span class="bd-price bd-price--eur">899.99 €</span>
-        <span class="bd-price bd-price--usd">$ 979.99</span>
-        <span class="bd-price__period">/mes</span>
-      </div>
-      <label class="bd-price-toggle" for="pricing-r5-currency-es">
-        <span class="bd-price-toggle__label">€</span>
-        <span class="bd-price-toggle__switch" aria-hidden="true"></span>
-        <span class="bd-price-toggle__label">$</span>
-      </label>
-    </div>
-
-    <ul>
-      <li><b>Toda la Infraestructura del Plan R1:</b> Contempla todas las funcionalidades de auditoría, limpieza y fusión del plan básico</li>
-      <li><b>Integración Nativa Revit:</b> Integración y manipulación directa con los archivos propietarios (.rvt) en su origen</li>
-      <li><b>Automatización de Documentación (Emisión de Planos):</b> Creación de scripts para generar automáticamente vistas, planos y tablas, manteniendo los archivos en PDF y DWG siempre actualizados con el modelo 3D</li>
-      <li><b>Capa de IA Generativa (LLM):</b> Una interfaz de lenguaje natural para "conversar" con los datos del proyecto, permitiendo extraer rápidamente cantidades o cruzar textos de memorias descriptivas con los modelos</li>
-      <li><b>Dashboards de Cantidades en Tiempo Real:</b> Pantallas dinámicas que muestran volúmenes, costos y áreas basados en los modelos validados, cambiando las estimaciones por hechos</li>
-      <li><b>Versionado y Auditoría Histórica (Data Warehouse):</b> Una base de datos que guarda el historial del proyecto, permitiendo rastrear exactamente qué se cambió entre cada revisión y los impactos de costo de esos cambios</li>
-    </ul>
-
-    <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hola%2C+quiero+el+Plan+R5%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">Quiero este plan</a>
-    </div>
-  </li>
-
-  <li>
-    <h3 class="bd-accent">Plan RX</h3>
-    <p>Dirigido a proyectos de alta complejidad, investigación aplicada e implementación de ecosistemas OpenBIM, destinado a empresas que necesitan una integración a gran escala o una arquitectura de datos personalizada.</p>
-
-    <ul>
-      <li><b style="color: #00c853; display: inline-block;">No es una extensión del Plan R5:</b> Sus elementos pueden personalizarse y contratarse por separado.</li>
-      <li><b>Desarrollo de Ontologías Propias:</b> Modelado de grafos de conocimiento y de ontologías específicas enfocadas en el dominio del cliente, basándose en las directrices de la ISO 21597 y la Web Semántica.</li>
-      <li><b>Implementación de CDE (Common Data Environment) Personalizado:</b> Creación de una arquitectura para entornos de datos en la nube garantizando alta conformidad y seguridad, siguiendo estándares similares a los exigidos en infraestructuras críticas</li>
-      <li><b>Capacitación:</b> Formación de los equipos internos del cliente para que puedan operar dentro de los estándares de OpenBIM y mantener flujos de trabajo determinísticos.</li>
-      <li><b>Investigación y Desarrollo (I+D):</b> Aplicación de estándares emergentes en la industria (como IFC5) y de automatizaciones de ingeniería específicas para resolver problemas complejos vinculados a la gestión de activos e interoperabilidad de datos.</li>
-    </ul>
-
-    <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hola%2C+quiero+el+Plan+RX%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">Quiero este plan</a>
-    </div>
-  </li>
-</ul>
 </div>
+
+[Hable con nosotros sobre estas opciones](https://api.whatsapp.com/send/?phone=5524981796934&text=Hola%2C+vengo+del+sitio+y+quiero+saber+m%C3%A1s%21%20-%20%5BOfertas%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>
 
@@ -177,48 +146,48 @@ Estructuramos tus datos en estándares abiertos (OpenBIM), garantizando que teng
 <div class="bd-faq">
 
 <details>
-<summary>¿Qué es la Ingeniería de Datos en la construcción civil?</summary>
-<p>Es el servicio que organiza, limpia y conecta toda la información de tu obra (proyectos, hojas de cálculo y sistemas) para que tengas números confiables y automatización real, sin depender de revisión manual.</p>
+<summary>¿Qué entregan exactamente?</summary>
+<p>Una base única y consultable con los datos de tu proyecto conectados entre sí, un dosier navegable en HTML y un informe de brechas que señala qué falta o es inconsistente en las fuentes.</p>
 </details>
 
 <details>
-<summary>Ya uso BIM y Revit. ¿Por qué necesito a Brasidata?</summary>
-<p>El BIM modela, pero Brasidata garantiza que el dato dentro de ese modelo sea correcto, esté auditado e integrado a tus otros sistemas (como el financiero y el ERP), evitando que tu BIM sea solo una maqueta 3D bonita.</p>
+<summary>¿Cómo funciona la consulta en lenguaje natural?</summary>
+<p>Colocamos una capa de IA sobre la base conectada. En lugar de abrir el modelo y escarbar en carpetas de red, preguntas en lenguaje natural — cantidades, materiales, plazos, el estado de un sistema, el historial de una decisión — y recibes la respuesta junto al camino de vuelta al archivo que la originó.</p>
 </details>
 
 <details>
-<summary>¿Cómo garantizan que los proyectistas entreguen lo que contraté?</summary>
-<p>A través de nuestro servicio de auditoría, validamos automáticamente cada archivo recibido contra las normas técnicas y las exigencias de tu contrato. Si hay un error, el sistema señala al instante el problema y al responsable.</p>
+<summary>Ya usamos BIM y Revit. ¿Por qué necesitamos a Brasidata?</summary>
+<p>El BIM modela la geometría. Nosotros conectamos ese modelo con todo lo demás: contratos, facturas, fotos de campo, hojas de cálculo y registros de ejecución — y volvemos consultable ese conjunto.</p>
 </details>
 
 <details>
-<summary>¿Qué cambia con la ISO 19650 en mi empresa?</summary>
-<p>La ISO 19650 es el estándar internacional obligatorio en diversos países. Adecuamos toda tu estructura de datos para que estés en conformidad con ella, garantizando seguridad jurídica y organización profesional de la información a nivel global.</p>
+<summary>¿Esto es un software que se suscribe?</summary>
+<p>No. No es un SaaS de autoservicio. Es un trabajo de ingeniería con alcance cerrado por proyecto — hablamos primero para entender el escenario antes de cualquier propuesta.</p>
 </details>
 
 <details>
-<summary>¿Quedaré "atrapado" a algún software específico?</summary>
-<p>No. Uno de nuestros pilares es la <b>Soberanía Digital</b>. Usamos estándares abiertos (OpenBIM) para que los datos pertenezcan a tu empresa, permitiéndote acceder a tu información para siempre, independientemente del software que uses en el futuro.</p>
+<summary>¿Qué es InfoBIM?</summary>
+<p>Es el motor de código abierto que Brasidata usa como infraestructura interna para conectar las fuentes. Al ser abierto, puedes auditar cómo se enlazó la información y no quedas atado a nosotros.</p>
 </details>
 
 <details>
-<summary>¿Cómo ayuda la Inteligencia Artificial en mi obra?</summary>
-<p>En nuestro plan avanzado, puedes "conversar" con los datos de tu proyecto. En lugar de buscar en modelos complejos, preguntas por chat el volumen de un material o el estado de una etapa y obtienes la respuesta inmediata.</p>
+<summary>¿Cuánto tiempo toma?</summary>
+<p>Días, no semanas. El plazo exacto depende del volumen y la dispersión de las fuentes involucradas.</p>
 </details>
 
 <details>
-<summary>¿Realizan la emisión de planos y documentos?</summary>
-<p>Sí. En el plan avanzado, automatizamos la generación de hojas y tablas directamente de los modelos validados, lo que elimina errores de digitación y garantiza que el plano en obra refleje exactamente lo proyectado.</p>
+<summary>¿Cuánto cuesta?</summary>
+<p>Precio por alcance cerrado, definido caso a caso. No trabajamos con tabla pública — hable con nosotros para entender su escenario.</p>
 </details>
 
 <details>
-<summary>¿Se puede integrar la información de WhatsApp y hojas de cálculo al proyecto?</summary>
-<p>Sí. Nuestro sistema es capaz de organizar datos provenientes de fuentes informales, vinculando conversaciones, documentos y tablas al contexto técnico de la obra para que nada se pierda.</p>
+<summary>¿Se puede integrar información de WhatsApp y hojas de cálculo?</summary>
+<p>Sí. Las fuentes informales entran en el mismo trabajo: conversaciones, documentos y hojas de cálculo se vinculan al contexto técnico de la obra para que nada quede suelto.</p>
 </details>
 
 <details>
-<summary>¿Necesito contratar un equipo de TI para usar Brasidata?</summary>
-<p>No. Funcionamos como tu departamento de ingeniería de datos. Entregamos la infraestructura lista y los informes procesados para que tu equipo técnico se enfoque solo en la ejecución y gestión de la obra.</p>
+<summary>¿Mis datos quedan atrapados con Brasidata?</summary>
+<p>No. InfoBIM es open-source, así que tienes acceso y portabilidad garantizados, sin depender de un único proveedor.</p>
 </details>
 
 </div>
@@ -227,10 +196,10 @@ Estructuramos tus datos en estándares abiertos (OpenBIM), garantizando que teng
 
 <div class="bd-section bd-cta" markdown>
 
-## ¡Tus datos en el lugar correcto!
+## Deja de buscar información que tu empresa ya tiene
 
-Libera a tu empresa de la "trampa de la herramienta" y de la dependencia de proveedores únicos de software cerrado.
+Si responder hoy una pregunta técnica simple sobre tu obra toma días, el problema no es falta de datos — es que ninguno está conectado.
 
-[Saber más](https://api.whatsapp.com/send/?phone=5524981796934&text=Hola%2C+vengo+del+sitio+y+quiero+saber+m%C3%A1s%21%20-%20%5BCTA%20Final%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[Hable con nosotros](https://api.whatsapp.com/send/?phone=5524981796934&text=Hola%2C+vengo+del+sitio+y+quiero+saber+m%C3%A1s%21%20-%20%5BCTA%20Final%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>

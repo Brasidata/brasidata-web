@@ -5,168 +5,137 @@ hide:
 
 <div class="bd-hero" markdown>
 
-<h1 id="voce-ainda-entrega-ou-recebe-projeto-as-cegas">Do you still deliver or receive projects <span class="bd-accent">blindly</span>?</h1>
+<h1 id="your-project-data-already-exists-it-just-doesnt-talk-to-itself">Your project data already exists. It just doesn't <span class="bd-accent">talk to itself</span>.</h1>
 
-<p class="bd-lead">Brasidata works to bring engineering out of the "darkness". We implement the necessary infrastructure so your company stops relying blindly on software or manual processes. We ensure that all information entering or leaving is audited, validated, and useful.</p>
+<p class="bd-lead">Brasidata connects IFC, documents, photos, spreadsheets, purchase orders and invoices, and execution records into a single queryable base — and puts an AI layer on top of it, so you can ask in plain language what you need to know about the project. Behind it is InfoBIM, our open-source engine. You get the queryable base, a navigable HTML dossier, and a gap report, in days, not weeks.</p>
 
-[Contact us](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BHero%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
-[Plans](#pricing){ .md-button }
-
-</div>
-
-<div class="bd-section" markdown id="data-engineering">
-
-<p class="bd-eyebrow bd-accent">DATA ENGINEERING</p>
-
-## Why adopt data engineering?
+[Talk to us](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BHero%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[How it works](#how-it-works){ .md-button }
 
 </div>
 
-<div class="bd-section" markdown>
+<div class="bd-section" markdown id="how-it-works">
 
-We structure your data in open standards (OpenBIM), ensuring you have lifetime access to your projects and the freedom to switch tools whenever you want, without ever losing the digital asset of your construction.
+<p class="bd-eyebrow bd-accent">INFORMATION ENGINEERING</p>
+
+## What we do
+
+Your project's information is already there — scattered across models, contracts, spreadsheets, field photos, and conversations. The work is connecting those sources to each other and turning the result into something that answers questions.
 
 <div class="grid cards bd-cards-4" markdown>
 
--   ### Total Data Connectivity
+-   ### Cross-source connection
     <img src="../assets/images/icon-connection.png" alt="Connection icon" class="bd-icon" />
-    We integrate your projects, spreadsheets, and management systems into a single, automatic workflow. From Revit to the construction site, data communicates without conversion errors, eliminating the manual work of retyping information and ensuring the office and the site speak the same language.
+    IFC, contractual documents, field photos, spreadsheets, purchase orders and invoices, and execution records, linked to each other in a single base. A model element now knows which invoice bought it and which photo recorded its installation.
 
--   ### Audit and Delivery Quality
-    <img src="../assets/images/icon-standard.png" alt="Audit icon" class="bd-icon" />
-    Ensure all designers and suppliers deliver exactly what was contracted. Our automatic audit validates each received file, identifying errors and data inconsistencies before they reach the site. You receive only clean, federated, and ready-to-use information, eliminating manual checking rework.
+-   ### Natural-language querying
+    <img src="../assets/images/icon-think.png" alt="Intelligence icon" class="bd-icon" />
+    An AI layer over the connected base. Ask about quantities, materials, schedules, the status of a system, or the history of a decision, and get the answer directly — without opening heavy software or digging through network folders.
 
--   ### Compliance and Technical Standards
-    <img src="../assets/images/icon-audit.png" alt="Audit icon" class="bd-icon" />
-    Projects 100% aligned with ISO 19650 (mandatory in several countries) and contractual requirements. Our infrastructure automatically validates if each delivery respects the client's requirements and applicable regulations. You eliminate legal and technical risks, ensuring your construction documentation is always organized and compliant with international standards.
+-   ### Traceability back to the source
+    <img src="../assets/images/icon-standard.png" alt="Standard icon" class="bd-icon" />
+    Every answer points back to the file, page, or photo it came from. You don't have to trust the summary: you can check where each piece of information originated.
 
--   ### Data Intelligence and Agile Querying
-    <img src="../assets/images/icon-think.png" alt="Data intelligence icon" class="bd-icon" />
-    Use the power of Artificial Intelligence to converse with your project data. Instead of navigating complex software, you get immediate answers about quantities, materials, and deadlines in natural language. We transform your database into a smart assistant that facilitates decision-making for those in the field or office.
+-   ### Open-source engine, no lock-in
+    <img src="../assets/images/icon-goverment.png" alt="Compliance icon" class="bd-icon" />
+    InfoBIM is open source. You can audit how the information was connected and take your data wherever you want — it's proof of technical competence, not a vendor dependency.
 
 </div>
 
-[I want to know more!](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BEng%20Dados%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+We work with a closed scope, defined case by case, and deliver in days. This is not a self-service subscription: we talk first to understand the scenario.
+
+[Talk to us about your project](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BHowItWorks%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+
+</div>
+
+<div class="bd-section" markdown id="triggers">
+
+<p class="bd-eyebrow bd-accent">WHEN TO CALL BRASIDATA</p>
+
+## When this work makes the difference
+
+This is not a routine service. It is engaged when the information about an asset, system, or phase needs to be pulled together and made queryable in a short time.
+
+<div class="grid cards bd-cards-3" markdown>
+
+-   ### Handover, as-built, and commissioning
+    <img src="../assets/images/icon-standard.png" alt="Standard icon" class="bd-icon" />
+    When a handover won't close because nothing ties together what was designed, what was built, and what was documented.
+
+-   ### Measurement, technical audit, and inspection
+    <img src="../assets/images/icon-audit.png" alt="Audit icon" class="bd-icon" />
+    When a measurement's history has to be rebuilt from the sources, not just from a consolidated spreadsheet.
+
+-   ### Root-cause investigation
+    <img src="../assets/images/icon-plan.png" alt="Planning icon" class="bd-icon" />
+    When a critical non-conformance shows up and design, execution, and decisions have to be cross-referenced to find the origin.
+
+-   ### Resuming a project or changing teams
+    <img src="../assets/images/icon-operation.png" alt="Operation icon" class="bd-icon" />
+    When a new team takes over a project and needs to recover the technical context before moving on.
+
+-   ### Technical backing for a contract claim
+    <img src="../assets/images/icon-data-intelligence.png" alt="Data intelligence icon" class="bd-icon" />
+    When a claim or a contract revision needs to be backed by engineering data that is traceable to its source.
+
+</div>
+
+[This sounds like my situation — talk to us](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BTriggers%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>
 
 <div class="bd-section" markdown id="target-audience">
 
-## Who is Data Engineering for?
+## Who we work for
+
+We operate where the volume of information is large and scattered enough that nobody can answer a technical question quickly — this is not a fit for small residential builders.
 
 <div class="grid cards bd-cards-3" markdown>
 
--   ### Builders and Developers
-    <img src="../assets/images/icon-architect.webp" alt="Builder icon" class="bd-icon" />
-    For companies that need real numbers to avoid losing money. If you are tired of budgets that don't match reality and want full control of your construction costs and materials in real-time, this service is for you.
-
--   ### Design and Coordination Offices
-    <img src="../assets/images/icon-plan.png" alt="Office icon" class="bd-icon" />
-    For coordinators who waste hours checking third-party files. Automate the verification of deadlines and technical standards, ensuring your team focuses on what really matters: designing with quality and delivering models without information errors.
-
--   ### Asset, Operation, and Maintenance Managers
+-   ### Industrial EPC, oil & gas, and data centers
     <img src="../assets/images/icon-operation.png" alt="Operation icon" class="bd-icon" />
-    For those who manage the building after completion. We facilitate the maintenance and management of the property by delivering an organized database, where you can find any manual, warranty, or measurement in seconds, without having to dig through piles of paper.
+    High-complexity projects, many contractors, and high rework costs, where a lost piece of information gets expensive.
 
--   ### Public Agencies and Large Contractors
+-   ### Infrastructure, concessions, and complex public works
     <img src="../assets/images/icon-goverment.png" alt="Government icon" class="bd-icon" />
-    For those who need to ensure transparency and compliance with laws, regulations, and standards (e.g., ISO 19650). Have the legal certainty that all project data is audited, versioned, and protected in an infrastructure that belongs to your institution, not the supplier.
+    Long contracts, recurring inspection, and a requirement that documentation stay organized and recoverable.
+
+-   ### Forensic engineering, commissioning/handover, and construction management firms
+    <img src="../assets/images/icon-audit.png" alt="Audit icon" class="bd-icon" />
+    These are also partner channels: we operate behind the brand of those who already deliver this service to the end client.
+
+-   ### Owners and operators of critical industrial assets
+    <img src="../assets/images/icon-real-state.png" alt="Asset icon" class="bd-icon" />
+    Whoever is accountable for operation and maintenance after delivery, and needs to find any manual, measurement, or record in seconds.
 
 </div>
 
-[It's for me!](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BPublico%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[My case fits — talk to us](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BSegments%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>
 
-<div class="bd-section" id="pricing">
+<div class="bd-section" markdown id="offers">
 
-<p class="bd-eyebrow bd-accent">PLANS</p>
+<p class="bd-eyebrow bd-accent">RECURRING OFFERS</p>
 
-<h2>Choose the ideal plan</h2>
+## After the one-off work, we keep the base alive
 
-<div class="grid cards bd-cards-3 bd-pricing">
-<ul>
-  <li>
-    <h3 class="bd-accent">Plan R1</h3>
-    <p>This plan focuses on auditing, sanitization, and compliance of digital assets, acting as a quality filter for data received from third parties.</p>
+Complementary offers — for those who already contracted a one-off engagement or already have a relationship with Brasidata. They are not our main product.
 
-    <div class="bd-pricing__price">
-      <input class="bd-price-toggle__input" type="checkbox" id="pricing-r1-currency-en" aria-label="Toggle currency between BRL and EUR">
-      <div class="bd-pricing__amount" aria-live="polite">
-        <span class="bd-price bd-price--usd">$ 219.99</span>
-        <span class="bd-price bd-price--eur">199.99 €</span>
-        <span class="bd-price__period">/mo</span>
-      </div>
-      <label class="bd-price-toggle" for="pricing-r1-currency-en">
-        <span class="bd-price-toggle__label">$</span>
-        <span class="bd-price-toggle__switch" aria-hidden="true"></span>
-        <span class="bd-price-toggle__label">€</span>
-      </label>
-    </div>
+<div class="grid cards bd-cards-3" markdown>
 
-    <ul>
-      <li><b>Automated Receipt and Auditing:</b> Online channel for uploading IFC files, with automatic audits based on IDS to check compliance with the execution plan (BEP)</li>
-      <li><b>Non-Compliance Reports:</b> Issuance of easy-to-read technical reports pointing out information flaws, allowing the model to be returned for correction</li>
-      <li><b>Model Merge and Consolidation:</b> After validation, partial models are joined (federated) into a single clean and structured file</li>
-      <li><b>Peripheral Data Normalization:</b> Processing and organization of unstructured information from PDFs, Excel, or WhatsApp, connecting them to the project's technical context</li>
-      <li><b>MVD (Model View Definition) Extraction:</b> Preparation of specific and validated data subsets for final deliveries or budgets</li>
-    </ul>
+-   ### White-Label Partnership
+    We operate InfoBIM behind the scenes and deliver the queryable bases and dossiers under your forensic engineering firm's, commissioning consultancy's, or construction management firm's own brand. You keep technical accountability and the report; Brasidata is your analysis-support supplier. Monthly subscription + per-project fee.
 
-    <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+Plan+R1%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">I want this plan</a>
-    </div>
-  </li>
+-   ### Continuous Maintenance
+    For clients who already contracted a one-off engagement: we keep the connected base current throughout the project or the operation, instead of letting it go stale. Monthly subscription.
 
-  <li class="bd-pricing__card--featured">
-    <h3 class="bd-accent">Plan R5</h3>
-    <p>Focused on productivity and business intelligence, this plan acts as the client's data engineering department.</p>
+-   ### InfoBIM Watch
+    Low-cost, passive monitoring for those who already have a relationship with Brasidata. Not sold through cold outreach.
 
-    <div class="bd-pricing__price">
-      <input class="bd-price-toggle__input" type="checkbox" id="pricing-r5-currency-en" aria-label="Toggle currency between BRL and EUR">
-      <div class="bd-pricing__amount" aria-live="polite">
-        <span class="bd-price bd-price--usd">$ 979.99</span>
-        <span class="bd-price bd-price--eur">899.99 €</span>
-        <span class="bd-price__period">/mo</span>
-      </div>
-      <label class="bd-price-toggle" for="pricing-r5-currency-en">
-        <span class="bd-price-toggle__label">$</span>
-        <span class="bd-price-toggle__switch" aria-hidden="true"></span>
-        <span class="bd-price-toggle__label">€</span>
-      </label>
-    </div>
-
-    <ul>
-      <li><b>All Plan R1 Infrastructure:</b> Includes all auditing, cleaning, and merging features of the basic plan</li>
-      <li><b>Native Revit Integration:</b> Direct integration and manipulation with proprietary files (.rvt) at their source</li>
-      <li><b>Documentation Automation (Sheet Issuance):</b> Creation of scripts to automatically generate views, sheets, and schedules, keeping PDF and DWG files always updated with the 3D model</li>
-      <li><b>Generative AI Layer (LLM):</b> A natural language interface to "converse" with project data, allowing you to quickly extract quantities or cross-reference descriptive text with the models</li>
-      <li><b>Real-Time Quantity Dashboards:</b> Dynamic screens displaying volumes, costs, and areas based on validated models, replacing estimates with facts</li>
-      <li><b>Versioning and Historical Auditing (Data Warehouse):</b> A database that keeps the project's history, allowing you to track exactly what was changed between each revision and the cost impacts of those changes</li>
-    </ul>
-
-    <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+Plan+R5%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">I want this plan</a>
-    </div>
-  </li>
-
-  <li>
-    <h3 class="bd-accent">Plan RX</h3>
-    <p>Aimed at high-complexity projects, applied research, and OpenBIM ecosystem implementation, designed for companies that need large-scale integration or a custom data architecture.</p>
-
-    <ul>
-      <li><b style="color: #00c853; display: inline-block;">Not an extension of Plan R5:</b> Its items can be customized and contracted separately.</li>
-      <li><b>Custom Ontology Development:</b> Modeling of knowledge graphs and specific ontologies for the client's domain, based on ISO 21597 guidelines and the Semantic Web.</li>
-      <li><b>Custom CDE (Common Data Environment) Implementation:</b> Creation of a cloud data environment architecture ensuring high compliance and security, following standards similar to those required in critical infrastructure</li>
-      <li><b>Training:</b> Empowering the client's internal teams to operate within OpenBIM standards and maintain deterministic workflows.</li>
-      <li><b>Research and Development (R&D):</b> Application of emerging industry standards (like IFC5) and specific engineering automations to solve complex problems related to asset management and data interoperability.</li>
-    </ul>
-
-    <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+Plan+RX%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">I want this plan</a>
-    </div>
-  </li>
-</ul>
 </div>
+
+[Talk to us about these options](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BOffers%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>
 
@@ -177,48 +146,48 @@ We structure your data in open standards (OpenBIM), ensuring you have lifetime a
 <div class="bd-faq">
 
 <details>
-<summary>What is Data Engineering in construction?</summary>
-<p>It's the service that organizes, cleans, and connects all your construction data (projects, spreadsheets, and systems) so you have reliable numbers and real automation, without depending on manual checking.</p>
+<summary>What exactly do you deliver?</summary>
+<p>A single queryable base with your project data connected to itself, a navigable HTML dossier, and a gap report pointing out what is missing or inconsistent across the sources.</p>
 </details>
 
 <details>
-<summary>I already use BIM and Revit. Why do I need Brasidata?</summary>
-<p>BIM models, but Brasidata ensures the data inside that model is correct, audited, and integrated with your other systems (like finance and ERP), preventing your BIM from being just a pretty 3D mockup.</p>
+<summary>How does natural-language querying work?</summary>
+<p>We put an AI layer over the connected base. Instead of opening the model and digging through network folders, you ask in plain language — quantities, materials, schedules, the status of a system, the history of a decision — and get the answer along with the path back to the file it came from.</p>
 </details>
 
 <details>
-<summary>How do you ensure designers deliver what I contracted?</summary>
-<p>Through our audit service, we automatically validate each received file against technical standards and your contract requirements. If there is an error, the system instantly points out the problem and the responsible party.</p>
+<summary>We already use BIM and Revit. Why do we need Brasidata?</summary>
+<p>BIM models the geometry. We connect that model to everything else: contracts, invoices, field photos, spreadsheets, and execution records — and make the whole set queryable.</p>
 </details>
 
 <details>
-<summary>What changes with ISO 19650 in my company?</summary>
-<p>ISO 19650 is the mandatory international standard in several countries. We adapt your entire data structure so you comply with it, ensuring legal certainty and professional information organization on a global scale.</p>
+<summary>Is this a software subscription?</summary>
+<p>No. It is not a self-service SaaS. It is engineering work with a closed scope per project — we talk first to understand the scenario before any proposal.</p>
 </details>
 
 <details>
-<summary>Will I be "locked" into specific software?</summary>
-<p>No. One of our pillars is <b>Digital Sovereignty</b>. We use open standards (OpenBIM) so the data belongs to your company, allowing you to access your information forever, regardless of which software you use in the future.</p>
+<summary>What is InfoBIM?</summary>
+<p>It is the open-source engine Brasidata uses as internal infrastructure to connect the sources. Because it is open, you can audit how the information was linked and you are not locked in to us.</p>
 </details>
 
 <details>
-<summary>How does Artificial Intelligence help my construction?</summary>
-<p>In our advanced plan, you can "converse" with your project data. Instead of searching in complex models, you ask via chat for the volume of a material or the status of a stage and get an immediate answer.</p>
+<summary>How long does it take?</summary>
+<p>Days, not weeks. The exact timeline depends on the volume and dispersion of the sources involved.</p>
 </details>
 
 <details>
-<summary>Do you issue sheets and documents?</summary>
-<p>Yes. In the advanced plan, we automate the generation of sheets and schedules directly from the validated models, eliminating typing errors and ensuring the sheet on site reflects exactly what was designed.</p>
+<summary>How much does it cost?</summary>
+<p>Priced by closed scope, defined case by case. We don't publish a price table — talk to us to understand your scenario.</p>
 </details>
 
 <details>
-<summary>Can WhatsApp information and spreadsheets be integrated into the project?</summary>
-<p>Yes. Our system can organize data from informal sources, linking conversations, documents, and spreadsheets to the technical context of the construction so nothing is lost.</p>
+<summary>Can WhatsApp messages and spreadsheets be integrated?</summary>
+<p>Yes. Informal sources are part of the same work: conversations, documents, and spreadsheets get linked to the project's technical context so nothing stays loose.</p>
 </details>
 
 <details>
-<summary>Do I need to hire an IT team to use Brasidata?</summary>
-<p>No. We work as your data engineering department. We deliver the ready infrastructure and digested reports so your technical team focuses only on execution and construction management.</p>
+<summary>Am I locked in to Brasidata?</summary>
+<p>No. InfoBIM is open source, so you have guaranteed access and portability, without depending on a single vendor.</p>
 </details>
 
 </div>
@@ -227,10 +196,10 @@ We structure your data in open standards (OpenBIM), ensuring you have lifetime a
 
 <div class="bd-section bd-cta" markdown>
 
-## Your data in the right place!
+## Stop hunting for information your company already has
 
-Free your company from the "tool trap" and dependency on single closed software vendors.
+If answering a simple technical question about your project takes days today, the problem isn't missing data — it's that none of it is connected.
 
-[Learn more](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BCTA%20Final%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[Talk to us](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BCTA%20Final%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
 
 </div>
