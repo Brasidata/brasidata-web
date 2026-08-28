@@ -1,5 +1,80 @@
 {{ super() }}
 
+{% set current_path = (page.url | d("", true)).lstrip("/") %}
+{% set site_root = config.site_url.rstrip("/") %}
+{% if current_path in ["", "index.html"] %}
+  {% set seo_title = "Construction Scheduling and Planning | Brasidata" %}
+  {% set seo_description = "Construction scheduling and planning for the construction industry. Build, review and track schedules with AI, expert support or a fully managed service." %}
+  {% set seo_locale = "en_US" %}
+{% elif current_path in ["pt/", "pt/index.html"] %}
+  {% set seo_title = "Cronograma de Obra e Planejamento | Brasidata" %}
+  {% set seo_description = "Cronograma de obra e planejamento para construção civil. Crie, revise e acompanhe cronogramas com IA, apoio técnico ou serviço completo da Brasidata." %}
+  {% set seo_locale = "pt_BR" %}
+{% elif current_path in ["es/", "es/index.html"] %}
+  {% set seo_title = "Cronogramas y Planificación de Obra | Brasidata" %}
+  {% set seo_description = "Cronogramas y planificación de obra para la construcción. Crea, revisa y controla cronogramas con IA, apoyo técnico o servicio completo de Brasidata." %}
+  {% set seo_locale = "es_ES" %}
+{% else %}
+  {% set seo_title = (page.meta.title if page.meta and page.meta.title else page.title) ~ " | Brasidata" %}
+  {% set seo_description = page.meta.description if page.meta and page.meta.description else config.site_description %}
+  {% if current_path.startswith("pt/") %}
+    {% set seo_locale = "pt_BR" %}
+  {% elif current_path.startswith("es/") %}
+    {% set seo_locale = "es_ES" %}
+  {% else %}
+    {% set seo_locale = "en_US" %}
+  {% endif %}
+{% endif %}
+{% set canonical_url = page.canonical_url if page.canonical_url else site_root ~ "/" ~ current_path %}
+{% set social_image = site_root ~ "/assets/images/hero.png" %}
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Brasidata" />
+<meta property="og:title" content="{{ seo_title }}" />
+<meta property="og:description" content="{{ seo_description }}" />
+<meta property="og:url" content="{{ canonical_url }}" />
+<meta property="og:image" content="{{ social_image }}" />
+<meta property="og:image:alt" content="Brasidata — construction scheduling and data engineering" />
+<meta property="og:locale" content="{{ seo_locale }}" />
+{% if seo_locale != "en_US" %}<meta property="og:locale:alternate" content="en_US" />{% endif %}
+{% if seo_locale != "pt_BR" %}<meta property="og:locale:alternate" content="pt_BR" />{% endif %}
+{% if seo_locale != "es_ES" %}<meta property="og:locale:alternate" content="es_ES" />{% endif %}
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ seo_title }}" />
+<meta name="twitter:description" content="{{ seo_description }}" />
+<meta name="twitter:image" content="{{ social_image }}" />
+<meta name="theme-color" content="#00c853" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://brasidata.com/#organization",
+      "name": "Brasidata",
+      "url": "https://brasidata.com/",
+      "email": "comercial@brasidata.com.br",
+      "telephone": "+5524992509664",
+      "sameAs": [
+        "https://www.linkedin.com/company/brasidata/",
+        "https://instagram.com/brasidata_eng/",
+        "https://github.com/Brasidata"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://brasidata.com/#website",
+      "url": "https://brasidata.com/",
+      "name": "Brasidata",
+      "publisher": { "@id": "https://brasidata.com/#organization" },
+      "inLanguage": ["en", "pt-BR", "es"]
+    }
+  ]
+}
+</script>
+
 {% set light_favicon = "assets/images/logo-light.png" %}
 {% set dark_favicon = "assets/images/favicon-dark.png" %}
 

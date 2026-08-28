@@ -1,6 +1,6 @@
 site_name: Brasidata
-site_description: Data governance for construction companies and AI-ready operations
-site_author: Elias M. P. Junior
+site_description: Construction scheduling, planning and data engineering for the construction industry
+site_author: Brasidata
 site_url: https://brasidata.com/
 
 docs_dir: content
@@ -80,7 +80,7 @@ extra:
       lang: en
     - name: Português
       link: /pt/
-      lang: pt
+      lang: pt-BR
     - name: Español
       link: /es/
       lang: es
