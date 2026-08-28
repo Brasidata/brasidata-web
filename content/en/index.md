@@ -5,12 +5,142 @@ hide:
 
 <div class="bd-hero" markdown>
 
-<h1 id="voce-ainda-entrega-ou-recebe-projeto-as-cegas">Do you still deliver or receive projects <span class="bd-accent">blindly</span>?</h1>
+<h1 id="construction-scheduling-your-way">Construction scheduling, <span class="bd-accent">your way</span>.</h1>
 
-<p class="bd-lead">Brasidata works to bring engineering out of the "darkness". We implement the necessary infrastructure so your company stops relying blindly on software or manual processes. We ensure that all information entering or leaving is audited, validated, and useful.</p>
+<p class="bd-lead">Create, review and track construction schedules with a platform built for the construction industry. You choose how much you want to do and how much you want to delegate: on your own, with Artificial Intelligence, together with Brasidata, or by leaving the entire planning work to our team.</p>
 
-[Contact us](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BHero%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
-[Plans](#pricing){ .md-button }
+[See options](#pricing){ .md-button .md-button--primary }
+[Contact us](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+Brasidata+website+and+want+to+learn+more+about+construction+scheduling.&type=phone_number&app_absent=0){ .md-button }
+
+</div>
+
+<div class="bd-section" markdown id="scheduling">
+
+<p class="bd-eyebrow bd-accent">CONSTRUCTION SCHEDULING</p>
+
+## From initial planning to execution tracking
+
+Brasidata turns scattered project information into a structured, usable construction schedule. You can work directly in the platform or delegate part — or all — of the work to our AI and our team.
+
+<div class="grid cards bd-cards-4" markdown>
+
+-   ### Structure the plan
+    <img src="../assets/images/icon-plan.png" alt="Planning icon" class="bd-icon" />
+    Organize WBS, activities, milestones, durations and execution sequences into a clear schedule for the project team.
+
+-   ### Understand dependencies
+    <img src="../assets/images/icon-connection.png" alt="Dependencies icon" class="bd-icon" />
+    Connect activities, visualize impacts between stages and identify what actually drives the project completion date.
+
+-   ### Track actual progress
+    <img src="../assets/images/icon-audit.png" alt="Tracking icon" class="bd-icon" />
+    Compare planned versus actual progress, record updates and keep an objective view of construction progress.
+
+-   ### Use AI when it makes sense
+    <img src="../assets/images/icon-think.png" alt="Artificial intelligence icon" class="bd-icon" />
+    Instead of starting from an empty spreadsheet, let AI structure, review and update the schedule from your project information.
+
+</div>
+
+</div>
+
+<div class="bd-section" id="pricing">
+
+<p class="bd-eyebrow bd-accent">HOW DO YOU WANT TO WORK?</p>
+
+<h2>The same problem. Four ways to solve it.</h2>
+
+<p>You choose how much you want to do and how much you want to delegate.</p>
+
+<div class="grid cards bd-cards-4 bd-pricing">
+<ul>
+  <li>
+    <h3 class="bd-accent">Do it yourself</h3>
+    <p>For teams that already know how to plan and want to use the platform on their own.</p>
+
+    <div class="bd-pricing__price">
+      <div class="bd-pricing__amount">
+        <span class="bd-price bd-price--brl">Free</span>
+      </div>
+    </div>
+
+    <ul>
+      <li>You create and track the schedule</li>
+      <li>You keep control of the planning process</li>
+      <li>No cost to get started</li>
+    </ul>
+
+    <div class="bd-pricing__cta">
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+to+start+with+Do+it+yourself.&type=phone_number&app_absent=0" class="md-button md-button--primary">Start free</a>
+    </div>
+  </li>
+
+  <li class="bd-pricing__card--featured">
+    <h3 class="bd-accent">Our AI does it for you</h3>
+    <p>For teams that want to accelerate the work and let AI directly build, revise and update the construction schedule.</p>
+
+    <div class="bd-pricing__price">
+      <div class="bd-pricing__amount">
+        <span class="bd-price bd-price--brl">R$ 250</span>
+        <span class="bd-price__period">/30 days</span>
+      </div>
+    </div>
+
+    <ul>
+      <li>AI structures the schedule from project information</li>
+      <li>AI revises and updates the planning</li>
+      <li>You validate the result and remain in control</li>
+    </ul>
+
+    <div class="bd-pricing__cta">
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+to+use+Our+AI+does+it+for+you.&type=phone_number&app_absent=0" class="md-button md-button--primary">Use our AI</a>
+    </div>
+  </li>
+
+  <li>
+    <h3 class="bd-accent">We do it together</h3>
+    <p>For teams that want to combine the platform, AI and direct support from Brasidata throughout the planning work.</p>
+
+    <div class="bd-pricing__price">
+      <div class="bd-pricing__amount">
+        <span class="bd-price bd-price--brl">R$ 2,500</span>
+        <span class="bd-price__period">/30 days</span>
+      </div>
+    </div>
+
+    <ul>
+      <li>You work directly with our team</li>
+      <li>The schedule is developed collaboratively</li>
+      <li>AI and engineering expertise in the same process</li>
+    </ul>
+
+    <div class="bd-pricing__cta">
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+to+learn+more+about+We+do+it+together.&type=phone_number&app_absent=0" class="md-button md-button--primary">Work together</a>
+    </div>
+  </li>
+
+  <li>
+    <h3 class="bd-accent">We do it for you</h3>
+    <p>For teams that want the planning delivered and prefer to leave the execution of the service to Brasidata.</p>
+
+    <div class="bd-pricing__price">
+      <div class="bd-pricing__amount">
+        <span class="bd-price bd-price--brl">Contact us</span>
+      </div>
+    </div>
+
+    <ul>
+      <li>We take responsibility for the planning work</li>
+      <li>Delivery tailored to the project needs</li>
+      <li>Professional service designed case by case</li>
+    </ul>
+
+    <div class="bd-pricing__cta">
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+Brasidata+to+build+the+construction+schedule+for+me.&type=phone_number&app_absent=0" class="md-button md-button--primary">Request a proposal</a>
+    </div>
+  </li>
+</ul>
+</div>
 
 </div>
 
@@ -18,154 +148,56 @@ hide:
 
 <p class="bd-eyebrow bd-accent">DATA ENGINEERING</p>
 
-## Why adopt data engineering?
+## A construction schedule should not live in isolation
 
-</div>
-
-<div class="bd-section" markdown>
-
-We structure your data in open standards (OpenBIM), ensuring you have lifetime access to your projects and the freedom to switch tools whenever you want, without ever losing the digital asset of your construction.
+Brasidata applies data engineering to the construction industry. This means planning can connect with models, documents, spreadsheets, progress measurements and other project information, using open standards whenever possible.
 
 <div class="grid cards bd-cards-4" markdown>
 
--   ### Total Data Connectivity
+-   ### Data connectivity
     <img src="../assets/images/icon-connection.png" alt="Connection icon" class="bd-icon" />
-    We integrate your projects, spreadsheets, and management systems into a single, automatic workflow. From Revit to the construction site, data communicates without conversion errors, eliminating the manual work of retyping information and ensuring the office and the site speak the same language.
+    We connect information from different sources to reduce re-entry and preserve the technical context of the project.
 
--   ### Audit and Delivery Quality
+-   ### Audit and quality
     <img src="../assets/images/icon-standard.png" alt="Audit icon" class="bd-icon" />
-    Ensure all designers and suppliers deliver exactly what was contracted. Our automatic audit validates each received file, identifying errors and data inconsistencies before they reach the site. You receive only clean, federated, and ready-to-use information, eliminating manual checking rework.
+    We structure processes that validate incoming information and expose inconsistencies before they become rework.
 
--   ### Compliance and Technical Standards
-    <img src="../assets/images/icon-audit.png" alt="Audit icon" class="bd-icon" />
-    Projects 100% aligned with ISO 19650 (mandatory in several countries) and contractual requirements. Our infrastructure automatically validates if each delivery respects the client's requirements and applicable regulations. You eliminate legal and technical risks, ensuring your construction documentation is always organized and compliant with international standards.
+-   ### Open standards
+    <img src="../assets/images/icon-audit.png" alt="Open standards icon" class="bd-icon" />
+    We prioritize interoperability and OpenBIM to reduce dependence on any single proprietary tool or format.
 
--   ### Data Intelligence and Agile Querying
+-   ### Queryable information
     <img src="../assets/images/icon-think.png" alt="Data intelligence icon" class="bd-icon" />
-    Use the power of Artificial Intelligence to converse with your project data. Instead of navigating complex software, you get immediate answers about quantities, materials, and deadlines in natural language. We transform your database into a smart assistant that facilitates decision-making for those in the field or office.
+    We organize data so people and systems can access project information more directly and usefully.
 
 </div>
 
-[I want to know more!](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BEng%20Dados%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[Explore our services](services.md){ .md-button }
 
 </div>
 
 <div class="bd-section" markdown id="target-audience">
 
-## Who is Data Engineering for?
+## Who is it for?
 
-<div class="grid cards bd-cards-3" markdown>
+<div class="grid cards bd-cards-4" markdown>
 
--   ### Builders and Developers
-    <img src="../assets/images/icon-architect.webp" alt="Builder icon" class="bd-icon" />
-    For companies that need real numbers to avoid losing money. If you are tired of budgets that don't match reality and want full control of your construction costs and materials in real-time, this service is for you.
+-   ### Contractors and Developers
+    <img src="../assets/images/icon-architect.webp" alt="Contractor icon" class="bd-icon" />
+    For teams that need to turn planning into a practical routine on the construction site.
 
--   ### Design and Coordination Offices
-    <img src="../assets/images/icon-plan.png" alt="Office icon" class="bd-icon" />
-    For coordinators who waste hours checking third-party files. Automate the verification of deadlines and technical standards, ensuring your team focuses on what really matters: designing with quality and delivering models without information errors.
+-   ### Design and Coordination Teams
+    <img src="../assets/images/icon-plan.png" alt="Design office icon" class="bd-icon" />
+    For teams that need to organize deliverables, dependencies and information across disciplines.
 
--   ### Asset, Operation, and Maintenance Managers
-    <img src="../assets/images/icon-operation.png" alt="Operation icon" class="bd-icon" />
-    For those who manage the building after completion. We facilitate the maintenance and management of the property by delivering an organized database, where you can find any manual, warranty, or measurement in seconds, without having to dig through piles of paper.
+-   ### Construction Managers
+    <img src="../assets/images/icon-operation.png" alt="Management icon" class="bd-icon" />
+    For professionals who need visibility into deadlines, execution sequence and progress without disconnected spreadsheets.
 
--   ### Public Agencies and Large Contractors
-    <img src="../assets/images/icon-goverment.png" alt="Government icon" class="bd-icon" />
-    For those who need to ensure transparency and compliance with laws, regulations, and standards (e.g., ISO 19650). Have the legal certainty that all project data is audited, versioned, and protected in an infrastructure that belongs to your institution, not the supplier.
+-   ### Major Owners and Clients
+    <img src="../assets/images/icon-goverment.png" alt="Client icon" class="bd-icon" />
+    For organizations that need traceability, standardization and governance over project and construction information.
 
-</div>
-
-[It's for me!](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BPublico%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
-
-</div>
-
-<div class="bd-section" id="pricing">
-
-<p class="bd-eyebrow bd-accent">PLANS</p>
-
-<h2>Choose the ideal plan</h2>
-
-<div class="grid cards bd-cards-3 bd-pricing">
-<ul>
-  <li>
-    <h3 class="bd-accent">Plan R1</h3>
-    <p>This plan focuses on auditing, sanitization, and compliance of digital assets, acting as a quality filter for data received from third parties.</p>
-
-    <div class="bd-pricing__price">
-      <input class="bd-price-toggle__input" type="checkbox" id="pricing-r1-currency-en" aria-label="Toggle currency between BRL and EUR">
-      <div class="bd-pricing__amount" aria-live="polite">
-        <span class="bd-price bd-price--usd">$ 219.99</span>
-        <span class="bd-price bd-price--eur">199.99 €</span>
-        <span class="bd-price__period">/mo</span>
-      </div>
-      <label class="bd-price-toggle" for="pricing-r1-currency-en">
-        <span class="bd-price-toggle__label">$</span>
-        <span class="bd-price-toggle__switch" aria-hidden="true"></span>
-        <span class="bd-price-toggle__label">€</span>
-      </label>
-    </div>
-
-    <ul>
-      <li><b>Automated Receipt and Auditing:</b> Online channel for uploading IFC files, with automatic audits based on IDS to check compliance with the execution plan (BEP)</li>
-      <li><b>Non-Compliance Reports:</b> Issuance of easy-to-read technical reports pointing out information flaws, allowing the model to be returned for correction</li>
-      <li><b>Model Merge and Consolidation:</b> After validation, partial models are joined (federated) into a single clean and structured file</li>
-      <li><b>Peripheral Data Normalization:</b> Processing and organization of unstructured information from PDFs, Excel, or WhatsApp, connecting them to the project's technical context</li>
-      <li><b>MVD (Model View Definition) Extraction:</b> Preparation of specific and validated data subsets for final deliveries or budgets</li>
-    </ul>
-
-    <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+Plan+R1%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">I want this plan</a>
-    </div>
-  </li>
-
-  <li class="bd-pricing__card--featured">
-    <h3 class="bd-accent">Plan R5</h3>
-    <p>Focused on productivity and business intelligence, this plan acts as the client's data engineering department.</p>
-
-    <div class="bd-pricing__price">
-      <input class="bd-price-toggle__input" type="checkbox" id="pricing-r5-currency-en" aria-label="Toggle currency between BRL and EUR">
-      <div class="bd-pricing__amount" aria-live="polite">
-        <span class="bd-price bd-price--usd">$ 979.99</span>
-        <span class="bd-price bd-price--eur">899.99 €</span>
-        <span class="bd-price__period">/mo</span>
-      </div>
-      <label class="bd-price-toggle" for="pricing-r5-currency-en">
-        <span class="bd-price-toggle__label">$</span>
-        <span class="bd-price-toggle__switch" aria-hidden="true"></span>
-        <span class="bd-price-toggle__label">€</span>
-      </label>
-    </div>
-
-    <ul>
-      <li><b>All Plan R1 Infrastructure:</b> Includes all auditing, cleaning, and merging features of the basic plan</li>
-      <li><b>Native Revit Integration:</b> Direct integration and manipulation with proprietary files (.rvt) at their source</li>
-      <li><b>Documentation Automation (Sheet Issuance):</b> Creation of scripts to automatically generate views, sheets, and schedules, keeping PDF and DWG files always updated with the 3D model</li>
-      <li><b>Generative AI Layer (LLM):</b> A natural language interface to "converse" with project data, allowing you to quickly extract quantities or cross-reference descriptive text with the models</li>
-      <li><b>Real-Time Quantity Dashboards:</b> Dynamic screens displaying volumes, costs, and areas based on validated models, replacing estimates with facts</li>
-      <li><b>Versioning and Historical Auditing (Data Warehouse):</b> A database that keeps the project's history, allowing you to track exactly what was changed between each revision and the cost impacts of those changes</li>
-    </ul>
-
-    <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+Plan+R5%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">I want this plan</a>
-    </div>
-  </li>
-
-  <li>
-    <h3 class="bd-accent">Plan RX</h3>
-    <p>Aimed at high-complexity projects, applied research, and OpenBIM ecosystem implementation, designed for companies that need large-scale integration or a custom data architecture.</p>
-
-    <ul>
-      <li><b style="color: #00c853; display: inline-block;">Not an extension of Plan R5:</b> Its items can be customized and contracted separately.</li>
-      <li><b>Custom Ontology Development:</b> Modeling of knowledge graphs and specific ontologies for the client's domain, based on ISO 21597 guidelines and the Semantic Web.</li>
-      <li><b>Custom CDE (Common Data Environment) Implementation:</b> Creation of a cloud data environment architecture ensuring high compliance and security, following standards similar to those required in critical infrastructure</li>
-      <li><b>Training:</b> Empowering the client's internal teams to operate within OpenBIM standards and maintain deterministic workflows.</li>
-      <li><b>Research and Development (R&D):</b> Application of emerging industry standards (like IFC5) and specific engineering automations to solve complex problems related to asset management and data interoperability.</li>
-    </ul>
-
-    <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+Plan+RX%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">I want this plan</a>
-    </div>
-  </li>
-</ul>
 </div>
 
 </div>
@@ -177,48 +209,38 @@ We structure your data in open standards (OpenBIM), ensuring you have lifetime a
 <div class="bd-faq">
 
 <details>
-<summary>What is Data Engineering in construction?</summary>
-<p>It's the service that organizes, cleans, and connects all your construction data (projects, spreadsheets, and systems) so you have reliable numbers and real automation, without depending on manual checking.</p>
+<summary>Do I need to stop using Excel or Microsoft Project?</summary>
+<p>No. The goal is not to force your team to abandon tools that already work for you. Brasidata can work with your planning data and help organize the information flow around it.</p>
 </details>
 
 <details>
-<summary>I already use BIM and Revit. Why do I need Brasidata?</summary>
-<p>BIM models, but Brasidata ensures the data inside that model is correct, audited, and integrated with your other systems (like finance and ERP), preventing your BIM from being just a pretty 3D mockup.</p>
+<summary>What is the difference between the four options?</summary>
+<p>The problem being solved is the same. What changes is how much work you want to perform yourself. With Do it yourself, you operate the platform. With Our AI does it for you, AI directly performs part of the planning work. With We do it together, the Brasidata team joins the process. With We do it for you, we take responsibility for the service.</p>
 </details>
 
 <details>
-<summary>How do you ensure designers deliver what I contracted?</summary>
-<p>Through our audit service, we automatically validate each received file against technical standards and your contract requirements. If there is an error, the system instantly points out the problem and the responsible party.</p>
+<summary>Is the free option just a trial?</summary>
+<p>No. Do it yourself is the free way to use the solution on your own. Paid options begin when you want to delegate work to AI or to the Brasidata team.</p>
 </details>
 
 <details>
-<summary>What changes with ISO 19650 in my company?</summary>
-<p>ISO 19650 is the mandatory international standard in several countries. We adapt your entire data structure so you comply with it, ensuring legal certainty and professional information organization on a global scale.</p>
+<summary>Is R$ 250 an annual subscription?</summary>
+<p>No. R$ 250 covers 30 days of access to Our AI does it for you.</p>
 </details>
 
 <details>
-<summary>Will I be "locked" into specific software?</summary>
-<p>No. One of our pillars is <b>Digital Sovereignty</b>. We use open standards (OpenBIM) so the data belongs to your company, allowing you to access your information forever, regardless of which software you use in the future.</p>
+<summary>How does We do it together work?</summary>
+<p>It costs R$ 2,500 for 30 days and combines use of the solution with direct support from Brasidata during the planning work.</p>
 </details>
 
 <details>
-<summary>How does Artificial Intelligence help my construction?</summary>
-<p>In our advanced plan, you can "converse" with your project data. Instead of searching in complex models, you ask via chat for the volume of a material or the status of a stage and get an immediate answer.</p>
+<summary>How much does We do it for you cost?</summary>
+<p>Pricing is provided on request because Brasidata takes responsibility for the planning service and the required effort depends on the characteristics and complexity of the project.</p>
 </details>
 
 <details>
-<summary>Do you issue sheets and documents?</summary>
-<p>Yes. In the advanced plan, we automate the generation of sheets and schedules directly from the validated models, eliminating typing errors and ensuring the sheet on site reflects exactly what was designed.</p>
-</details>
-
-<details>
-<summary>Can WhatsApp information and spreadsheets be integrated into the project?</summary>
-<p>Yes. Our system can organize data from informal sources, linking conversations, documents, and spreadsheets to the technical context of the construction so nothing is lost.</p>
-</details>
-
-<details>
-<summary>Do I need to hire an IT team to use Brasidata?</summary>
-<p>No. We work as your data engineering department. We deliver the ready infrastructure and digested reports so your technical team focuses only on execution and construction management.</p>
+<summary>Will I be locked into a specific software product?</summary>
+<p>No. Data sovereignty is one of Brasidata's core principles. We prioritize open standards and interoperability so your information remains yours regardless of the tools you choose.</p>
 </details>
 
 </div>
@@ -227,10 +249,10 @@ We structure your data in open standards (OpenBIM), ensuring you have lifetime a
 
 <div class="bd-section bd-cta" markdown>
 
-## Your data in the right place!
+## You decide how much you want to do.
 
-Free your company from the "tool trap" and dependency on single closed software vendors.
+Start on your own, delegate to AI, work with us, or leave the entire construction schedule to Brasidata.
 
-[Learn more](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+website+and+want+to+learn+more%21%20-%20%5BCTA%20Final%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[Choose how to work](#pricing){ .md-button .md-button--primary }
 
 </div>

@@ -5,12 +5,142 @@ hide:
 
 <div class="bd-hero" markdown>
 
-<h1 id="voce-ainda-entrega-ou-recebe-projeto-as-cegas">Você ainda entrega ou recebe <span class="bd-accent">projeto às cegas</span>?</h1>
+<h1 id="planejamento-de-obra-sem-complicacao">Planejamento de obra do jeito que <span class="bd-accent">você quer trabalhar</span>.</h1>
 
-<p class="bd-lead">A Brasidata atua para tirar a engenharia da "escuridão". Implementamos a infraestrutura necessária para que sua empresa deixe de confiar cegamente em softwares ou processos manuais. Garantimos que toda informação que entra ou sai seja auditada, validada e útil.</p>
+<p class="bd-lead">Crie, revise e acompanhe cronogramas de obra com uma plataforma feita para construção civil. Você escolhe quanto quer fazer e quanto quer delegar: sozinho, com Inteligência Artificial, junto com a Brasidata ou deixando todo o planejamento com a nossa equipe.</p>
 
-[Fale conosco](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21%20-%20%5BHero%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
-[Planos](#pricing){ .md-button }
+[Ver opções](#pricing){ .md-button .md-button--primary }
+[Fale conosco](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+da+Brasidata+e+quero+saber+mais+sobre+cronogramas+de+obra.&type=phone_number&app_absent=0){ .md-button }
+
+</div>
+
+<div class="bd-section" markdown id="cronogramas">
+
+<p class="bd-eyebrow bd-accent">CRONOGRAMAS DE OBRA</p>
+
+## Do planejamento inicial ao acompanhamento da execução
+
+A Brasidata transforma informações dispersas da obra em um cronograma estruturado e utilizável. Você pode trabalhar diretamente na plataforma ou delegar parte — ou todo — o trabalho para a nossa IA e para a nossa equipe.
+
+<div class="grid cards bd-cards-4" markdown>
+
+-   ### Estruture o planejamento
+    <img src="../assets/images/icon-plan.png" alt="Ícone de planejamento" class="bd-icon" />
+    Organize EAP, atividades, marcos, durações e sequências de execução em um cronograma claro para a equipe de obra.
+
+-   ### Entenda as dependências
+    <img src="../assets/images/icon-connection.png" alt="Ícone de dependências" class="bd-icon" />
+    Relacione atividades, visualize impactos entre etapas e identifique o que realmente condiciona o prazo da obra.
+
+-   ### Acompanhe o realizado
+    <img src="../assets/images/icon-audit.png" alt="Ícone de acompanhamento" class="bd-icon" />
+    Compare planejado e realizado, registre atualizações e mantenha uma visão objetiva da evolução da obra.
+
+-   ### Use IA quando fizer sentido
+    <img src="../assets/images/icon-think.png" alt="Ícone de inteligência artificial" class="bd-icon" />
+    Em vez de começar de uma planilha vazia, deixe a IA estruturar, revisar e atualizar o planejamento a partir das informações do projeto.
+
+</div>
+
+</div>
+
+<div class="bd-section" id="pricing">
+
+<p class="bd-eyebrow bd-accent">COMO VOCÊ QUER TRABALHAR?</p>
+
+<h2>O mesmo problema. Quatro formas de resolver.</h2>
+
+<p>Você escolhe quanto quer fazer e quanto quer delegar.</p>
+
+<div class="grid cards bd-cards-4 bd-pricing">
+<ul>
+  <li>
+    <h3 class="bd-accent">Faça você mesmo</h3>
+    <p>Para quem já sabe planejar e quer usar a plataforma por conta própria.</p>
+
+    <div class="bd-pricing__price">
+      <div class="bd-pricing__amount">
+        <span class="bd-price bd-price--brl">Grátis</span>
+      </div>
+    </div>
+
+    <ul>
+      <li>Você cria e acompanha o cronograma</li>
+      <li>Você mantém o controle do planejamento</li>
+      <li>Sem custo para começar</li>
+    </ul>
+
+    <div class="bd-pricing__cta">
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+come%C3%A7ar+no+Fa%C3%A7a+voc%C3%AA+mesmo.&type=phone_number&app_absent=0" class="md-button md-button--primary">Começar grátis</a>
+    </div>
+  </li>
+
+  <li class="bd-pricing__card--featured">
+    <h3 class="bd-accent">Nossa IA faz para você</h3>
+    <p>Para quem quer acelerar o trabalho e deixar a IA construir, revisar e atualizar diretamente o cronograma da obra.</p>
+
+    <div class="bd-pricing__price">
+      <div class="bd-pricing__amount">
+        <span class="bd-price bd-price--brl">R$ 250</span>
+        <span class="bd-price__period">/30 dias</span>
+      </div>
+    </div>
+
+    <ul>
+      <li>A IA estrutura o cronograma a partir das informações da obra</li>
+      <li>A IA revisa e atualiza o planejamento</li>
+      <li>Você valida o resultado e continua no controle</li>
+    </ul>
+
+    <div class="bd-pricing__cta">
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+usar+o+plano+Nossa+IA+faz+para+voc%C3%AA.&type=phone_number&app_absent=0" class="md-button md-button--primary">Quero usar a IA</a>
+    </div>
+  </li>
+
+  <li>
+    <h3 class="bd-accent">Fazemos juntos</h3>
+    <p>Para quem quer combinar plataforma, IA e acompanhamento direto da Brasidata durante o planejamento da obra.</p>
+
+    <div class="bd-pricing__price">
+      <div class="bd-pricing__amount">
+        <span class="bd-price bd-price--brl">R$ 2.500</span>
+        <span class="bd-price__period">/30 dias</span>
+      </div>
+    </div>
+
+    <ul>
+      <li>Você trabalha com a nossa equipe</li>
+      <li>Planejamento construído de forma colaborativa</li>
+      <li>IA e conhecimento técnico no mesmo processo</li>
+    </ul>
+
+    <div class="bd-pricing__cta">
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+conhecer+o+Fazemos+juntos.&type=phone_number&app_absent=0" class="md-button md-button--primary">Fazer juntos</a>
+    </div>
+  </li>
+
+  <li>
+    <h3 class="bd-accent">Fazemos para você</h3>
+    <p>Para quem quer receber o planejamento pronto e deixar a execução do serviço com a Brasidata.</p>
+
+    <div class="bd-pricing__price">
+      <div class="bd-pricing__amount">
+        <span class="bd-price bd-price--brl">Sob consulta</span>
+      </div>
+    </div>
+
+    <ul>
+      <li>Nós assumimos o trabalho de planejamento</li>
+      <li>Entrega adequada à necessidade da obra</li>
+      <li>Serviço profissional sob medida</li>
+    </ul>
+
+    <div class="bd-pricing__cta">
+      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+que+a+Brasidata+fa%C3%A7a+o+cronograma+para+mim.&type=phone_number&app_absent=0" class="md-button md-button--primary">Solicitar proposta</a>
+    </div>
+  </li>
+</ul>
+</div>
 
 </div>
 
@@ -18,154 +148,56 @@ hide:
 
 <p class="bd-eyebrow bd-accent">ENGENHARIA DE DADOS</p>
 
-## Por que adotar a engenharia de dados?
+## O cronograma não precisa viver isolado
 
-</div>
-
-<div class="bd-section" markdown>
-
-Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenha acesso vitalício aos seus projetos e a liberdade de trocar de ferramenta sempre que quiser, sem nunca perder o patrimônio digital da sua obra.
+A Brasidata trabalha com engenharia de dados aplicada à construção civil. Isso significa que o planejamento pode conversar com modelos, documentos, planilhas, medições e outras fontes de informação da obra, usando padrões abertos sempre que possível.
 
 <div class="grid cards bd-cards-4" markdown>
 
--   ### Conectividade Total de Dados
+-   ### Conectividade de dados
     <img src="../assets/images/icon-connection.png" alt="Ícone de conexão" class="bd-icon" />
-    Integramos seus projetos, planilhas e sistemas de gestão em um fluxo único e automático. Do Revit ao canteiro, os dados conversam entre si sem erros de conversão, eliminando o trabalho manual de redigitar informações e garantindo que o escritório e a obra falem a mesma língua.
+    Integramos informações de diferentes fontes para reduzir redigitação e manter o contexto técnico da obra.
 
--   ### Auditoria e Qualidade de Entrega
+-   ### Auditoria e qualidade
     <img src="../assets/images/icon-standard.png" alt="Ícone de auditoria" class="bd-icon" />
-    Garanta que todos os projetistas e fornecedores entreguem exatamente o que foi contratado. Nossa auditoria automática valida cada arquivo recebido, identificando erros e inconsistências no dado antes que eles cheguem à obra. Você recebe apenas informações limpas, federadas e prontas para o uso, eliminando o retrabalho de conferência manual.
+    Estruturamos processos para validar dados recebidos e tornar inconsistências visíveis antes que virem retrabalho.
 
--   ### Conformidade e Normas Técnicas
-    <img src="../assets/images/icon-audit.png" alt="Ícone de auditoria" class="bd-icon" />
-    Projetos 100% alinhados à ISO 19650 (já obrigatória no Brasil) e às exigências contratuais. Nossa infraestrutura valida automaticamente se cada entrega respeita os requisitos do cliente e as normas brasileiras obrigatórias. Você elimina riscos jurídicos e técnicos, assegurando que a documentação da sua obra esteja sempre organizada e em conformidade com o padrão nacional.
+-   ### Padrões abertos
+    <img src="../assets/images/icon-audit.png" alt="Ícone de padrões abertos" class="bd-icon" />
+    Priorizamos interoperabilidade e OpenBIM para reduzir dependência de uma ferramenta ou formato proprietário específico.
 
--   ### Inteligência de Dados e Consulta Ágil
+-   ### Informação consultável
     <img src="../assets/images/icon-think.png" alt="Ícone de inteligência de dados" class="bd-icon" />
-    Use o poder da Inteligência Artificial para conversar com os dados do seu projeto. Em vez de navegar em softwares complexos, você obtém respostas imediatas sobre quantitativos, materiais e prazos em linguagem natural. Transformamos o seu banco de dados em um assistente inteligente que facilita a tomada de decisão para quem está no campo ou no escritório.
+    Organizamos dados para que pessoas e sistemas consigam consultar informações do projeto de forma mais direta e útil.
 
 </div>
 
-[Quero saber mais!](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21%20-%20%5BEng%20Dados%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[Conheça nossos serviços](services.md){ .md-button }
 
 </div>
 
 <div class="bd-section" markdown id="target-audience">
 
-## Engenharia de Dados é para quem?
+## Para quem é?
 
-<div class="grid cards bd-cards-3" markdown>
+<div class="grid cards bd-cards-4" markdown>
 
 -   ### Construtoras e Incorporadoras
     <img src="../assets/images/icon-architect.webp" alt="Ícone de construtora" class="bd-icon" />
-    Para empresas que precisam de números reais para não perder dinheiro. Se você está cansado de orçamentos que não batem com a realidade e quer ter o controle total dos custos e materiais da sua obra em tempo real, este serviço é para você.
+    Para equipes que precisam transformar planejamento em uma rotina utilizável no dia a dia da obra.
 
 -   ### Escritórios de Projetos e Coordenação
     <img src="../assets/images/icon-plan.png" alt="Ícone de escritório" class="bd-icon" />
-    Para coordenadores que perdem horas conferindo arquivos de terceiros. Automatize a verificação de prazos e normas técnicas, garantindo que sua equipe foque no que realmente importa: projetar com qualidade e entregar modelos sem erros de informação.
+    Para quem precisa organizar entregas, dependências e informações de diferentes disciplinas.
 
--   ### Gestores de Ativos, Operação e Manutenção
-    <img src="../assets/images/icon-operation.png" alt="Ícone de operação" class="bd-icon" />
-    Para quem administra o edifício depois de pronto. Facilitamos a manutenção e a gestão do imóvel entregando um banco de dados organizado, onde você encontra qualquer manual, garantia ou medida em segundos, sem precisar revirar pilhas de papel.
+-   ### Gestores de Obras
+    <img src="../assets/images/icon-operation.png" alt="Ícone de gestão" class="bd-icon" />
+    Para quem precisa enxergar prazo, sequência de execução e avanço sem depender de planilhas desconectadas.
 
--   ### Órgãos Públicos e Grandes Contratantes
-    <img src="../assets/images/icon-goverment.png" alt="Ícone de governo" class="bd-icon" />
-    Para quem precisa garantir a transparência e a conformidade com leis, regulações e normas (e.g. ISO 19650). Tenha a segurança jurídica de que todos os dados do projeto estão auditados, versionados e protegidos em uma infraestrutura que pertence à sua instituição, e não ao fornecedor.
+-   ### Grandes Contratantes
+    <img src="../assets/images/icon-goverment.png" alt="Ícone de contratante" class="bd-icon" />
+    Para organizações que precisam de rastreabilidade, padronização e governança sobre informações de projeto e obra.
 
-</div>
-
-[É para mim!](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21%20-%20%5BPublico%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
-
-</div>
-
-<div class="bd-section" id="pricing">
-
-<p class="bd-eyebrow bd-accent">PLANOS</p>
-
-<h2>Escolha o plano ideal</h2>
-
-<div class="grid cards bd-cards-3 bd-pricing">
-<ul>
-  <li>
-    <h3 class="bd-accent">Plano R1</h3>
-    <p>Este plano é focado em auditoria, saneamento e conformidade de ativos digitais, funcionando como um filtro de qualidade para dados recebidos de terceiros.</p>
-
-    <div class="bd-pricing__price">
-      <input class="bd-price-toggle__input" type="checkbox" id="pricing-r1-currency" aria-label="Alternar moeda entre BRL e EUR">
-      <div class="bd-pricing__amount" aria-live="polite">
-        <span class="bd-price bd-price--brl">R$ 1324,99</span>
-        <span class="bd-price bd-price--eur">199.99 €</span>
-        <span class="bd-price__period">/mês</span>
-      </div>
-      <label class="bd-price-toggle" for="pricing-r1-currency">
-        <span class="bd-price-toggle__label">R$</span>
-        <span class="bd-price-toggle__switch" aria-hidden="true"></span>
-        <span class="bd-price-toggle__label">€</span>
-      </label>
-    </div>
-
-    <ul>
-      <li><b>Recebimento e Auditoria Automatizada:</b> Canal online para upload de arquivos IFC, com auditorias automáticas baseadas em IDS para checar a conformidade com o plano de execução (BEP)</li>
-      <li><b>Relatórios de Inconformidade:</b> Emissão de relatórios técnicos de fácil leitura apontando falhas na informação, permitindo que o modelo seja devolvido para correção</li>
-      <li><b>Merge e Consolidação de Modelos:</b> Após a validação, os modelos parciais são unidos (federados) em um único arquivo limpo e estruturado</li>
-      <li><b>Normalização de Dados Periféricos:</b> Processamento e organização de informações não estruturadas vindas de PDFs, Excel ou WhatsApp, conectando-as ao contexto técnico do projeto</li>
-      <li><b>Extração MVD (Model View Definition):</b> Preparação de recortes de dados específicos e validados para entregas finais ou orçamentos</li>
-    </ul>
-
-    <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+o+Plano+R1%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">Quero este plano</a>
-    </div>
-  </li>
-
-  <li class="bd-pricing__card--featured">
-    <h3 class="bd-accent">Plano R5</h3>
-    <p>Focado em produtividade e inteligência de negócios, este plano atua como o departamento de engenharia de dados do cliente.</p>
-
-    <div class="bd-pricing__price">
-      <input class="bd-price-toggle__input" type="checkbox" id="pricing-r5-currency" aria-label="Alternar moeda entre BRL e EUR">
-      <div class="bd-pricing__amount" aria-live="polite">
-        <span class="bd-price bd-price--brl">R$ 5.627,99</span>
-        <span class="bd-price bd-price--eur">899.99 €</span>
-        <span class="bd-price__period">/mês</span>
-      </div>
-      <label class="bd-price-toggle" for="pricing-r5-currency">
-        <span class="bd-price-toggle__label">R$</span>
-        <span class="bd-price-toggle__switch" aria-hidden="true"></span>
-        <span class="bd-price-toggle__label">€</span>
-      </label>
-    </div>
-
-    <ul>
-      <li><b>Toda a Infraestrutura do Plano R5:</b> Toda a Infraestrutura do Plano R1: Contempla todas as funcionalidades de auditoria, limpeza e merge do plano básico</li>
-      <li><b>Integração Nativa Revit:</b> Integração e manipulação direta com os arquivos proprietários (.rvt) em sua origem</li>
-      <li><b>Automação de Documentação (Emissão de Pranchas):</b> Criação de scripts para gerar automaticamente vistas, folhas e tabelas, mantendo os arquivos em PDF e DWG sempre atualizados com o modelo 3D</li>
-      <li><b>Camada de IA Generativa (LLM):</b> Uma interface de linguagem natural para "conversar" com os dados do projeto, permitindo extrair rapidamente quantitativos ou cruzar textos de memoriais descritivos com os modelos</li>
-      <li><b>Dashboards de Quantitativos Real-Time:</b> Telas dinâmicas que exibem volumes, custos e áreas baseados nos modelos validados, trocando as estimativas por fatos</li>
-      <li><b>Versionamento e Auditoria Histórica (Data Warehouse):</b> Um banco de dados que guarda o histórico do projeto, permitindo rastrear exatamente o que foi alterado entre cada revisão e os impactos de custo dessas mudanças</li>
-    </ul>
-
-    <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+o+Plano+R5%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">Quero este plano</a>
-    </div>
-  </li>
-
-  <li>
-    <h3 class="bd-accent">Plano RX</h3>
-    <p>Voltado para projetos de alta complexidade, pesquisa aplicada e implementação de ecossistemas OpenBIM, sendo destinado a empresas que precisam de uma integração de larga escala ou de uma arquitetura de dados personalizada.</p>
-
-    <ul>
-      <li><b style="color: #00c853; display: inline-block;">Não é uma extensão do Plano R5:</b> Seus itens podem ser personalizados e contratados separadamente.</li>
-      <li><b>Desenvolvimento de Ontologias Próprias:</b> Modelagem de grafos de conhecimento e de ontologias específicas voltadas para o domínio do cliente, baseando-se nas diretrizes da ISO 21597 e na Web Semântica.</li>
-      <li><b>Implementação de CDE (Common Data Environment) Customizado:</b> Criação de uma arquitetura para ambientes de dados em nuvem garantindo alta conformidade e segurança, seguindo padrões similares aos exigidos em infraestruturas críticas</li>
-      <li><b>Treinamento:</b> Capacitação das equipes internas do cliente para que consigam operar dentro dos padrões do OpenBIM e manter fluxos de trabalho determinísticos.</li>
-      <li><b>Pesquisa e Desenvolvimento (P&D):</b> Aplicação de padrões emergentes na indústria (como o IFC5) e de automações de engenharia específicas para resolver problemas complexos ligados à gestão de ativos e interoperabilidade de dados.</li>
-    </ul>
-
-    <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+o+Plano+RX%20-%20%5BPlanos%5D&type=phone_number&app_absent=0" class="md-button md-button--primary">Quero este plano</a>
-    </div>
-  </li>
-</ul>
 </div>
 
 </div>
@@ -177,48 +209,38 @@ Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenh
 <div class="bd-faq">
 
 <details>
-<summary>O que é Engenharia de Dados na construção civil?</summary>
-<p>É o serviço que organiza, limpa e conecta todas as informações da sua obra (projetos, planilhas e sistemas) para que você tenha números confiáveis e automação real, sem depender de conferência manual.</p>
+<summary>Preciso abandonar Excel ou Microsoft Project?</summary>
+<p>Não. A proposta não é obrigar sua equipe a esquecer as ferramentas que já usa. A Brasidata pode trabalhar com os dados do seu planejamento e ajudar a organizar o fluxo de informação ao redor dele.</p>
 </details>
 
 <details>
-<summary>Eu já uso BIM e Revit. Por que preciso da Brasidata?</summary>
-<p>O BIM modela, mas a Brasidata garante que o dado dentro desse modelo esteja correto, auditado e integrado aos seus outros sistemas (como o financeiro e o ERP), evitando que o seu BIM seja apenas uma maquete 3D bonita.</p>
+<summary>Qual é a diferença entre os quatro modos?</summary>
+<p>O problema resolvido é o mesmo. O que muda é quanto do trabalho você quer executar. No Faça você mesmo, você opera a plataforma. No plano de IA, a Inteligência Artificial executa diretamente parte do trabalho. No Fazemos juntos, entra também a equipe da Brasidata. No Fazemos para você, nós assumimos o serviço.</p>
 </details>
 
 <details>
-<summary>Como vocês garantem que os projetistas entreguem o que eu contratei?</summary>
-<p>Por meio do nosso serviço de auditoria, validamos automaticamente cada arquivo recebido contra as normas técnicas e as exigências do seu contrato. Se houver erro, o sistema aponta na hora o problema e o responsável.</p>
+<summary>O plano gratuito é um período de teste?</summary>
+<p>Não. O Faça você mesmo é a forma gratuita de usar a solução por conta própria. Os planos pagos entram quando você quer delegar parte do trabalho para a IA ou para a equipe da Brasidata.</p>
 </details>
 
 <details>
-<summary>O que muda com a ISO 19650 na minha empresa?</summary>
-<p>A ISO 19650 agora é o padrão nacional obrigatório. Nós adequamos toda a sua estrutura de dados para que você esteja em conformidade com ela, garantindo segurança jurídica e organização profissional da informação.</p>
+<summary>Os R$ 250 são uma mensalidade anual?</summary>
+<p>Não. O valor de R$ 250 corresponde a 30 dias de uso da modalidade Nossa IA faz para você.</p>
 </details>
 
 <details>
-<summary>Vou ficar "preso" a algum software específico?</summary>
-<p>Não. Um dos nossos pilares é a <b>Soberania Digital</b>. Usamos padrões abertos (OpenBIM) para que os dados pertençam à sua empresa, permitindo que você acesse suas informações para sempre, independente de qual software usar no futuro.</p>
+<summary>E o Fazemos juntos?</summary>
+<p>A modalidade custa R$ 2.500 por 30 dias e combina o uso da solução com acompanhamento direto da Brasidata durante o trabalho de planejamento.</p>
 </details>
 
 <details>
-<summary>Como a Inteligência Artificial ajuda na minha obra?</summary>
-<p>No nosso plano avançado, você pode "conversar" com os dados do seu projeto. Em vez de procurar em modelos complexos, você pergunta por chat o volume de um material ou o status de uma etapa e obtém a resposta imediata.</p>
+<summary>Quanto custa o Fazemos para você?</summary>
+<p>É sob consulta porque nesse caso a Brasidata assume o serviço de planejamento e o esforço depende das características e da complexidade da obra.</p>
 </details>
 
 <details>
-<summary>Vocês fazem a emissão de pranchas e documentos?</summary>
-<p>Sim. No plano avançado, automatizamos a geração de folhas e tabelas diretamente dos modelos validados, o que elimina erros de digitação e garante que a prancha no canteiro reflita exatamente o que foi projetado.</p>
-</details>
-
-<details>
-<summary>Dá para integrar as informações do WhatsApp e planilhas ao projeto?</summary>
-<p>Sim. Nosso sistema é capaz de organizar dados vindos de fontes informais, vinculando conversas, documentos e tabelas ao contexto técnico da obra para que nada se perca.</p>
-</details>
-
-<details>
-<summary>Preciso contratar uma equipe de TI para usar a Brasidata?</summary>
-<p>Não. Nós funcionamos como o seu departamento de engenharia de dados. Entregamos a infraestrutura pronta e os relatórios mastigados para que sua equipe técnica foque apenas na execução e gestão da obra.</p>
+<summary>Vou ficar preso a algum software específico?</summary>
+<p>Não. Um dos pilares da Brasidata é a soberania sobre os dados. Priorizamos padrões abertos e interoperabilidade para que a informação continue sendo sua, independentemente da ferramenta escolhida.</p>
 </details>
 
 </div>
@@ -227,12 +249,10 @@ Estruturamos seus dados em padrões abertos (OpenBIM), garantindo que você tenh
 
 <div class="bd-section bd-cta" markdown>
 
-## Seus dados no lugar certo!
+## Você decide quanto quer fazer.
 
-Liberte sua empresa da "armadilha da ferramenta" e da dependência de fornecedores únicos de softwares fechados.
+Comece sozinho, delegue para a IA, trabalhe conosco ou deixe o cronograma inteiro com a Brasidata.
 
-[Saber mais](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+e+quero+saber+mais%21%20-%20%5BCTA%20Final%5D&type=phone_number&app_absent=0){ .md-button .md-button--primary }
+[Escolher como trabalhar](#pricing){ .md-button .md-button--primary }
 
 </div>
-
-
