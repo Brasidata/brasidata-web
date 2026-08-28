@@ -10,7 +10,7 @@ hide:
 <p class="bd-lead">Crie, revise e acompanhe cronogramas de obra com uma plataforma feita para construção civil. Você escolhe quanto quer fazer e quanto quer delegar: sozinho, com Inteligência Artificial, junto com a Brasidata ou deixando todo o planejamento com a nossa equipe.</p>
 
 [Ver opções](#pricing){ .md-button .md-button--primary }
-[Fale conosco](https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+vim+do+site+da+Brasidata+e+quero+saber+mais+sobre+cronogramas+de+obra.&type=phone_number&app_absent=0){ .md-button }
+[Fale conosco](https://api.whatsapp.com/send/?phone=5524992509664&text=Ol%C3%A1%2C+vim+do+site+da+Brasidata+e+quero+saber+mais+sobre+cronogramas+de+obra.&type=phone_number&app_absent=0){ .md-button }
 
 </div>
 
@@ -71,7 +71,7 @@ A Brasidata transforma informações dispersas da obra em um cronograma estrutur
     </ul>
 
     <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+come%C3%A7ar+no+Fa%C3%A7a+voc%C3%AA+mesmo.&type=phone_number&app_absent=0" class="md-button md-button--primary">Começar grátis</a>
+      <a href="https://api.whatsapp.com/send/?phone=5524992509664&text=Ol%C3%A1%2C+quero+come%C3%A7ar+no+Fa%C3%A7a+voc%C3%AA+mesmo.&type=phone_number&app_absent=0" class="md-button md-button--primary">Começar grátis</a>
     </div>
   </li>
 
@@ -93,7 +93,7 @@ A Brasidata transforma informações dispersas da obra em um cronograma estrutur
     </ul>
 
     <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+usar+o+plano+Nossa+IA+faz+para+voc%C3%AA.&type=phone_number&app_absent=0" class="md-button md-button--primary">Quero usar a IA</a>
+      <a href="https://api.whatsapp.com/send/?phone=5524992509664&text=Ol%C3%A1%2C+quero+usar+o+plano+Nossa+IA+faz+para+voc%C3%AA.&type=phone_number&app_absent=0" class="md-button md-button--primary">Quero usar a IA</a>
     </div>
   </li>
 
@@ -115,7 +115,7 @@ A Brasidata transforma informações dispersas da obra em um cronograma estrutur
     </ul>
 
     <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+conhecer+o+Fazemos+juntos.&type=phone_number&app_absent=0" class="md-button md-button--primary">Fazer juntos</a>
+      <a href="https://api.whatsapp.com/send/?phone=5524992509664&text=Ol%C3%A1%2C+quero+conhecer+o+Fazemos+juntos.&type=phone_number&app_absent=0" class="md-button md-button--primary">Fazer juntos</a>
     </div>
   </li>
 
@@ -136,7 +136,7 @@ A Brasidata transforma informações dispersas da obra em um cronograma estrutur
     </ul>
 
     <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Ol%C3%A1%2C+quero+que+a+Brasidata+fa%C3%A7a+o+cronograma+para+mim.&type=phone_number&app_absent=0" class="md-button md-button--primary">Solicitar proposta</a>
+      <a href="https://api.whatsapp.com/send/?phone=5524992509664&text=Ol%C3%A1%2C+quero+que+a+Brasidata+fa%C3%A7a+o+cronograma+para+mim.&type=phone_number&app_absent=0" class="md-button md-button--primary">Solicitar proposta</a>
     </div>
   </li>
 </ul>

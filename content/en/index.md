@@ -10,7 +10,7 @@ hide:
 <p class="bd-lead">Create, review and track construction schedules with a platform built for the construction industry. You choose how much you want to do and how much you want to delegate: on your own, with Artificial Intelligence, together with Brasidata, or by leaving the entire planning work to our team.</p>
 
 [See options](#pricing){ .md-button .md-button--primary }
-[Contact us](https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+came+from+the+Brasidata+website+and+want+to+learn+more+about+construction+scheduling.&type=phone_number&app_absent=0){ .md-button }
+[Contact us](https://api.whatsapp.com/send/?phone=5524992509664&text=Hello%2C+I+came+from+the+Brasidata+website+and+want+to+learn+more+about+construction+scheduling.&type=phone_number&app_absent=0){ .md-button }
 
 </div>
 
@@ -71,7 +71,7 @@ Brasidata turns scattered project information into a structured, usable construc
     </ul>
 
     <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+to+start+with+Do+it+yourself.&type=phone_number&app_absent=0" class="md-button md-button--primary">Start free</a>
+      <a href="https://api.whatsapp.com/send/?phone=5524992509664&text=Hello%2C+I+want+to+start+with+Do+it+yourself.&type=phone_number&app_absent=0" class="md-button md-button--primary">Start free</a>
     </div>
   </li>
 
@@ -93,7 +93,7 @@ Brasidata turns scattered project information into a structured, usable construc
     </ul>
 
     <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+to+use+Our+AI+does+it+for+you.&type=phone_number&app_absent=0" class="md-button md-button--primary">Use our AI</a>
+      <a href="https://api.whatsapp.com/send/?phone=5524992509664&text=Hello%2C+I+want+to+use+Our+AI+does+it+for+you.&type=phone_number&app_absent=0" class="md-button md-button--primary">Use our AI</a>
     </div>
   </li>
 
@@ -115,7 +115,7 @@ Brasidata turns scattered project information into a structured, usable construc
     </ul>
 
     <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+to+learn+more+about+We+do+it+together.&type=phone_number&app_absent=0" class="md-button md-button--primary">Work together</a>
+      <a href="https://api.whatsapp.com/send/?phone=5524992509664&text=Hello%2C+I+want+to+learn+more+about+We+do+it+together.&type=phone_number&app_absent=0" class="md-button md-button--primary">Work together</a>
     </div>
   </li>
 
@@ -136,7 +136,7 @@ Brasidata turns scattered project information into a structured, usable construc
     </ul>
 
     <div class="bd-pricing__cta">
-      <a href="https://api.whatsapp.com/send/?phone=5524981796934&text=Hello%2C+I+want+Brasidata+to+build+the+construction+schedule+for+me.&type=phone_number&app_absent=0" class="md-button md-button--primary">Request a proposal</a>
+      <a href="https://api.whatsapp.com/send/?phone=5524992509664&text=Hello%2C+I+want+Brasidata+to+build+the+construction+schedule+for+me.&type=phone_number&app_absent=0" class="md-button md-button--primary">Request a proposal</a>
     </div>
   </li>
 </ul>
