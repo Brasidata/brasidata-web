@@ -1,19 +1,16 @@
 # Contact
 
-If you want to improve data trust, reduce rework, and prepare your organization for AI in construction, talk to Brasidata.
+Talk to Brasidata to learn more about our services and solutions for the construction industry.
 
-## Suggested channels
+## Commercial contact
 
-- Email: `contato@brasidata.com`
+- Email: `comercial@brasidata.com.br`
+- Phone / WhatsApp: `+55 24 99250-9664`
 - LinkedIn: `linkedin.com/company/brasidata`
-- WhatsApp: `+55 11 99999-9999`
 
 ## Next step
 
-Send a short message with:
+Send us a short message explaining what you need and, if relevant, which tools and information sources you already use today.
 
-- Your company type (contractor, developer, engineering, etc.)
-- Your main pain point (quality, reporting, integration, AI)
-- The tools involved (ERP, BIM, scheduling, spreadsheets, etc.)
-
-[Book a strategy call](mailto:contato@brasidata.com)
+[Send an email](mailto:comercial@brasidata.com.br)
+[Message us on WhatsApp](https://api.whatsapp.com/send/?phone=5524992509664&text=Hello%2C+I+came+from+the+Brasidata+website+and+want+to+learn+more.&type=phone_number&app_absent=0)
