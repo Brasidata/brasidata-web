@@ -38,7 +38,7 @@ A Brasidata transforma informações dispersas da obra em um cronograma estrutur
 
 -   ### Use IA quando fizer sentido
     <img src="../assets/images/icon-think.png" alt="Ícone de inteligência artificial" class="bd-icon" />
-    Em vez de começar de uma planilha vazia, deixe a IA ajudar a estruturar, revisar e atualizar o planejamento a partir das informações do projeto.
+    Em vez de começar de uma planilha vazia, deixe a IA estruturar, revisar e atualizar o planejamento a partir das informações do projeto.
 
 </div>
 
@@ -77,7 +77,7 @@ A Brasidata transforma informações dispersas da obra em um cronograma estrutur
 
   <li class="bd-pricing__card--featured">
     <h3 class="bd-accent">Nossa IA faz para você</h3>
-    <p>Para quem quer acelerar o trabalho e deixar a IA participar diretamente da elaboração e atualização do cronograma.</p>
+    <p>Para quem quer acelerar o trabalho e deixar a IA construir, revisar e atualizar diretamente o cronograma da obra.</p>
 
     <div class="bd-pricing__price">
       <div class="bd-pricing__amount">
@@ -87,9 +87,9 @@ A Brasidata transforma informações dispersas da obra em um cronograma estrutur
     </div>
 
     <ul>
-      <li>A IA ajuda a estruturar o cronograma</li>
-      <li>A IA revisa e propõe ajustes no planejamento</li>
-      <li>Você continua no controle das decisões</li>
+      <li>A IA estrutura o cronograma a partir das informações da obra</li>
+      <li>A IA revisa e atualiza o planejamento</li>
+      <li>Você valida o resultado e continua no controle</li>
     </ul>
 
     <div class="bd-pricing__cta">
@@ -215,7 +215,7 @@ A Brasidata trabalha com engenharia de dados aplicada à construção civil. Iss
 
 <details>
 <summary>Qual é a diferença entre os quatro modos?</summary>
-<p>O problema resolvido é o mesmo. O que muda é quanto do trabalho você quer executar. No Faça você mesmo, você opera a plataforma. No plano de IA, a Inteligência Artificial participa diretamente do trabalho. No Fazemos juntos, entra também a equipe da Brasidata. No Fazemos para você, nós assumimos o serviço.</p>
+<p>O problema resolvido é o mesmo. O que muda é quanto do trabalho você quer executar. No Faça você mesmo, você opera a plataforma. No plano de IA, a Inteligência Artificial executa diretamente parte do trabalho. No Fazemos juntos, entra também a equipe da Brasidata. No Fazemos para você, nós assumimos o serviço.</p>
 </details>
 
 <details>
