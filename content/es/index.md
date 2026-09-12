@@ -9,8 +9,8 @@ hide:
 
 <p class="bd-lead">Brasidata actúa desde la fiscalización en campo hasta la entrega técnica, combinando ingeniería, gestión de la información y automatización sin obligar a tu equipo a abandonar los procesos y herramientas que ya funcionan.</p>
 
-<a href="services.md" class="md-button md-button--primary" data-umami-event="home-services-es">Conozca nuestros servicios</a>
-<a href="contact.md" class="md-button" data-umami-event="home-contact-es">Hable con nosotros</a>
+<a href="/es/services/" class="md-button md-button--primary" data-umami-event="home-services-es">Conozca nuestros servicios</a>
+<a href="/es/contact/" class="md-button" data-umami-event="home-contact-es">Hable con nosotros</a>
 
 </div>
 
@@ -110,7 +110,7 @@ Brasidata desarrolla y aplica tecnología propia para reducir trabajo manual, co
 
 Conozca las áreas de actuación de Brasidata o hable con nosotros sobre un alcance específico.
 
-<a href="services.md" class="md-button md-button--primary" data-umami-event="home-services-bottom-es">Ver servicios</a>
-<a href="contact.md" class="md-button" data-umami-event="home-contact-bottom-es">Hablar con Brasidata</a>
+<a href="/es/services/" class="md-button md-button--primary" data-umami-event="home-services-bottom-es">Ver servicios</a>
+<a href="/es/contact/" class="md-button" data-umami-event="home-contact-bottom-es">Hablar con Brasidata</a>
 
 </div>
