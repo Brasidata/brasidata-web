@@ -1,0 +1,22 @@
+.md-typeset .bd-hero::after {
+  content: none !important;
+  display: none !important;
+  background-image: none !important;
+}
+
+@media (min-width: 60em) {
+  .md-typeset .bd-hero {
+    display: block;
+  }
+
+  .md-typeset .bd-hero > * {
+    width: auto;
+    max-width: 60ch;
+  }
+}
+
+@media (max-width: 44.9375em) {
+  .bd-header-actions {
+    margin-right: 0.65rem;
+  }
+}
