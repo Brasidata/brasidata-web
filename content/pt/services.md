@@ -1,45 +1,47 @@
 # Serviços
 
-Escolha suporte pontual ou um programa em fases. A Brasidata foca em governança prática que melhora decisões do dia a dia e habilita IA com segurança.
+A Brasidata atua em engenharia, gestão da informação e tecnologia aplicada a projetos e obras. O escopo pode ser pontual, recorrente ou integrado a uma equipe já existente.
 
-## Diagnóstico de governança de dados
+## Fiscalização de Obras e Serviços
 
-- Avaliação de maturidade do estado atual
-- Revisão de qualidade de dados e processos
-- Mapeamento de stakeholders e lacunas de responsabilidade
+- Acompanhamento técnico de campo
+- Registros e evidências de execução
+- Verificação de conformidade e pendências
+- Apoio à medição, aceite e tomada de decisão
 
-**Entregável:** relatório de diagnóstico com recomendações priorizadas.
+## Auditoria Técnica
 
-## Estratégia e roadmap
+- Revisão independente de documentos e entregáveis
+- Verificação de consistência de dados e registros
+- Avaliação de processos, requisitos e conformidade
+- Identificação de desvios, lacunas e retrabalho potencial
 
-- Modelo operacional de governança (papéis, comitês, fluxos)
-- Definição de políticas e padrões
-- Roadmap em fases alinhado a valor de negócio
+## Gestão de Documentos e Informações
 
-**Entregável:** roadmap executável com marcos e responsáveis.
+- Inventário e organização de acervos técnicos
+- Classificação, cadastro e controle de revisões
+- Estruturação de registros e metadados
+- Integração com pastas, planilhas, GED, CDE e outros sistemas
+- Automação de leitura e classificação quando aplicável
 
-## Modelagem de dados e metadados
+[Ver formas de trabalhar com Gestão de Documentos](document-management.md)
 
-- Domínios e entidades canônicas para dados de construção
-- Glossário de negócio e definições de métricas
-- Linhagem e estrutura de metadados
+## Planejamento e Controle de Projetos e Obras
 
-**Entregável:** modelo de referência + artefatos de governança.
+- Estruturação e revisão de cronogramas
+- Acompanhamento físico e análise de desvios
+- Replanejamento e cenários
+- Integração entre prazo, documentos e informações de execução
 
-## Framework de qualidade de dados
+## Projetos de Engenharia
 
-- Regras e controles por domínio
-- Métricas de monitoramento e alertas
-- Fluxo de triagem e resolução de problemas
+- Elaboração e desenvolvimento de projetos
+- Revisão técnica
+- Compatibilização entre disciplinas
+- Suporte à coordenação e às informações de projeto
 
-**Entregável:** catálogo de regras + abordagem de dashboard operacional.
+## Tecnologia como capacidade transversal
 
-## Programa de prontidão para IA
-
-- Identificação e priorização de casos de uso
-- Requisitos de dados e guardrails
-- Suporte ao piloto com governança desde o desenho
-
-**Entregável:** plano de prontidão para IA e blueprint de piloto.
+Automação, Inteligência Artificial, dados estruturados, padrões abertos e BIM são utilizados quando melhoram a execução do serviço. A Brasidata não exige que o cliente substitua suas ferramentas ou reconstrua todo o processo para começar.
 
 [Solicitar proposta](contact.md)

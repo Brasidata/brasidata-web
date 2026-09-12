@@ -1,5 +1,5 @@
 site_name: Brasidata
-site_description: Construction scheduling, planning and data engineering for the construction industry
+site_description: Engineering, technical audit, document and information management, project planning and engineering design
 site_author: Brasidata
 site_url: https://brasidata.com/
 
@@ -50,11 +50,17 @@ plugins:
           build: true
           nav_translations:
             Home: Início
+            Services: Serviços
+            Document Management: Gestão de Documentos
+            Contact: Contato
         - locale: es
           name: Español
           build: true
           nav_translations:
             Home: Inicio
+            Services: Servicios
+            Document Management: Gestión de Documentos
+            Contact: Contacto
 
 markdown_extensions:
   - admonition
@@ -73,6 +79,9 @@ markdown_extensions:
 extra_css:
   - assets/stylesheets/extra.css?v=20
 
+extra_javascript:
+  - assets/javascripts/analytics.js
+
 extra:
   alternate:
     - name: English
@@ -87,3 +96,7 @@ extra:
 
 nav:
   - Home: index.md
+  - Services: services.md
+  - Document Management: document-management.md
+  - InfoBIM: infobim.md
+  - Contact: contact.md

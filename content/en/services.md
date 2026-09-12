@@ -1,45 +1,47 @@
 # Services
 
-Choose targeted support or a phased program. Brasidata focuses on practical governance that improves day-to-day decisions and enables AI safely.
+Brasidata works across engineering, information management and technology applied to projects and construction. Engagements can be targeted, recurring or integrated with an existing team.
 
-## Data governance assessment
+## Construction and Service Supervision
 
-- Current-state maturity scoring
-- Data quality and process review
-- Stakeholder mapping and ownership gaps
+- Field technical follow-up
+- Execution records and evidence
+- Compliance and outstanding-item verification
+- Support for measurement, acceptance and decision-making
 
-**Deliverable:** assessment report with prioritized recommendations.
+## Technical Audit
 
-## Strategy & roadmap
+- Independent review of documents and deliverables
+- Consistency checks across data and records
+- Review of processes, requirements and compliance
+- Identification of deviations, gaps and potential rework
 
-- Governance operating model (roles, councils, workflows)
-- Policy and standard definition
-- Phased roadmap aligned to business value
+## Document and Information Management
 
-**Deliverable:** executable roadmap with milestones and owners.
+- Inventory and organization of technical document collections
+- Classification, registration and revision control
+- Structuring of document registers and metadata
+- Integration with folders, spreadsheets, EDMS, CDE and other systems
+- Automated reading and classification when appropriate
 
-## Data & metadata modeling
+[See ways to work with Document Management](document-management.md)
 
-- Canonical domains and entities for construction data
-- Business glossary and metric definitions
-- Lineage and metadata structure
+## Project and Construction Planning & Control
 
-**Deliverable:** reference data model + governance artifacts.
+- Schedule development and review
+- Physical progress tracking and variance analysis
+- Replanning and scenario analysis
+- Integration of schedule, documents and execution information
 
-## Data quality framework
+## Engineering Design
 
-- Quality rules and controls by domain
-- Monitoring metrics and alerts
-- Issue triage and resolution workflow
+- Engineering design development
+- Technical review
+- Multidiscipline coordination
+- Support for design coordination and project information
 
-**Deliverable:** quality rule catalog + operational dashboard approach.
+## Technology as a cross-cutting capability
 
-## AI readiness program
-
-- Use-case identification and prioritization
-- Data requirements and guardrails
-- Pilot support with governance-by-design
-
-**Deliverable:** AI readiness plan and pilot blueprint.
+Automation, Artificial Intelligence, structured data, open standards and BIM are used when they improve service delivery. Brasidata does not require clients to replace their tools or rebuild the entire process before starting.
 
 [Request a proposal](contact.md)

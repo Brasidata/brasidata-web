@@ -1,45 +1,47 @@
 # Servicios
 
-Elige soporte puntual o un programa por fases. Brasidata se enfoca en gobernanza práctica que mejora decisiones del día a día y habilita IA de forma segura.
+Brasidata actúa en ingeniería, gestión de la información y tecnología aplicada a proyectos y obras. El alcance puede ser puntual, recurrente o integrado a un equipo existente.
 
-## Evaluación de gobernanza de datos
+## Fiscalización de Obras y Servicios
 
-- Evaluación de madurez del estado actual
-- Revisión de calidad de datos y procesos
-- Mapeo de stakeholders y brechas de responsabilidad
+- Seguimiento técnico de campo
+- Registros y evidencias de ejecución
+- Verificación de conformidad y pendientes
+- Apoyo a mediciones, aceptación y toma de decisiones
 
-**Entregable:** informe de evaluación con recomendaciones priorizadas.
+## Auditoría Técnica
 
-## Estrategia y roadmap
+- Revisión independiente de documentos y entregables
+- Verificación de consistencia de datos y registros
+- Evaluación de procesos, requisitos y conformidad
+- Identificación de desvíos, brechas y retrabajo potencial
 
-- Modelo operativo de gobernanza (roles, comités, flujos)
-- Definición de políticas y estándares
-- Roadmap por fases alineado a valor de negocio
+## Gestión de Documentos e Información
 
-**Entregable:** roadmap ejecutable con hitos y responsables.
+- Inventario y organización de acervos técnicos
+- Clasificación, registro y control de revisiones
+- Estructuración de registros documentales y metadatos
+- Integración con carpetas, hojas de cálculo, EDMS, CDE y otros sistemas
+- Lectura y clasificación automatizadas cuando corresponda
 
-## Modelado de datos y metadatos
+[Ver formas de trabajar con Gestión de Documentos](document-management.md)
 
-- Dominios y entidades canónicas para datos de construcción
-- Glosario de negocio y definiciones de métricas
-- Linaje y estructura de metadatos
+## Planificación y Control de Proyectos y Obras
 
-**Entregable:** modelo de referencia + artefactos de gobernanza.
+- Desarrollo y revisión de cronogramas
+- Seguimiento físico y análisis de desvíos
+- Replanificación y escenarios
+- Integración entre plazos, documentos e información de ejecución
 
-## Framework de calidad de datos
+## Proyectos de Ingeniería
 
-- Reglas y controles por dominio
-- Métricas de monitoreo y alertas
-- Flujo de triage y resolución de issues
+- Desarrollo de proyectos de ingeniería
+- Revisión técnica
+- Compatibilización entre disciplinas
+- Soporte a la coordinación y a la información de proyecto
 
-**Entregable:** catálogo de reglas + enfoque de dashboard operativo.
+## Tecnología como capacidad transversal
 
-## Programa de preparación para IA
-
-- Identificación y priorización de casos de uso
-- Requisitos de datos y guardrails
-- Soporte al piloto con gobernanza-by-design
-
-**Entregable:** plan de preparación para IA y blueprint del piloto.
+Automatización, Inteligencia Artificial, datos estructurados, estándares abiertos y BIM se utilizan cuando mejoran la ejecución del servicio. Brasidata no exige que el cliente sustituya sus herramientas ni reconstruya todo el proceso para comenzar.
 
 [Solicitar propuesta](contact.md)
