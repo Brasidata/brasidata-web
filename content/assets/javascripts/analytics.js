@@ -1,10 +1,6 @@
 (() => {
-  // Set this to the Umami website ID to enable analytics collection.
-  // The site is fully instrumented with data-umami-event attributes even while disabled.
-  const websiteId = "";
+  const websiteId = "54cea9a5-0f45-49cd-839e-7a4229e766f3";
   const scriptUrl = "https://cloud.umami.is/script.js";
-
-  if (!websiteId) return;
 
   const script = document.createElement("script");
   script.defer = true;
