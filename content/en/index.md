@@ -9,8 +9,8 @@ hide:
 
 <p class="bd-lead">Brasidata works from field supervision to technical delivery, combining engineering, information management and automation without forcing your team to abandon the processes and tools that already work.</p>
 
-<a href="services.md" class="md-button md-button--primary" data-umami-event="home-services-en">Explore our services</a>
-<a href="contact.md" class="md-button" data-umami-event="home-contact-en">Contact us</a>
+<a href="/services/" class="md-button md-button--primary" data-umami-event="home-services-en">Explore our services</a>
+<a href="/contact/" class="md-button" data-umami-event="home-contact-en">Contact us</a>
 
 </div>
 
@@ -110,7 +110,7 @@ Brasidata develops and applies its own technology to reduce manual work, connect
 
 Explore Brasidata's service areas or talk to us about a specific scope.
 
-<a href="services.md" class="md-button md-button--primary" data-umami-event="home-services-bottom-en">View services</a>
-<a href="contact.md" class="md-button" data-umami-event="home-contact-bottom-en">Talk to Brasidata</a>
+<a href="/services/" class="md-button md-button--primary" data-umami-event="home-services-bottom-en">View services</a>
+<a href="/contact/" class="md-button" data-umami-event="home-contact-bottom-en">Talk to Brasidata</a>
 
 </div>
