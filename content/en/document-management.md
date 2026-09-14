@@ -25,19 +25,19 @@ Brasidata works with the documentation engineering teams already produce. The go
 <div class="grid cards bd-cards-4" markdown>
 
 -   ### Collection inventory
-    <img src="../assets/images/icon-audit.png" alt="Inventory icon" class="bd-icon" />
+    <img src="/assets/images/icon-audit.png" alt="Inventory icon" class="bd-icon" />
     Identify existing files, document types, disciplines, revisions, duplicates and gaps.
 
 -   ### Reading and classification
-    <img src="../assets/images/icon-think.png" alt="Reading and classification icon" class="bd-icon" />
+    <img src="/assets/images/icon-think.png" alt="Reading and classification icon" class="bd-icon" />
     Extract metadata from title blocks, filenames and content to reduce manual registration.
 
 -   ### Document register
-    <img src="../assets/images/icon-standard.png" alt="Document register icon" class="bd-icon" />
+    <img src="/assets/images/icon-standard.png" alt="Document register icon" class="bd-icon" />
     Structure indexes and registers for retrieval, audit, integration and handover.
 
 -   ### Integration with the current process
-    <img src="../assets/images/icon-connection.png" alt="Integration icon" class="bd-icon" />
+    <img src="/assets/images/icon-connection.png" alt="Integration icon" class="bd-icon" />
     Information can remain in folders, spreadsheets, EDMS, CDE or other systems already adopted by the client.
 
 </div>

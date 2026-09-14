@@ -25,19 +25,19 @@ Brasidata trabaja sobre la documentación que la ingeniería ya produce. El obje
 <div class="grid cards bd-cards-4" markdown>
 
 -   ### Inventario del acervo
-    <img src="../assets/images/icon-audit.png" alt="Ícono de inventario" class="bd-icon" />
+    <img src="/assets/images/icon-audit.png" alt="Ícono de inventario" class="bd-icon" />
     Identificación de archivos existentes, tipos documentales, disciplinas, revisiones, duplicidades y brechas.
 
 -   ### Lectura y clasificación
-    <img src="../assets/images/icon-think.png" alt="Ícono de lectura y clasificación" class="bd-icon" />
+    <img src="/assets/images/icon-think.png" alt="Ícono de lectura y clasificación" class="bd-icon" />
     Extracción de metadatos desde cajetines, nombres de archivo y contenido para reducir el registro manual.
 
 -   ### Registro documental
-    <img src="../assets/images/icon-standard.png" alt="Ícono de registro documental" class="bd-icon" />
+    <img src="/assets/images/icon-standard.png" alt="Ícono de registro documental" class="bd-icon" />
     Estructuración de índices y registros para consulta, auditoría, integración y entrega.
 
 -   ### Integración con el proceso actual
-    <img src="../assets/images/icon-connection.png" alt="Ícono de integración" class="bd-icon" />
+    <img src="/assets/images/icon-connection.png" alt="Ícono de integración" class="bd-icon" />
     La información puede seguir en carpetas, hojas de cálculo, EDMS, CDE u otros sistemas ya adoptados por el cliente.
 
 </div>

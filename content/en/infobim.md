@@ -25,15 +25,15 @@ InfoBIM can be used as a starting point to organize and work with engineering in
 <div class="grid cards bd-cards-3" markdown>
 
 -   ### Your files stay with you
-    <img src="../assets/images/icon-standard.png" alt="Local files icon" class="bd-icon" />
+    <img src="/assets/images/icon-standard.png" alt="Local files icon" class="bd-icon" />
     The local workflow operates directly on project files and folders.
 
 -   ### Automation without replacing the whole process
-    <img src="../assets/images/icon-connection.png" alt="Automation icon" class="bd-icon" />
+    <img src="/assets/images/icon-connection.png" alt="Automation icon" class="bd-icon" />
     InfoBIM adds structure and automation to the existing process rather than requiring a complete rebuild of the working environment.
 
 -   ### Open source
-    <img src="../assets/images/icon-audit.png" alt="Open source icon" class="bd-icon" />
+    <img src="/assets/images/icon-audit.png" alt="Open source icon" class="bd-icon" />
     The project is distributed under the Apache 2.0 license and its source code is publicly available.
 
 </div>

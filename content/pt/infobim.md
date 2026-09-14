@@ -25,15 +25,15 @@ O InfoBIM pode ser usado como ponto de partida para organizar e trabalhar com in
 <div class="grid cards bd-cards-3" markdown>
 
 -   ### Seus arquivos permanecem com você
-    <img src="../assets/images/icon-standard.png" alt="Ícone de arquivos locais" class="bd-icon" />
+    <img src="/assets/images/icon-standard.png" alt="Ícone de arquivos locais" class="bd-icon" />
     O fluxo local permite trabalhar diretamente sobre arquivos e pastas do projeto.
 
 -   ### Automação sem trocar todo o processo
-    <img src="../assets/images/icon-connection.png" alt="Ícone de automação" class="bd-icon" />
+    <img src="/assets/images/icon-connection.png" alt="Ícone de automação" class="bd-icon" />
     O InfoBIM foi criado para adicionar estrutura e automação ao processo existente, não para exigir uma reconstrução completa do ambiente de trabalho.
 
 -   ### Código aberto
-    <img src="../assets/images/icon-audit.png" alt="Ícone de código aberto" class="bd-icon" />
+    <img src="/assets/images/icon-audit.png" alt="Ícone de código aberto" class="bd-icon" />
     O projeto é distribuído sob licença Apache 2.0 e o código-fonte está disponível publicamente.
 
 </div>
