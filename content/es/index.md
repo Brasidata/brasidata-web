@@ -3,238 +3,208 @@ hide:
   - toc
 ---
 
-<div class="bd-field-home" markdown>
+<div class="bd-auto-home" markdown>
 
-<section class="bd-field-hero" markdown>
+<section class="bd-auto-hero" markdown>
+<div class="bd-auto-hero__copy" markdown>
+<p class="bd-auto-kicker">BRASIDATA · INGENIERÍA + INFORMACIÓN</p>
 
-<p class="bd-kicker">BRASIDATA · INGENIERÍA + INFORMACIÓN</p>
+# Información técnica para equipos que necesitan construir, controlar y entregar.
 
-# Información de obra para decidir sin adivinar.
+<p class="bd-auto-hero__lead">Supervisión de obra, auditoría técnica, gestión documental, planificación e ingeniería conectadas por datos trazables. Brasidata organiza lo que ya existe, reduce trabajo manual y devuelve contexto para la toma de decisiones técnicas.</p>
 
-<p class="bd-field-hero__lead">Supervisión, auditoría técnica, gestión documental, planificación e ingeniería conectadas por información trazable. La tecnología entra para reducir trabajo manual y hacer más claras las decisiones técnicas, sin obligar al equipo a sustituir todo lo que ya funciona.</p>
-
-<div class="bd-field-actions" markdown>
+<div class="bd-auto-actions" markdown>
 <a href="/es/contact/" class="md-button md-button--primary" data-umami-event="home-contact-hero-es">Hablar sobre un alcance</a>
-<a href="#servicios" class="md-button" data-umami-event="home-services-hero-es">Ver cómo trabajamos</a>
+<a href="#entregamos" class="md-button" data-umami-event="home-services-hero-es">Ver cómo trabajamos</a>
 </div>
-
+</div>
+<div class="bd-auto-hero__visual"><div class="bd-auto-live">obra · documentos · planificación · BIM</div></div>
 </section>
 
-<div class="bd-field-stats" markdown>
-<div class="bd-field-stat"><strong>OBRA</strong><span>registros, evidencias y conformidad</span></div>
-<div class="bd-field-stat"><strong>DOCUMENTOS</strong><span>clasificación, revisión y trazabilidad</span></div>
-<div class="bd-field-stat"><strong>PLANIFICACIÓN</strong><span>plazos, desviaciones e información de ejecución</span></div>
-<div class="bd-field-stat"><strong>DATOS</strong><span>automatización, interoperabilidad y openBIM</span></div>
+<div class="bd-auto-metrics">
+<div class="bd-auto-metric"><strong>5 frentes</strong><span>ingeniería, obra, auditoría, documentos y planificación</span></div>
+<div class="bd-auto-metric"><strong>PDF · XLSX · IFC</strong><span>información conectada sin imponer una única plataforma</span></div>
+<div class="bd-auto-metric"><strong>obra → entrega</strong><span>trazabilidad a lo largo del ciclo técnico</span></div>
 </div>
 
-<section class="bd-field-section" id="servicios" markdown>
-
-<div class="bd-field-section__intro" markdown>
-<p class="bd-kicker">QUÉ ENTREGAMOS</p>
-
-## Cinco frentes. Un único hilo de información.
-
-Cada frente resuelve un problema específico del proyecto o de la obra. Juntas conectan lo previsto, lo ejecutado, lo registrado y lo que todavía requiere una decisión.
+<div class="bd-auto-strip">
+<span class="bd-auto-strip__label">Aplicación en</span><span>Obras</span><span>Proyectos</span><span>Contratos</span><span>Archivos técnicos</span><span>Operación</span>
 </div>
 
-<div class="bd-service-stack" markdown>
+<section class="bd-auto-section bd-auto-section--line" id="entregamos" markdown>
+<div class="bd-auto-intro" markdown>
+<p class="bd-auto-kicker">QUÉ ENTREGAMOS</p>
 
-<div class="bd-service-row" markdown>
-<div class="bd-service-row__no">01 / SUPERVISIÓN</div>
+## Cuatro capacidades integradas en un único flujo.
 
-### La obra observada con criterio técnico.
-
-Seguimiento de campo, registros de ejecución, pendientes, conformidad y apoyo a mediciones y aceptación. El objetivo es transformar la inspección en evidencia utilizable, no solo en otro informe archivado.
+Cada una resuelve una parte distinta del problema. Juntas conectan ejecución, evidencias, documentos, plazo e información de ingeniería sin obligar al cliente a reconstruir todo su entorno de trabajo.
 </div>
 
-<div class="bd-service-row" markdown>
-<div class="bd-service-row__no">02 / AUDITORÍA</div>
+<div class="bd-auto-services">
+<div class="bd-auto-service">
+<div class="bd-auto-service__visual"><span class="bd-auto-visual-label">Obra · evidencia técnica</span></div>
+<div class="bd-auto-service__copy" markdown>
+<div class="bd-auto-service__no">01 / SUPERVISIÓN DE OBRA</div>
 
-### Lo que no cuadra debe quedar visible.
+### Lo que ocurre en campo debe convertirse en información utilizable.
 
-Revisión independiente de documentos, datos, requisitos y entregables técnicos. Las inconsistencias, lagunas y desviaciones se organizan para facilitar decisiones, correcciones y responsabilidad técnica.
+Seguimiento técnico, registros, pendientes, conformidad y apoyo a mediciones y aceptación. La inspección deja de ser un conjunto suelto de fotos y observaciones para convertirse en evidencia trazable.
+
+<div class="bd-auto-service__facts"><div class="bd-auto-service__fact"><strong>Campo</strong><span>inspección y seguimiento</span></div><div class="bd-auto-service__fact"><strong>Evidencia</strong><span>fotos, registros y pendientes</span></div><div class="bd-auto-service__fact"><strong>Conformidad</strong><span>requisitos y aceptación</span></div></div>
+</div>
 </div>
 
-<div class="bd-service-row" markdown>
-<div class="bd-service-row__no">03 / DOCUMENTOS</div>
+<div class="bd-auto-service">
+<div class="bd-auto-service__visual bd-auto-service__visual--docs"><span class="bd-auto-visual-label">Auditoría · documentos · metadatos</span></div>
+<div class="bd-auto-service__copy" markdown>
+<div class="bd-auto-service__no">02 / AUDITORÍA + GESTIÓN DOCUMENTAL</div>
 
-### La información técnica no debería depender de la memoria de alguien.
+### Saber qué existe, qué es válido y qué no cuadra.
 
-Inventario, clasificación, registro, control de revisiones, metadatos y estructuración de archivos técnicos. Carpetas, hojas de cálculo, GED y CDE pueden seguir existiendo: Brasidata organiza la información para que pueda encontrarse y relacionarse.
+Inventario, clasificación, revisiones, metadatos y análisis independiente de documentos y entregables. Carpetas, hojas de cálculo, GED y CDE pueden seguir existiendo; Brasidata estructura la información para que pueda encontrarse, compararse y auditarse.
+
+<div class="bd-auto-service__facts"><div class="bd-auto-service__fact"><strong>Inventario</strong><span>qué existe y dónde está</span></div><div class="bd-auto-service__fact"><strong>Revisión</strong><span>qué está vigente</span></div><div class="bd-auto-service__fact"><strong>Relaciones</strong><span>cómo se conectan los archivos</span></div></div>
+</div>
 </div>
 
-<div class="bd-service-row" markdown>
-<div class="bd-service-row__no">04 / PLANIFICACIÓN</div>
+<div class="bd-auto-service">
+<div class="bd-auto-service__visual bd-auto-service__visual--plan"><span class="bd-auto-visual-label">Cronograma · avance · desviaciones</span></div>
+<div class="bd-auto-service__copy" markdown>
+<div class="bd-auto-service__no">03 / PLANIFICACIÓN + CONTROL</div>
 
-### El plazo conectado con lo que realmente sucede.
+### El cronograma debe conversar con la ejecución.
 
-Estructuración y revisión de cronogramas, seguimiento físico, análisis de desviaciones y replanificación. Documentos, registros y ejecución pueden vincularse a las actividades para reducir la distancia entre planificación y obra.
+Estructuración y revisión de cronogramas, seguimiento físico, análisis de desviaciones, replanificación y conexión entre plazo e información técnica. Documentos, evidencias y entregables pueden vincularse a las actividades para reducir la distancia entre plan y realidad.
+
+<div class="bd-auto-service__facts"><div class="bd-auto-service__fact"><strong>Planificar</strong><span>estructura y lógica</span></div><div class="bd-auto-service__fact"><strong>Seguir</strong><span>avance y restricciones</span></div><div class="bd-auto-service__fact"><strong>Replanificar</strong><span>desviaciones y escenarios</span></div></div>
+</div>
 </div>
 
-<div class="bd-service-row" markdown>
-<div class="bd-service-row__no">05 / INGENIERÍA</div>
+<div class="bd-auto-service">
+<div class="bd-auto-service__visual bd-auto-service__visual--bim"><span class="bd-auto-visual-label">Ingeniería · BIM · openBIM</span></div>
+<div class="bd-auto-service__copy" markdown>
+<div class="bd-auto-service__no">04 / INGENIERÍA + BIM</div>
 
-### Diseño, revisión y coordinación con información asociada.
+### Proyecto e información tratados como partes del mismo problema.
 
-Desarrollo y revisión técnica de proyectos, coordinación entre disciplinas y soporte técnico. BIM y los estándares abiertos se utilizan cuando aportan valor al proceso, no como requisito artificial.
+Desarrollo, revisión, coordinación y soporte técnico con BIM y estándares abiertos cuando aportan valor. El modelo no necesita convertirse en el centro de todo; puede seguir siendo una fuente de información conectada a documentos, cronogramas y registros.
+
+<div class="bd-auto-service__facts"><div class="bd-auto-service__fact"><strong>Proyecto</strong><span>desarrollo y revisión</span></div><div class="bd-auto-service__fact"><strong>Coordinación</strong><span>interfaces entre disciplinas</span></div><div class="bd-auto-service__fact"><strong>Interoperabilidad</strong><span>IFC y formatos abiertos</span></div></div>
 </div>
-
 </div>
-
+</div>
 </section>
 
-<section class="bd-field-section" id="evidencias" markdown>
+<section class="bd-auto-work" markdown>
+<div class="bd-auto-intro" markdown>
+<p class="bd-auto-kicker">EN OBRA · EN PROYECTO · EN EL ARCHIVO</p>
 
-<div class="bd-field-section__intro" markdown>
-<p class="bd-kicker">DEL CAMPO AL DATO</p>
+## No es una presentación. Es información trabajando.
 
-## No se trata de producir más archivos. Se trata de poder usar los que ya existen.
-
-La información técnica suele estar dispersa entre planos, hojas de cálculo, PDF, fotos, cronogramas, modelos y mensajes. El trabajo consiste en transformar ese conjunto en contexto para ingeniería.
+Brasidata trabaja sobre el material real del cliente: registros de campo, planos, hojas de cálculo, cronogramas, modelos, informes y documentos técnicos. El resultado debe volver al proceso de ingeniería, no a una carpeta de demostración.
 </div>
 
-<div class="bd-evidence-grid" markdown>
-<div class="bd-evidence-card" markdown>
-<span>CAMPO</span>
-
-### Evidencia vinculada a lo inspeccionado
-
-Fotos, registros, pendientes y observaciones organizados para entender dónde, cuándo y por qué se produjo cada información.
+<div class="bd-auto-work-grid">
+<div class="bd-auto-work-card"><div class="bd-auto-work-card__caption"><span>Campo · supervisión</span><strong>Registro técnico conectado con lugar, fecha y pendiente</strong></div></div>
+<div class="bd-auto-work-card"><div class="bd-auto-work-card__caption"><span>Documentos</span><strong>Clasificación, revisión y metadatos</strong></div></div>
+<div class="bd-auto-work-card"><div class="bd-auto-work-card__caption"><span>Planificación</span><strong>Cronograma conectado a la ejecución</strong></div></div>
+<div class="bd-auto-work-card"><div class="bd-auto-work-card__caption"><span>BIM · información</span><strong>Modelos relacionados con archivos y contexto técnico</strong></div></div>
+<div class="bd-auto-work-card"><div class="bd-auto-work-card__caption"><span>Auditoría</span><strong>Inconsistencias y lagunas visibles</strong></div></div>
+<div class="bd-auto-work-card"><div class="bd-auto-work-card__caption"><span>Entrega</span><strong>Datos y estructuras que siguen siendo utilizables</strong></div></div>
 </div>
-
-<div class="bd-evidence-card" markdown>
-<span>DOCUMENTACIÓN</span>
-
-### Contenido identificado antes de automatizarlo
-
-La clasificación y los metadatos ayudan a responder qué es cada archivo, a qué se refiere, qué revisión es válida y cómo se relaciona con el resto del proyecto.
-</div>
-
-<div class="bd-evidence-card" markdown>
-<span>PLANIFICACIÓN</span>
-
-### Cronograma con contexto técnico
-
-Las actividades pueden conectarse con documentos, evidencias, requisitos y elementos de proyecto para que el plazo deje de ser una línea aislada en una hoja de cálculo.
-</div>
-
-<div class="bd-evidence-card" markdown>
-<span>ENTREGA</span>
-
-### Información que sigue siendo utilizable después del contrato
-
-Estructuras abiertas, formatos interoperables y documentación del proceso reducen la dependencia de un software, proveedor o persona concreta.
-</div>
-</div>
-
 </section>
 
-<section class="bd-field-section" id="metodo" markdown>
+<section class="bd-auto-section bd-auto-section--line" markdown>
+<div class="bd-auto-intro" markdown>
+<p class="bd-auto-kicker">MÉTODO BRASIDATA</p>
 
-<div class="bd-field-section__intro" markdown>
-<p class="bd-kicker">CÓMO TRABAJAMOS</p>
+## Cuatro etapas. Un ciclo cerrado de información.
 
-## Del diagnóstico a la información utilizable.
-
-El proceso parte de la realidad del cliente. No es necesario reconstruir toda la operación para empezar.
+Diagnosticar el entorno, estructurar la información, operar sobre el problema real y devolver continuidad al equipo.
 </div>
-
-<div class="bd-method" markdown>
-<div class="bd-method-step" markdown>
-<span class="bd-method-step__no">01</span>
-
-### Diagnóstico
-
-Entender documentos, herramientas, responsabilidades, requisitos y los puntos donde se pierde información.
+<div class="bd-auto-method">
+<div class="bd-auto-method__step" markdown><span class="bd-auto-method__no">01 · DIAGNÓSTICO</span>#### Entender el entorno<p>Mapear archivos, herramientas, responsabilidades, requisitos y los puntos donde se pierde información.</p></div>
+<div class="bd-auto-method__step" markdown><span class="bd-auto-method__no">02 · ESTRUCTURACIÓN</span>#### Organizar el contexto<p>Definir clasificación, metadatos, relaciones, criterios de verificación e interfaces entre personas y sistemas.</p></div>
+<div class="bd-auto-method__step" markdown><span class="bd-auto-method__no">03 · EJECUCIÓN</span>#### Trabajar sobre el problema<p>Aplicar supervisión, auditoría, planificación, ingeniería y automatización donde cada capacidad realmente ayude.</p></div>
+<div class="bd-auto-method__step" markdown><span class="bd-auto-method__no">04 · CONTINUIDAD</span>#### Devolver información utilizable<p>Entregar registros y estructuras que puedan seguir consultándose, auditándose y ampliándose.</p></div>
 </div>
-<div class="bd-method-step" markdown>
-<span class="bd-method-step__no">02</span>
-
-### Estructuración
-
-Definir organización, metadatos, relaciones, criterios de verificación e interfaces entre personas y sistemas.
-</div>
-<div class="bd-method-step" markdown>
-<span class="bd-method-step__no">03</span>
-
-### Ejecución
-
-Aplicar supervisión, auditoría, planificación, ingeniería o gestión documental, incorporando automatización donde realmente reduzca esfuerzo.
-</div>
-<div class="bd-method-step" markdown>
-<span class="bd-method-step__no">04</span>
-
-### Continuidad
-
-Entregar registros, datos y estructuras que el equipo pueda seguir usando, auditando y ampliando.
-</div>
-</div>
-
 </section>
 
-<section class="bd-platform" id="infobim" markdown>
+<section class="bd-auto-platform" id="infobim" markdown>
+<div class="bd-auto-platform__intro" markdown>
+<p class="bd-auto-kicker">INFOBIM · CAPA DIGITAL</p>
 
-<p class="bd-kicker">INFOBIM · TECNOLOGÍA BRASIDATA</p>
+## Cuando tiene sentido, toda la información puede vivir en una única interfaz.
 
-## La información se abre en el navegador y sigue siendo suya.
+InfoBIM trabaja sobre los archivos del proyecto para conectar documentos, modelos, cronogramas, metadatos y otros datos técnicos. La propuesta es añadir contexto y automatización sin encerrar el proceso en una plataforma propietaria.
 
-Cuando el alcance necesita una capa digital, Brasidata utiliza InfoBIM para conectar documentos, modelos, cronogramas y otros datos técnicos en una interfaz simple. El objetivo no es sustituir el ecosistema del cliente, sino crear contexto entre informaciones que normalmente permanecen aisladas.
-
-<div class="bd-platform__tags">
-<span>IFC / openBIM</span><span>documentos</span><span>cronogramas</span><span>metadatos</span><span>HTML</span><span>formatos abiertos</span>
+<div class="bd-auto-platform__chips"><span>documentos</span><span>IFC / openBIM</span><span>cronogramas</span><span>metadatos</span><span>HTML</span><span>uso local</span></div>
+<div class="bd-auto-actions" markdown><a href="/es/infobim/" class="md-button md-button--primary" data-umami-event="home-infobim-platform-es">Conocer InfoBIM</a><a href="/es/document-management/" class="md-button" data-umami-event="home-docs-platform-es">Gestión documental</a></div>
 </div>
 
-<div class="bd-field-actions" markdown>
-<a href="/es/infobim/" class="md-button md-button--primary" data-umami-event="home-infobim-es">Conocer InfoBIM</a>
-<a href="/es/document-management/" class="md-button" data-umami-event="home-docs-es">Gestión documental</a>
+<div class="bd-auto-browser">
+<div class="bd-auto-browser__bar"><div class="bd-auto-browser__dots"><i></i><i></i><i></i></div><div class="bd-auto-browser__address">proyecto / información / contexto</div></div>
+<div class="bd-auto-browser__body"><div class="bd-auto-browser__nav"><span>Vista general</span><span>Documentos</span><span>Modelo</span><span>Cronograma</span><span>Evidencias</span><span>Metadatos</span></div><div class="bd-auto-browser__canvas"><div class="bd-auto-browser__panel"><b>Contexto del elemento</b><span></span><span></span><span></span><span></span></div></div></div>
 </div>
-
 </section>
 
-<section class="bd-field-section" id="por-que" markdown>
+<section class="bd-auto-section bd-auto-section--line" markdown>
+<div class="bd-auto-intro" markdown>
+<p class="bd-auto-kicker">INFOBIM · POR DENTRO</p>
 
-<div class="bd-field-section__intro" markdown>
-<p class="bd-kicker">POR QUÉ BRASIDATA</p>
+## El archivo sigue siendo archivo. El contexto aparece a su alrededor.
 
-## Ingeniería primero. Herramientas después.
+En lugar de sustituir los formatos de trabajo, la capa digital relaciona lo que ya existe y deja la información accesible en el navegador.
 </div>
-
-<div class="bd-reason-grid" markdown>
-<div class="bd-reason-card" markdown>
-### Proceso real antes que plataforma
-
-La solución parte de cómo funcionan realmente la obra y el equipo, incluso en entornos que todavía dependen de PDF, Excel, CAD y registros de campo.
+<div class="bd-auto-modules">
+<div class="bd-auto-module" markdown><div class="bd-auto-module__visual"></div><span class="bd-auto-module__no">01 / DOCUMENTOS</span>### Archivo técnico con contexto<p>Archivos, clasificación, revisiones y metadatos organizados para búsqueda y relaciones.</p></div>
+<div class="bd-auto-module" markdown><div class="bd-auto-module__visual"></div><span class="bd-auto-module__no">02 / BIM</span>### IFC conectado con la información del proyecto<p>El modelo puede participar del flujo sin convertirse en requisito para todo lo demás.</p></div>
+<div class="bd-auto-module" markdown><div class="bd-auto-module__visual"></div><span class="bd-auto-module__no">03 / PLANIFICACIÓN</span>### Plazo relacionado con entregables<p>Actividades, fechas e información técnica pueden compartir el mismo contexto.</p></div>
+<div class="bd-auto-module" markdown><div class="bd-auto-module__visual"></div><span class="bd-auto-module__no">04 / EVIDENCIAS</span>### Campo conectado a documentos<p>Registros y pendientes pueden apuntar a archivos, requisitos y elementos.</p></div>
+<div class="bd-auto-module" markdown><div class="bd-auto-module__visual"></div><span class="bd-auto-module__no">05 / AUTOMATIZACIÓN</span>### Menos trabajo repetitivo<p>Lectura, clasificación e integración pueden automatizarse manteniendo trazabilidad.</p></div>
+<div class="bd-auto-module" markdown><div class="bd-auto-module__visual"></div><span class="bd-auto-module__no">06 / FORMATOS ABIERTOS</span>### La información sigue siendo portable<p>Las estructuras abiertas reducen dependencia de proveedor, licencia o aplicación concreta.</p></div>
 </div>
-<div class="bd-reason-card" markdown>
-### Tecnología sin dependencia forzada
-
-Automatización, IA, BIM y software son medios. Siempre que sea posible, la información permanece accesible mediante formatos abiertos y reutilizables.
-</div>
-<div class="bd-reason-card" markdown>
-### Trazabilidad para revisión
-
-El trabajo se estructura para que decisiones, evidencias, revisiones y relaciones puedan comprobarse después, por personas o sistemas.
-</div>
-<div class="bd-reason-card" markdown>
-### Integración en lugar de sustitución
-
-Brasidata puede trabajar sobre la pila tecnológica existente del cliente, conectando carpetas, hojas de cálculo, documentos, modelos y sistemas sin exigir una migración total para empezar.
-</div>
-</div>
-
 </section>
 
-<section class="bd-field-cta" markdown>
+<section class="bd-auto-section bd-auto-section--line" markdown>
+<div class="bd-auto-mobile">
+<div class="bd-auto-phone"><div class="bd-auto-phone__screen"></div></div>
+<div class="bd-auto-mobile__copy" markdown>
+<p class="bd-auto-kicker">EN CAMPO</p>
 
+## La información debe llegar donde ocurre la decisión.
+
+Las interfaces web permiten consultar contexto técnico sin depender de una estación de trabajo completa. El objetivo es acortar el camino entre lo que está en los archivos y lo que necesita comprobarse en obra.
+
+<div class="bd-auto-mobile__chips"><span>navegador</span><span>HTML</span><span>IFC</span><span>documentos</span><span>offline cuando aplique</span></div>
+</div>
+</div>
+</section>
+
+<section class="bd-auto-section" markdown>
+<div class="bd-auto-intro" markdown>
+<p class="bd-auto-kicker">POR QUÉ BRASIDATA</p>
+
+## La tecnología solo interesa cuando mejora el trabajo de ingeniería.
+
+Brasidata parte del proceso real y utiliza software, automatización, IA y BIM como capacidades de apoyo, no como fines en sí mismos.
+</div>
+<div class="bd-auto-reasons">
+<div class="bd-auto-reason" markdown>#### Ingeniería antes que plataforma<p>El alcance nace del problema técnico, no de la herramienta disponible.</p></div>
+<div class="bd-auto-reason" markdown>#### Integración sin migración forzada<p>Es posible trabajar sobre carpetas, hojas de cálculo, documentos, CAD, BIM y sistemas existentes.</p></div>
+<div class="bd-auto-reason" markdown>#### Información trazable<p>Relaciones, revisiones, evidencias y decisiones quedan estructuradas para consulta y auditoría.</p></div>
+<div class="bd-auto-reason" markdown>#### Formatos reutilizables<p>Siempre que sea posible, la entrega sigue siendo accesible fuera de una aplicación específica.</p></div>
+</div>
+</section>
+
+<section class="bd-auto-cta" markdown>
+<div markdown>
 ## ¿Demasiada información y demasiado poco contexto?
-
-Muestre el problema real: una obra, un archivo técnico, un cronograma, un conjunto de entregables o un proceso que hoy depende de trabajo manual para funcionar.
-
-<div class="bd-field-actions" markdown>
-<a href="/es/contact/" class="md-button md-button--primary" data-umami-event="home-contact-bottom-es">Hablar con Brasidata</a>
-<a href="/es/services/" class="md-button" data-umami-event="home-services-bottom-es">Ver todos los servicios</a>
 </div>
-
+<div markdown>
+<p>Muestre el problema real: una obra, un archivo técnico, un cronograma, un conjunto de entregables o un proceso que hoy depende de trabajo manual para funcionar.</p>
+<div class="bd-auto-actions" markdown><a href="/es/contact/" class="md-button md-button--primary" data-umami-event="home-contact-bottom-es">Hablar con Brasidata</a><a href="/es/services/" class="md-button" data-umami-event="home-services-bottom-es">Ver servicios</a></div>
+</div>
 </section>
 
 </div>
