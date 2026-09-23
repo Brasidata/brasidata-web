@@ -3,114 +3,238 @@ hide:
   - toc
 ---
 
-<div class="bd-hero" markdown>
+<div class="bd-field-home" markdown>
 
-<h1>Ingeniería, información y tecnología para <span class="bd-accent">proyectos y obras</span>.</h1>
+<section class="bd-field-hero" markdown>
 
-<p class="bd-lead">Brasidata actúa desde la fiscalización en campo hasta la entrega técnica, combinando ingeniería, gestión de la información y automatización sin obligar a tu equipo a abandonar los procesos y herramientas que ya funcionan.</p>
+<p class="bd-kicker">BRASIDATA · INGENIERÍA + INFORMACIÓN</p>
 
-<a href="/es/services/" class="md-button md-button--primary" data-umami-event="home-services-es">Conozca nuestros servicios</a>
-<a href="/es/contact/" class="md-button" data-umami-event="home-contact-es">Hable con nosotros</a>
+# Información de obra para decidir sin adivinar.
 
+<p class="bd-field-hero__lead">Supervisión, auditoría técnica, gestión documental, planificación e ingeniería conectadas por información trazable. La tecnología entra para reducir trabajo manual y hacer más claras las decisiones técnicas, sin obligar al equipo a sustituir todo lo que ya funciona.</p>
+
+<div class="bd-field-actions" markdown>
+<a href="/es/contact/" class="md-button md-button--primary" data-umami-event="home-contact-hero-es">Hablar sobre un alcance</a>
+<a href="#servicios" class="md-button" data-umami-event="home-services-hero-es">Ver cómo trabajamos</a>
 </div>
 
-<div class="bd-section" markdown id="servicios">
+</section>
 
-<p class="bd-eyebrow bd-accent">QUÉ HACEMOS</p>
-
-## Servicios de ingeniería para el trabajo real
-
-<div class="grid cards bd-cards-3" markdown>
-
--   ### Fiscalización de Obras y Servicios
-    <img src="/assets/images/icon-operation.png" alt="Ícono de fiscalización" class="bd-icon" />
-    Seguimiento técnico de campo, registros, verificación de ejecución, conformidad y apoyo a la toma de decisiones durante la obra.
-
--   ### Auditoría Técnica
-    <img src="/assets/images/icon-audit.png" alt="Ícono de auditoría" class="bd-icon" />
-    Revisión independiente de documentos, datos, procesos y entregables técnicos para hacer visibles desvíos e inconsistencias.
-
--   ### Gestión de Documentos e Información
-    <img src="/assets/images/icon-standard.png" alt="Ícono de documentos e información" class="bd-icon" />
-    Inventario, clasificación, control de revisiones, organización y estructuración de acervos y flujos de información de ingeniería.
-
-    [Conocer la solución](document-management.md){ .md-button }
-
--   ### Planificación y Control de Proyectos y Obras
-    <img src="/assets/images/icon-plan.png" alt="Ícono de planificación" class="bd-icon" />
-    Cronogramas, seguimiento físico, análisis de desvíos, replanificación e integración de la información de plazos.
-
--   ### Proyectos de Ingeniería
-    <img src="/assets/images/icon-architect.webp" alt="Ícono de proyectos de ingeniería" class="bd-icon" />
-    Desarrollo, revisión, compatibilización y soporte técnico para proyectos de ingeniería y su información asociada.
-
+<div class="bd-field-stats" markdown>
+<div class="bd-field-stat"><strong>OBRA</strong><span>registros, evidencias y conformidad</span></div>
+<div class="bd-field-stat"><strong>DOCUMENTOS</strong><span>clasificación, revisión y trazabilidad</span></div>
+<div class="bd-field-stat"><strong>PLANIFICACIÓN</strong><span>plazos, desviaciones e información de ejecución</span></div>
+<div class="bd-field-stat"><strong>DATOS</strong><span>automatización, interoperabilidad y openBIM</span></div>
 </div>
 
+<section class="bd-field-section" id="servicios" markdown>
+
+<div class="bd-field-section__intro" markdown>
+<p class="bd-kicker">QUÉ ENTREGAMOS</p>
+
+## Cinco frentes. Un único hilo de información.
+
+Cada frente resuelve un problema específico del proyecto o de la obra. Juntas conectan lo previsto, lo ejecutado, lo registrado y lo que todavía requiere una decisión.
 </div>
 
-<div class="bd-section" markdown id="tecnologia">
+<div class="bd-service-stack" markdown>
 
-<p class="bd-eyebrow bd-accent">TECNOLOGÍA AL SERVICIO DE LA INGENIERÍA</p>
+<div class="bd-service-row" markdown>
+<div class="bd-service-row__no">01 / SUPERVISIÓN</div>
 
-## Mejorar el proceso sin imponer otro proceso
+### La obra observada con criterio técnico.
 
-Brasidata desarrolla y aplica tecnología propia para reducir trabajo manual, conectar información y hacer más utilizable el conocimiento técnico. La tecnología entra donde ayuda; el trabajo de ingeniería sigue en el centro.
-
-<div class="grid cards bd-cards-4" markdown>
-
--   ### Automatización
-    <img src="/assets/images/icon-connection.png" alt="Ícono de automatización" class="bd-icon" />
-    Integración de archivos, hojas de cálculo, documentos y sistemas para reducir recarga manual y tareas repetitivas.
-
--   ### Inteligencia Artificial
-    <img src="/assets/images/icon-think.png" alt="Ícono de inteligencia artificial" class="bd-icon" />
-    IA aplicada a lectura, clasificación, consulta y apoyo a la ejecución de tareas técnicas, con validación humana cuando sea necesaria.
-
--   ### Datos estructurados
-    <img src="/assets/images/icon-standard.png" alt="Ícono de datos estructurados" class="bd-icon" />
-    Información organizada para ser encontrada, relacionada, auditada y consumida por personas, scripts y agentes.
-
--   ### Interoperabilidad
-    <img src="/assets/images/icon-audit.png" alt="Ícono de interoperabilidad" class="bd-icon" />
-    Estándares abiertos, BIM y otras tecnologías se utilizan como medios para conectar información, sin dependencia obligatoria de una plataforma específica.
-
+Seguimiento de campo, registros de ejecución, pendientes, conformidad y apoyo a mediciones y aceptación. El objetivo es transformar la inspección en evidencia utilizable, no solo en otro informe archivado.
 </div>
 
+<div class="bd-service-row" markdown>
+<div class="bd-service-row__no">02 / AUDITORÍA</div>
+
+### Lo que no cuadra debe quedar visible.
+
+Revisión independiente de documentos, datos, requisitos y entregables técnicos. Las inconsistencias, lagunas y desviaciones se organizan para facilitar decisiones, correcciones y responsabilidad técnica.
 </div>
 
-<div class="bd-section" markdown id="target-audience">
+<div class="bd-service-row" markdown>
+<div class="bd-service-row__no">03 / DOCUMENTOS</div>
 
-## Con quién trabajamos
+### La información técnica no debería depender de la memoria de alguien.
 
-<div class="grid cards bd-cards-4" markdown>
+Inventario, clasificación, registro, control de revisiones, metadatos y estructuración de archivos técnicos. Carpetas, hojas de cálculo, GED y CDE pueden seguir existiendo: Brasidata organiza la información para que pueda encontrarse y relacionarse.
+</div>
 
--   ### Contratantes y Operadores
-    <img src="/assets/images/icon-goverment.png" alt="Ícono de contratantes" class="bd-icon" />
-    Organizaciones que necesitan controlar contratos, obras, documentos e información técnica con trazabilidad.
+<div class="bd-service-row" markdown>
+<div class="bd-service-row__no">04 / PLANIFICACIÓN</div>
 
--   ### Empresas de Ingeniería y Construcción
-    <img src="/assets/images/icon-operation.png" alt="Ícono de empresas de ingeniería" class="bd-icon" />
-    Equipos que necesitan ejecutar, controlar y entregar información técnica con menos trabajo manual.
+### El plazo conectado con lo que realmente sucede.
 
--   ### Proyectistas y Coordinadores
-    <img src="/assets/images/icon-architect.webp" alt="Ícono de proyectistas" class="bd-icon" />
-    Profesionales que necesitan organizar entregables, revisiones, interfaces e información entre disciplinas.
+Estructuración y revisión de cronogramas, seguimiento físico, análisis de desviaciones y replanificación. Documentos, registros y ejecución pueden vincularse a las actividades para reducir la distancia entre planificación y obra.
+</div>
 
--   ### Equipos de Planificación e Información
-    <img src="/assets/images/icon-plan.png" alt="Ícono de planificación e información" class="bd-icon" />
-    Equipos responsables de cronogramas, documentación técnica, datos, controles y apoyo a la decisión.
+<div class="bd-service-row" markdown>
+<div class="bd-service-row__no">05 / INGENIERÍA</div>
 
+### Diseño, revisión y coordinación con información asociada.
+
+Desarrollo y revisión técnica de proyectos, coordinación entre disciplinas y soporte técnico. BIM y los estándares abiertos se utilizan cuando aportan valor al proceso, no como requisito artificial.
 </div>
 
 </div>
 
-<div class="bd-section bd-cta" markdown>
+</section>
 
-## Ingeniería primero. Tecnología donde realmente ayuda.
+<section class="bd-field-section" id="evidencias" markdown>
 
-Conozca las áreas de actuación de Brasidata o hable con nosotros sobre un alcance específico.
+<div class="bd-field-section__intro" markdown>
+<p class="bd-kicker">DEL CAMPO AL DATO</p>
 
-<a href="/es/services/" class="md-button md-button--primary" data-umami-event="home-services-bottom-es">Ver servicios</a>
-<a href="/es/contact/" class="md-button" data-umami-event="home-contact-bottom-es">Hablar con Brasidata</a>
+## No se trata de producir más archivos. Se trata de poder usar los que ya existen.
+
+La información técnica suele estar dispersa entre planos, hojas de cálculo, PDF, fotos, cronogramas, modelos y mensajes. El trabajo consiste en transformar ese conjunto en contexto para ingeniería.
+</div>
+
+<div class="bd-evidence-grid" markdown>
+<div class="bd-evidence-card" markdown>
+<span>CAMPO</span>
+
+### Evidencia vinculada a lo inspeccionado
+
+Fotos, registros, pendientes y observaciones organizados para entender dónde, cuándo y por qué se produjo cada información.
+</div>
+
+<div class="bd-evidence-card" markdown>
+<span>DOCUMENTACIÓN</span>
+
+### Contenido identificado antes de automatizarlo
+
+La clasificación y los metadatos ayudan a responder qué es cada archivo, a qué se refiere, qué revisión es válida y cómo se relaciona con el resto del proyecto.
+</div>
+
+<div class="bd-evidence-card" markdown>
+<span>PLANIFICACIÓN</span>
+
+### Cronograma con contexto técnico
+
+Las actividades pueden conectarse con documentos, evidencias, requisitos y elementos de proyecto para que el plazo deje de ser una línea aislada en una hoja de cálculo.
+</div>
+
+<div class="bd-evidence-card" markdown>
+<span>ENTREGA</span>
+
+### Información que sigue siendo utilizable después del contrato
+
+Estructuras abiertas, formatos interoperables y documentación del proceso reducen la dependencia de un software, proveedor o persona concreta.
+</div>
+</div>
+
+</section>
+
+<section class="bd-field-section" id="metodo" markdown>
+
+<div class="bd-field-section__intro" markdown>
+<p class="bd-kicker">CÓMO TRABAJAMOS</p>
+
+## Del diagnóstico a la información utilizable.
+
+El proceso parte de la realidad del cliente. No es necesario reconstruir toda la operación para empezar.
+</div>
+
+<div class="bd-method" markdown>
+<div class="bd-method-step" markdown>
+<span class="bd-method-step__no">01</span>
+
+### Diagnóstico
+
+Entender documentos, herramientas, responsabilidades, requisitos y los puntos donde se pierde información.
+</div>
+<div class="bd-method-step" markdown>
+<span class="bd-method-step__no">02</span>
+
+### Estructuración
+
+Definir organización, metadatos, relaciones, criterios de verificación e interfaces entre personas y sistemas.
+</div>
+<div class="bd-method-step" markdown>
+<span class="bd-method-step__no">03</span>
+
+### Ejecución
+
+Aplicar supervisión, auditoría, planificación, ingeniería o gestión documental, incorporando automatización donde realmente reduzca esfuerzo.
+</div>
+<div class="bd-method-step" markdown>
+<span class="bd-method-step__no">04</span>
+
+### Continuidad
+
+Entregar registros, datos y estructuras que el equipo pueda seguir usando, auditando y ampliando.
+</div>
+</div>
+
+</section>
+
+<section class="bd-platform" id="infobim" markdown>
+
+<p class="bd-kicker">INFOBIM · TECNOLOGÍA BRASIDATA</p>
+
+## La información se abre en el navegador y sigue siendo suya.
+
+Cuando el alcance necesita una capa digital, Brasidata utiliza InfoBIM para conectar documentos, modelos, cronogramas y otros datos técnicos en una interfaz simple. El objetivo no es sustituir el ecosistema del cliente, sino crear contexto entre informaciones que normalmente permanecen aisladas.
+
+<div class="bd-platform__tags">
+<span>IFC / openBIM</span><span>documentos</span><span>cronogramas</span><span>metadatos</span><span>HTML</span><span>formatos abiertos</span>
+</div>
+
+<div class="bd-field-actions" markdown>
+<a href="/es/infobim/" class="md-button md-button--primary" data-umami-event="home-infobim-es">Conocer InfoBIM</a>
+<a href="/es/document-management/" class="md-button" data-umami-event="home-docs-es">Gestión documental</a>
+</div>
+
+</section>
+
+<section class="bd-field-section" id="por-que" markdown>
+
+<div class="bd-field-section__intro" markdown>
+<p class="bd-kicker">POR QUÉ BRASIDATA</p>
+
+## Ingeniería primero. Herramientas después.
+</div>
+
+<div class="bd-reason-grid" markdown>
+<div class="bd-reason-card" markdown>
+### Proceso real antes que plataforma
+
+La solución parte de cómo funcionan realmente la obra y el equipo, incluso en entornos que todavía dependen de PDF, Excel, CAD y registros de campo.
+</div>
+<div class="bd-reason-card" markdown>
+### Tecnología sin dependencia forzada
+
+Automatización, IA, BIM y software son medios. Siempre que sea posible, la información permanece accesible mediante formatos abiertos y reutilizables.
+</div>
+<div class="bd-reason-card" markdown>
+### Trazabilidad para revisión
+
+El trabajo se estructura para que decisiones, evidencias, revisiones y relaciones puedan comprobarse después, por personas o sistemas.
+</div>
+<div class="bd-reason-card" markdown>
+### Integración en lugar de sustitución
+
+Brasidata puede trabajar sobre la pila tecnológica existente del cliente, conectando carpetas, hojas de cálculo, documentos, modelos y sistemas sin exigir una migración total para empezar.
+</div>
+</div>
+
+</section>
+
+<section class="bd-field-cta" markdown>
+
+## ¿Demasiada información y demasiado poco contexto?
+
+Muestre el problema real: una obra, un archivo técnico, un cronograma, un conjunto de entregables o un proceso que hoy depende de trabajo manual para funcionar.
+
+<div class="bd-field-actions" markdown>
+<a href="/es/contact/" class="md-button md-button--primary" data-umami-event="home-contact-bottom-es">Hablar con Brasidata</a>
+<a href="/es/services/" class="md-button" data-umami-event="home-services-bottom-es">Ver todos los servicios</a>
+</div>
+
+</section>
 
 </div>
